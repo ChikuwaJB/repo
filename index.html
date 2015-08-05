@@ -1,0 +1,526 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML  4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html><head><title>mp3DirectCut User Manual</title></head>
+<style type="text/css">
+body {margin:40px; padding:0 0 0 0; background-color:#f4fbff; font-size:80%;}
+* {font-family:Arial,Geneva,Verdana,Helvetica,sans-serif; color:#000000; font-size:1.0em;}
+h1 {font-size:3.0em; font-weight:bold; margin-bottom:0px; margin-top:30px;}
+h2 {font-size:1.4em; font-weight:bold; margin-bottom:40px; margin-top:50px; background-color:#d4dbdf; padding:4px 20px; width:90%}
+h3 {font-size:1.2em; font-weight:bold; margin-bottom:0px; margin-top:30px; margin-left:30px;}
+h4 {font-size:1.2em; font-weight:bold; margin:0px;}
+p {text-align:justify; margin-bottom:10px; margin-top:14px; width:80%; margin-left:80px;}
+p.note {border: 2px solid #d4dbdf; padding:6px; width:70%; margin-left:100px;}
+ul {list-style-type:square; margin-left:100px; margin-top:10px; margin-bottom:20px;}
+a {text-decoration:underline; color:#305070}
+a:hover {text-decoration:underline;}
+table {margin-left:60px; margin-bottom:20px; margin-top:10px; border:0px; border-collapse:collapse;}
+td {padding:2px 20px; vertical-align:top;}
+pre {margin-left:80px;}
+span {background-color:#d0d0d0;}
+</style>
+</head>
+<body>
+		
+<h1>mp3DirectCut</h1>
+<h4>Version 2.x - User Manual</h4>
+<h2>Contents</h2>
+<table>
+<tr>
+<td><a href="#what">Introduction</a><br>
+</td></tr><tr>
+<td><a href="#quick">Quick guides</a><br>
+</td></tr><tr>
+<td><a href="#basic">Basic settings</a><br>
+</td></tr><tr>
+<td><a href="#nav">Navigation</a><br>
+</td></tr><tr>
+<td><a href="#edit">Audio editing</a><br>
+</td></tr><tr>
+<td><a href="#pre">Prelisten and save</a><br>
+</td></tr><tr>
+<td><a href="#spc">Pause detection</a><br>
+</td></tr><tr>
+<td><a href="#rec">Recording</a><br>
+</td></tr><tr>
+<td><a href="#fea">More features</a><br>
+</td></tr><tr>
+<td><a href="#prj">Project files</a><br>
+</td></tr><tr>
+<td><a href="#key">Keyboard shortcuts</a><br>
+</td></tr><tr>
+<td><a href="#clp">Command line options</a><br>
+</td></tr>
+</table>
+
+<a name="what"></a>
+<h2>Introduction</h2>
+<p>
+mp3DirectCut is a <b>frame based</b> editor for <b>MPEG audio</b> (Layers 2 and 3) and <b>AAC</b>. Frame based means:
+Instead of pcm samples you work on the encoded frame structure. One frame alway keeps a defined number of samples.
+You can cut, copy, paste or change the volume <b>without re-encoding</b> anything. This makes mp3DirectCut very fast and
+prevents loss of audio quality. The program provides <b>easiest navigation</b> even on large files (up to 4GB) and gives you
+a fast <b>visualisation</b> of the compressed audio data. It can handle <b>Cue sheets</b> allowing to split a file at cue
+positions. Additionally you can directly <b>record and encode</b> to MP3 from your audio input devices.
+</p>
+
+<a name="quick"></a>
+<h2>Quick guides</h2>
+<h3>General usage</h3>
+<p>
+Open a file: <i>File > Open</i>, or use Drag+drop. Prelisten with <span>&nbsp;Play&nbsp;</span> / <span>&nbsp;Stop&nbsp;</span>
+or Spacebar. Navigate through track: Cursor left/right, Page up/down, Mousewheel, click into map area (below audio graph),
+Scrollbar, or Ctrl+click into graph.
+</p>
+<h3>Cutting a part of audio</h3>
+<p>
+Where the part to be removed begins: drag the selection start with the left mouse button in the audio graph, or press
+<span>&nbsp;Set begin&nbsp;</span> or B to set the selection beginning to the yellow play position. Where the cut shall end click/drag
+with the right mouse button in the graph, or press <span>&nbsp;Set end&nbsp;</span> or N. To prelisten the cut press
+<span>&nbsp;=&gt;I...I=&gt&nbsp;</span>. Adjust the selection with the right mouse button or the keys 1-4. To cut press the
+<span>&nbsp;Cut/Cue&nbsp;</span> button in the lower panel or the Del key. Use normal play to control the Cut.
+Save the file: <i>File > Save all audio</i>.
+</p>
+<h3>Extracting a part of audio</h3>
+<p>
+Where the part shall begin: make a selection by dragging with the left mouse button in the audio graph, or press
+<span>&nbsp;Set begin&nbsp;</span> or B to set the selection beginning to the yellow play position. At the end of the wanted part
+click/drag with the right mouse button, or press <span>&nbsp;Set end&nbsp;</span> or N. To prelisten the range use the buttons
+<span>&nbsp;I=&gt;..&nbsp;</span> and <span>&nbsp;..=&gt;I&nbsp;</span> or the keys F6 and F7. Adjust the selection with the
+right mouse button or the keys 1-4. Save the selected range: <i>File > Save selection</i>.
+</p>
+<h3>Split into multiple files</h3>
+<p>
+At a desired split position add a point selection: only click (not drag) with the left mouse button into the audio graph. To create the
+split point press <span>&nbsp;Cut/Cue&nbsp;</span> in the lower panel or the Del key. <b>All split points must show a dotted line!</b>
+(If for some reason the line is not dotted: highlight the point by placing the yellow play position after it, press Ctrl+Q to set the "Cue flag".)
+Adjust a split point by dragging the gray handle with the right mouse button. To jump to a split point press
+<span>&nbsp;&gt;I&nbsp;</span> or <span>&nbsp;I&lt;&nbsp;</span>. To load a Cue sheet (a file which contains split points), open
+the cue sheet file, not the audio file. If the program does not find the audio file for a Cue sheet, open the audio file and then select
+<i> Special > Load Cue sheet over current audio file</i>. To split the track select <i>File > Save split</i>.
+</p>
+<h3>Fade in/out</h3>
+<p>
+At the end of the wanted fade-in-range create a point selection: only click (not drag) with the left mouse button into the audio graph.
+The selection must be a dotted line! Press <span>&nbsp;Cut&nbsp;</span>. With the left mouse button drag the gray handle at the
+track beginning from 0.0 down to e.g. -48.0 dB. Play from the track beginning with <span>&nbsp;Rew&nbsp;</span> and
+<span>&nbsp;Play&nbsp;</span>. Same procedure for fade out: create a point some seconds before the end of the track, drag the
+gray handle at the track end. You can always adjust the points by dragging the handle (left mouse button = volume, right = position).
+You can also use multiple points for complex fade curves. On AAC or MP2 gain adjustment is not possible.
+</p>
+<h3>Add, move, remove a Cue</h3>
+<p>
+Add a cue/index: Click once (not drag!) into the audio where the cue shall be. If the vertical line is dotted (means cue),
+press Del. Note: Mouse selection method should be the default: "Left=new+drag / Right=Nearest" - see settings. Move a
+cue: Drag the gray small handle of a dotted line with the right mose button. Remove a cue: Hightlight it by moving the
+play cursor behind it, press E. Convert to a cue: Hightlight the edit point by moving the play cursor behind it, press Ctrl+Q
+</p>
+
+
+
+<a name="basic"></a>
+<h2>Basic settings</h2>
+<p>
+To play files, the program uses a decoder library. For <b>MP3</b> this usually is the system provided <b>ACM Codec</b>
+(Windows since XP contains it by default). The <b>mpglib.dll</b> can be used for <b>MP2</b> playing and alternatively for MP3.
+It must be in the program folder or system path (e.g. Windows folder). For <b>AAC</b> play you need the free <b>libfaad2.dll</b>
+(also working: a renamed ff_libfaad2.dll from ffdshow) in the program folder or system path. The libfaad2.dll needs the MSVC 9.0 runtimes.
+</p><p>
+Switch to your prefered MP3 decoder in the Devices settings (Settings > Configure > Devices). In the Output device section you can
+select a Wave device and adjust the amount of frames being decoded to each play buffer between "fast" (1 frame) and "reliable"
+(8 frames). On slower machines set a higher value. For a fast response of the graphics select a lower value. The default is 4.
+</p><p>
+The program <b>language</b> can be adjusted in the Operation Tab (Settings > Configure > Operation). In the list select
+your language if present. The language files must be in a sub directory "Languages" of the mp3DirectCut folder. If no
+language is selected or found, the program looks also into its own folder for one (!) language file. So you also can enable
+your language without keeping the subfolder (but then it does not appear in the list).
+</p><p>
+<b>Fullscreen view</b> is not recommended. It takes more CPU - without information benefit,
+as the resolution of the mpeg graph is much lower than the display resolution on fullscreen.
+</p>
+
+<a name="nav"></a>
+<h2>Navigation</h2>
+<p>
+As mp3DirectCut is designed to handle large files, there are many ways to reach a position:
+</p><p>
+<b>Scrollbar</b><br>
+With the slider you can move along a file. The arrow buttons (or <b>keys:</b> Shift+Left/Right)
+move a single MPEG frame backwards or forward.
+</p><p>
+<b><span>&nbsp;&lt;&lt;&lt;&nbsp;</span> <span>&nbsp;&lt;&lt;&nbsp;</span> <span>&nbsp;&gt;&gt;&nbsp;</span>
+<span>&nbsp;&gt;&gt;&gt;&nbsp;</span> and keys: Left/Right and Page up/down</b><br>
+These buttons/keys are user definable. You can set the amount of frames to skip back/forward
+in the configuration window between 10 and 10.000 for <span>&nbsp;&lt;&lt;&lt;&nbsp;</span> and
+<span>&nbsp;&gt;&gt;&gt;&nbsp;</span> and between 1 and 1.000 for <span>&nbsp;&lt;&lt;&nbsp;</span>
+<span>&nbsp;&gt;&gt;&nbsp;</span>. For 44 kHz tracks, 38 frames means about 1 second, 383 skip 10 seconds.
+</p><p>
+<b>Mouse wheel</b><br>
+No key: slow scroll, Shift: fast scroll, Ctrl: zoom, Shift+Ctrl: volume.
+</p><p>
+<b>Mouse into map</b><br>
+You can directly jump to any file position by left clicking into the map area below the audio graph.
+</p><p>
+<b>Ctrl+Mouse</b><br>
+If you hold down the Ctrl key while clicking into the audio graph the cursor jumps to the shown audio position.
+</p><p>
+<b><span>&nbsp;I..&lt;&lt;&nbsp;</span> <span>&nbsp;>>..I&nbsp;</span></b><br>
+These buttons set the play cursor to the beginning or the end of the selection if present.
+</p><p>
+<b>List Menu and <span>&nbsp;I&lt;&nbsp;</span> <span>&nbsp;>I&nbsp;</span></b><br>
+Let you choose the active edit point and set the play cursor to it's beginning.
+</p><p>
+<b>Position field</b><br>
+You can enter a position by time or percentage into the edit field and apply the value by pressing Enter or Tab.
+</p>
+
+<a name="edit"></a>
+<h2>Audio editing</h2>
+<h3>General</h3>
+<p>
+Editing a file or compilation of file fragments means to create different <b>parts</b> of audio content.
+Each time you cut or set a cue/gain point, your track will be devided into more parts. Every edit point
+is the beginning of a new part. Each part together with its function is shown in the <b>List</b> menu.
+</p><p>
+Like in other editors, editing begins by making a <b>selection</b>. A selection can be an audio <b>range</b> or only
+a single <b>position point</b> (dotted line). Ranges can be used to cut, copy or paste. A point selection is for creating
+cues or points of volume change.
+</p>
+<h3>Make a selection</h3>
+<p>
+You have these ways:
+</p><p>
+<b>Buttons <span>&nbsp;Set begin&nbsp;</span> and <span>&nbsp;Set end&nbsp;</span></b><br>
+These buttons set the beginning or the end of the selection to the current position.
+</p><p>
+<b>Mouse</b><br>
+You can point/drag a selection by using the left and the right mouse button. How the buttons behave can be set in the
+preferences: <b>Method 1:</b> Left button sets the beginning of the selection (by clicking or dragging), the right button
+sets the end. <b>Method 2:</b> Left button makes a new selection and enlarges it. The right button moves beginning or
+end (depending on which is nearer).
+</p><p class="note">
+Note: to make a large selection you should at first point to one end of the selection and then jump to where the other end should
+be and set it there. It is not possible to drag a long selection by moving the mouse over the windows borders.
+</p><p>
+<b>Selection field</b><br>
+You can enter beginning, end or length of the selection
+by numbers. Take care not to delete the symbols, otherwise
+the values cannot be read from the field correctly.
+</p>
+<h3>Part structure</h3>
+<p>
+At each edit point an independent audio part begins. Parts can even be
+from <b>different audio files</b>. Each part can have information about a <b>volume
+change</b> or whether it is a <b>cue</b>.
+</p><p>
+If you <b>cut</b> a selection the range disappears and is not longer known by
+the program. But an edit point remains at the cut position and you can <b>restore</b>
+the cut range every time by using the edit button.
+</p>
+<h3>The buttons <i>Cut</i> and <i>Edit</i></h3>
+<p>
+The <b>Cut</b> button splits the current audio part into two parts.
+If there was a selection range, it will be cut. If the selection
+had a length of zero, the Cut function only splits the part. The split point
+can be used to create a volume change (see below) point or a cue.
+</p><p>
+If a split point should work as a cue (e.g. for creating a Cue sheet),
+its <b>cue flag</b> must be set. The program sets it automatically on creating a split point
+or loading a Cue sheet. Edit points with cue flag are shown as <b>dotted line</b>. To set
+or remove a cue flag manually, press Ctrl+Q or check/uncheck "Cue" in the part
+properties dialog (Edit menu).
+</p><p>
+With the <b>Edit</b> button you can <b>remove existing edit points</b>. This
+means that two parts will be joined. If the edit point was a cut, the removed
+audio range will be restored.
+</p><p class="note">Note: editing a point is not possible,
+if it was created by paste. In this case the audio data between two parts
+is not continouus and there is nothing to restore. To remove such insertions
+select them and use the function "Remove selected elements" in the Edit menu.
+</p>
+<h3>Edit menu: Cut, Copy, Paste</h3>
+<p>
+While the Cut button does <b>not</b> copy the cut range to the clipboard,
+Cut and Copy from the Edit menu do. The copied information can be pasted
+to any new position (current or selection). Copy and Paste can handle multiple files
+and parts and work completely non-destructive. This means that no audio data
+is copied but only access informations.
+</p>
+<h3>Volume changes</h3>
+<p>
+To change the volume, simply create one or more edit points (from zero length selections, see above).
+Then you can directly change the gain by dragging the <b>gray handles</b> with the
+<b>left mouse button</b>. Alternatively the gain of the highlighted edit point can be changed
+by the keys <b>Ctrl+Up/Down</b>. To move an edit point, drag it with the <b>right mouse button</b>.
+</p><p>
+Audio ranges with a modified volume are shown in the color of edit points.
+The gain sign of the edit point shows the volume change in dB.
+</p><p class="note">Note: Volume change works only with MP3.
+As the data remains encoded, volume changes can only be made in a resolution of 1.5 dB steps. 
+Gain adjustment on AAC or MP2 is not possible.
+</p><p>
+Using the <b>Gain dialog</b> is only recommended for special purposes like silencing an area or for setting
+the <b>"Lowest gain"</b>, which is also used by <b>Simple fade</b>, <b>Two-stage fade</b> and <b>Auto crop</b>.
+<b>"Lowest gain"</b> can also be set in the configuration dialog. <b>Fades</b> should be be created by manually
+dragging edit points or with the <b>Simple fade</b> or <b>Two-stage fade</b> functions.
+</p>
+<h3>Change or remove existing edit points</h3>
+<p>
+For simply moving a cue or volume change point, drag it with the <b>right mouse button</b>
+(or use Alt+Left/Right for the highlighted point).
+</p><p>
+To edit an existing cut, move to its position to highlight it.
+After pressing <span>&nbsp;Edit&nbsp;</span> the cut range or the split point will become the
+selection and will be deleted. After changing positions hit <span>&nbsp;Cut&nbsp;</span> again to store
+the changes in the new cut. If the edit point had title names or a volume change, these
+data will be kept with the selection and also stored to the new cut.
+</p><p>
+The <b>Trim</b> function allows directly changing the boundaries of an existing cut
+without converting it to a selection. With the keys <b>Ctrl+1/2/3/4</b> you can shift
+audio data on the left or right side of the cut in or out.
+</p>
+
+<a name="pre"></a>
+<h2>Prelisten and save</h2>
+<p>
+Normal play already is a prelisten mode because every cut and every gain modification is played as it will be
+saved. In addition there are some buttons to prelisten the selection boundaries:
+</p><p>
+<b><span>&nbsp;=&gt;I..&nbsp;</span></b> or F5 - play region* <b>to</b> the selection <b>beginning</b><br>
+<b><span>&nbsp;I=&gt;..&nbsp;</span></b> or F6 - play region* <b>from</b> the selection <b>beginning</b><br>
+<b><span>&nbsp;..=&gt;I&nbsp;</span></b> or F7 - play region* <b>to</b> the selection <b>end</b><br>
+<b><span>&nbsp;..I=&gt;&nbsp;</span></b> or F8 - play region* <b>from</b> the selection <b>end</b><br>
+</p><p>
+<b><span>&nbsp;=&gt;I...I=&gt;&nbsp;</span></b> or F9: play the selection <b>as cut</b> (region* before and after the selection)
+</p><p>
+To play the selection <b>looped</b> press F4.
+</p><p>
+* The prelisten time can be adjusted in the Settings dialog. Default is two seconds.
+</p><p>
+In play mode, two of the prelisten buttons change their function to provide <b>Fast Play</b>.
+The buttons show the symbols <b><span>&nbsp;&gt;&gt;&nbsp;-&nbsp;</span></b> and
+<b><span>&nbsp;&gt;&gt;&nbsp;+&nbsp;</span></b> and can be used to adjust the
+speed of Fast Play in small steps. For faster operation it's recommended to use F7 and F8.
+</p><p>
+<b>Save complete audio...</b> saves the complete shown audio data as edited.<br>
+<b>Save selection...</b> saves or only the range of the selection.<br>
+<b>Save split...</b> creates seperate files for every range <b>between two cues</b>.
+</p><p class="note">
+Note: You should check the output file(s) before deleting the original.
+</p>
+
+<a name="spc"></a>
+<h2>Pause detection</h2>
+<p>
+This function sets cues or cuts to gaps of definable length and level. The settings must be adjusted carefully
+because the results can be very different.
+</p><p>
+The <b>Level</b> and the <b>Duration</b> sliders adjust at which audio level and gap
+duration thresholds a pause will be detected.
+<b>Offset</b> is the number of frames at the pause end which the cue will be shifted to the left or right.
+<b>Cut whole pause</b> means that not only a cue at the pause end will be created
+but a cut over the whole pause (beginning of cut slightly right shifted) if the pause is long enough.
+Don't use the Cut option when you want to create only a Cue sheet!
+</p><p>
+The value of <b>"After a pause detection skip"</b> can be used to speed up
+the detection process. If a pause is found, the program jumps further the entered
+amount of seconds. E.g. if you know that all of the tracks of your CD image are
+3 minutes or longer, you could set this value to 150 seconds.
+</p>
+
+<a name="rec"></a>
+<h2>Recording</h2>
+<p>
+For recording MP3 directly, you need either an ACM Codec with encoding capability
+or the Lame Encoder DLL (available through the homepage of the Lame project). It is
+important to choose a <b>base filename</b>. Your recordings will be saved under this name.
+Note that there will be no query for overwriting existing files! If you select <b>Add date & time</b>
+each recorded file will have a date and time stamp in its filename.
+</p><p>
+To initialize recording, press <span>&nbsp;Rec&nbsp;</span>. Then you can see the audio input level on the VU meter.
+After pressing <span>&nbsp;Play&nbsp;</span> the file starts being written. With selected <b>Append data</b>
+in the recording settings an existing file will not be deleted and you can make multiple recordings
+to one file. But take care not to use different bitrates or samplerates in one file. On <b>appending
+in VBR mode</b> you will only see the time of the current recording in <b>round brackets</b>.
+</p><p>
+While the recording you can set up to 40 cues by pressing <span>&nbsp;Set begin&nbsp;</span>. The number
+and position of the last cue is shown in the range field.
+</p><p>
+The value of <b>Buffer</b> shows how much data is waiting to be encoded by the codec. If it grows,
+the codec is not fast enough to encode MP3 in realtime. The unencoded buffer portion should not be
+over 10% for more than some seconds. On modern systems it should be always 0%.
+</p><p>
+If you launch mp3DirectCut with <b>"/rec"</b> in the command line, it will start the recording
+immediately with the encoding settings of your last session. You can use this option for automated
+recordings. See more under Command line options.
+</p>
+
+<a name="fea"></a>
+<h2>More features</h2>
+<p>
+The <b>Margin</b> button shows the room between the highest gain and the
+maximum of 0 dB since play or record was started. It helps to see how much
+gain reserve is left e.g. when you record something.
+Pressing the button resets the display to seek for the next lowest margin.
+</p><p>
+The <b>Normalize</b> function seeks the whole file (or the selection) for the highest gain.
+If there is room to the maximum of 0 dB, it suggests the corresponding gain raise. Scanning
+the file may be slow, because for searching peaks it must be temporarily decoded.
+Gain adjustment is not possible on AAC or MP2.
+</p><p>
+<b>Auto cue</b> lets you split large tracks into small segements of the same length.
+This is especially useful for listening to long tracks (e.g. audio books) on hardware
+players with missing or slow seek capability. Auto cue affects either the whole file, if
+nothing was selected, or just the selection. After setting the cues you can call "Save split..."
+and choose a destination for writing the file series.
+</p><p>
+<b>Auto crop</b> removes silences at the beginning and the end of the track automatically.
+The silence ("lower") level can be adjusted in the <b>Gain dialog</b> (select a range before calling).
+The accuracy of the function cannot be guaranteed. You should check the result before saving.
+</p>
+
+<a name="prj"></a>
+<h2>Project files and Cue Sheets</h2>
+<p>
+An mp3DirectCut project file (*.mpd) contains a complete edit state
+with every part and their volume, cut and cue informations.
+If you work with large files and make a lot of cuts you should frequently save
+your work to a project file.
+</p><p>
+Cue Sheets (*.cue) contain a link to an audio file and time indexes (cues).
+Cuts and gain settings cannot be saved to a Cue sheet.
+A Cue sheet can't even be saved if the audio file has been edited in the length
+at the same time.
+When loading a cue sheet the program reads titles and artist
+names and shows them in the graph area. If you split a file
+by using a Cue sheet you can create filenames with titles and
+ID3v1.1 tags for each file.
+</p>
+
+<a name="key"></a>
+<h2>Keyboard shortcuts</h2>
+<p>
+<table>
+<tr><td><b>Page up/down</b></td><td>Move back/forward defineable large step (&lt;&lt;&lt; / &gt;&gt;&gt;)</td></tr>
+<tr><td><b>Arrow left/right</b></td><td>Move back/forward defineable small step (&lt;&lt; / &gt;&gt;&gt;)</td></tr>
+<tr><td><b>Arrow up/down</b></td><td>Jump to beginning/end of selection</td></tr>
+<tr><td><b>Ctrl+Left/Right</b></td><td>Jump to previous/next part</td></tr>
+<tr><td><b>Home</b></td><td>Jump to track beginning</td></tr>
+<tr><td><b>End</b></td><td>Jump to track end</td></tr>
+<tr><td><b>Shift+Left/Right</b></td><td>Move one frame backwards/forward</td></tr>
+<tr><td><b>Shift+Up/Down</b></td><td>Zoom in/out</td></tr>
+<tr><td><b>Space</b></td><td>Play/Stop</td></tr>
+<tr><td><b>Ctrl+Up/Down</b></td><td>Change gain of current edit point</td></tr>
+<tr><td><b>Delete or C</b></td><td>Cut</td></tr>
+<tr><td><b>P</b></td><td>Play</td></tr>
+<tr><td><b>S</b></td><td>Stop</td></tr>
+<tr><td><b>E</b></td><td>Delete/edit current point</td></tr>
+<tr><td><b>B</b></td><td>Set selection beginning to current position</td></tr>
+<tr><td><b>N</b></td><td>Set selection end to current position</td></tr>
+<tr><td><b>R</b></td><td>Activate recording (then start with Space)</td></tr>
+<tr><td><b>1...6</b></td><td>Selection fine adjustment</td></tr>
+<tr><td><b>Ctrl+1...4</b></td><td>Trim current point</td></tr>
+<tr><td><b>Ctrl+5/6<br>or Alt+Left/Right</b></td><td>Move current point</td></tr>
+<tr><td><b>Ctrl+D</b></td><td>Toggle play decoder (ACM/mpglib)</td></tr>
+<tr><td><b>Ctrl+J</b></td><td>Toggle keeping ID3v2 tag</td></tr>
+<tr><td><b>Ctrl+L</b></td><td>Enter selection field</td></tr>
+<tr><td><b>Ctrl+O</b></td><td>Open file</td></tr>
+<tr><td><b>Ctrl+P</b></td><td>Enter position field</td></tr>
+<tr><td><b>Ctrl+Q</b></td><td>Toggle Cue flag</td></tr>
+<tr><td><b>Ctrl+F4</b></td><td>Close file</td></tr>
+<tr><td><b>Shift+Ctrl+A</b></td><td>Auto cue</td></tr>
+<tr><td><b>Shift+Ctrl+P</b></td><td>Pause detection</td></tr>
+<tr><td><b>F4...F9</b></td><td>Prelisten (<a href="#pre">jump to chapter</a>)</td></tr>
+<tr><td><b>F7, F8</b></td><td>While play: Fast Play speed (decrease/increase)</td></tr>
+<tr><td><b>F11</b></td><td>Settings</td></tr>
+<tr><td><b>F12</b></td><td>Encoding settings</td></tr>
+<tr><td><b>Backspace</b></td><td>Margin reset</td></tr>
+</table>
+</p><p>
+More shortcuts are shown in the <b>tooltips</b> and in the <b>menus</b>.
+</p>
+
+<a name="clp"></a>
+<h2>Command line options</h2>
+<h3>Usage:</h3>
+<p>
+<i>mp3DirectCut.exe &lt;filename&gt; &lt;option(s)&gt; &lt;destination&gt;</i>
+</p><p>
+As <i>&lt;filename&gt;</i> every file type known by mp3DirectCut is possible
+(MP3, MP2, Project files, Cue sheets). Usually this is simply for a file to be opened.
+In your operating system settings you can associate mp3DirectCut to one or
+more of these file types and with different options. Then you can open the
+program easily by any file of that type. It is also possible to drag files of known
+types over mp3DirectCut.
+</p><p>
+If you use the <i>&lt;filename&gt;</i> parameter together with /rec you can set an
+individual record filename that differs from the base filename of the recording settings.
+</p><p>
+The following <b>options</b> can be used to let the program perform an action
+immediately. After finnishing, the program quits.
+</p><p class="note">Note: <b>adjustments</b> for Normalize, Auto cue, Encoder settings
+and so on cannot be given over the command line. They must be made before in the normal
+program environment.
+</p>
+<h3>Examples:</h3>
+<p><i>
+mp3DirectCut "artist - song.mp3"<br>
+mp3DirectCut track01.mp3 /normalize /overwrite<br>
+mp3DirectCut audiobook.mp3 /autocue d:\split<br>
+mp3DirectCut album.cue /split<br>
+mp3DirectCut /rec<br>
+mp3DirectCut other_recname.mp3 /rec
+</i></p>
+<h3>Options:</h3>
+<p>
+<table>
+<tr>
+<td><b>/normalize </b></td>
+<td>Normalizes the file up to 0 dB.
+Higher or lower levels cannot be set in the command line.</td>
+</tr><tr>
+<td><b>/autocue</b></td>
+<td>Splits the given file into segments of the time set in the Autocue dialog. Also for the Split operation
+the current settings from normal program usage are applied. <i>&lt;destination&gt;</i> can be an existing
+folder to save the split files to.</td>
+</tr><tr>
+<td><b>/autocrop</b></td>
+<td>Cuts silences from beginning and end of track using the <b>"Lowest gain"</b> value which can be
+set in the configuration window or in the gain dialog.</td>
+</tr><tr>
+<td><b>/split</b></td>
+<td>Needs a Cue sheet or Project file
+and splits the audio file(s). If a <i>&lt;destination&gt;</i> folder is set, the split files will be saved there.
+The other Split settings must be adjusted in the normal program environment.</td>
+</tr><tr>
+<td><b>/pausesplit</b></td>
+<td>Runs the pause detector and splits the given file at the found pause positions. For the performed
+Pause detection and Save split operations, the current settings are applied. You can change them by
+normal program usage. <i>&lt;destination&gt;</i> can be an existing folder for the result files.</td>
+</tr><tr>
+<td><b>/save</b></td>
+<td>Opens and saves the file. Simple re-save can be used to eliminate incomplete frames or
+unwanted headers.</td>
+</tr><tr>
+<td><b>/overwrite</b></td>
+<td>Replaces the original file on /save or /normalize. The current "Keep date of source file" setting is
+valid (it can be set in the program environment). If /overwrite is not set, the given file extension will be
+appended once more.</td>
+</tr><tr>
+<td><b>/rec</b></td>
+<td>Starts the recording immediately. This feature is especially made for timer recordings. In a scheduler
+usually you can also set a duration time after which the program will be terminated. For multiple timer
+recordings be sure to check <b>Add date and time</b> or <b>Append data</b> in the recording settings,
+otherwise previous recordings will be overwritten. If a filename is given before the /rec option and <b>Add
+date and time</b> or <b>Append data</b> is not (!) selected, the program records into a file of that name.</td>
+</tr><tr>
+<td><b>/localini</b></td>
+<td>Regulary the program tries to write the settings into its own folder. If this fails, e.g. because of missing
+rights, the settings are stored in the user's Application data folder. This option prevents the program from
+reading from or writing to the user profile. This may be useful in special cases, e.g. if local settings are
+needed when the program is running from a removable drive.</td>
+</tr>
+</table>
+</p>
+
+<h3> </h3><p>Copyright &copy; 2000-2014 Martin Pesch</p>
+</body>
+</html>

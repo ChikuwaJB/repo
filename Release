@@ -1,0 +1,8 @@
+Origin: ちくわ's repo
+Label: Chikuwa repo
+Suite: stable
+Version: 0.9
+Codename: tangelo
+Architectures: iphoneos-arm
+Components: main
+Description: ちくわのリポジトリ！！
