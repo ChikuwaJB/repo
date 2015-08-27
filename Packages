@@ -1,0 +1,252 @@
+Package: com.chikuwa.cacheclean
+Version: 0.1
+Section: System
+Maintainer: Chikuwa <yuko.mail.10.2@gmail.com>
+Architecture: iphoneos-arm
+Filename: ./com.chikuwa.cacheclean.deb
+Size: 2196
+MD5sum: cf6e991b3f9e00fe9de7a006d8f90c57
+Description: アイコンキャッシュを削除するだけ
+Name: icon cache cleaner
+Author: Chikuwa <yuko.mail.10.2@hogehoge.com>
+Homepage: http://webttech.werdpress.com/
+Icon: file:///var/mobile/Library/Chikuwa_Icons/com.chikuwa.cacheclean.png
+
+Package: com.chikuwa.camerasilent
+Version: 0.0.2-2
+Section: Utilities
+Maintainer: Chikuwa
+Architecture: iphoneos-arm
+Filename: ./com.chikuwa.camerasilent_0.0.2-2_iphoneos-arm.deb
+Size: 17598
+Installed-Size: 80
+MD5sum: 11b457feb1c8bf4baa150cf254f38bfd
+Description: Camera音を消します
+Name: CameraSilent
+Author: Chikuwa
+Depiction: http://yu-ki.ga/s/?deb=com.chikuwa.camerasilent
+
+Package: com.chikuwa.line
+Version: 0.1.8
+Section: Utilities
+Maintainer: Chikuwa
+Depends: wget, com.chikuwa.cacheclean
+Architecture: iphoneos-arm
+Filename: ./com.chikuwa.line.deb
+Size: 42440
+Installed-Size: 80
+MD5sum: 5e77c747cf333184a40f764ffb0c2449
+Description: LINEの非公式きせかえストア
+Name: LINEきせかえストア(Beta)
+Author: Chikuwa
+Depiction: http://yu-ki.ga/s/?deb=com.chikuwa.line
+
+Package: com.chikuwa.lineage
+Version: 0.0.2-1
+Section: Utilities
+Maintainer: Chikuwa
+Architecture: iphoneos-arm
+Filename: ./com.chikuwa.lineage.deb
+Size: 41632
+Installed-Size: 96
+MD5sum: 9323492b4e50827942717cdfe8103b6a
+Description: LINE�̔N��F�ؓ˔jTweak ios7&6�p
+Name: lineage for ios7&6
+Author: Chikuwa
+Depiction: http://yu-ki.ga/s/?deb=com.chikuwa.lineage
+
+Package: com.chikuwa.lineage8
+Version: 0.0.3
+Section: Utilities
+Maintainer: Chikuwa
+Architecture: iphoneos-arm
+Filename: ./com.chikuwa.lineage8.deb
+Size: 43310
+MD5sum: 8a498bd7b5cb5b2d5b82646b18f3c4a8
+Description: LINEの年齢認証を回避します
+Name: lineage for ios8
+Author: Chikuwa
+Depiction: http://yu-ki.ga/s/?deb=com.chikuwa.lineage
+
+Package: com.chikuwa.lineios8
+Version: 0.2.0-2
+Section: Utilities
+Maintainer: Chikuwa
+Depends: wget
+Architecture: iphoneos-arm
+Filename: ./com.chikuwa.lineios8_0.2.0-2_iphoneos-arm.deb
+Size: 42372
+Installed-Size: 104
+MD5sum: 27240e70340b7c9c23a73c4319f934c6
+Description: LINEの非公式きせかえストア.iOS8対応版
+Name: LINEきせかえストア ios8
+Author: Chikuwa
+Depiction: http://yu-ki.ga/s/?deb=com.chikuwa.lineios8
+
+Package: com.chikuwa.linej
+Version: 0.0.1-2
+Section: Utilities
+Maintainer: Chikuwa
+Architecture: iphoneos-arm
+Filename: ./LINjEctor.deb
+Size: 47012
+MD5sum: 3991388dfd74554eda94ff89d6aad868
+Description: 動くかわからない。。
+Name: LINjEctor(自己責任)
+Author: Chikuwa
+Depiction: http://yu-ki.ga/s/?deb=com.chikuwa.linej
+
+Package: com.chikuwa.power
+Version: 0.0.4
+Section: Utilities
+Maintainer: Chikuwa
+Architecture: iphoneos-arm
+Filename: ./com.chikuwa.power.deb
+Size: 21784
+Installed-Size: 80
+MD5sum: 4c92ff7bad07837317b13eece70170a1
+Description: 着せ替え可能なパワーマネジメントアプリ(Respring,SafeMode,clear icon cache)
+Name: power
+Author: Chikuwa
+Depiction: http://yu-ki.ga/s/?deb=com.chikuwa.power
+
+Package: com.chikuwa.reb00ticon
+Version: 0.0.1-2
+Section: Utilities
+Maintainer: Chikuwa
+Architecture: iphoneos-arm
+Filename: ./com.chikuwa.reb00ticon_0.0.1-2_iphoneos-arm.deb
+Size: 8610
+Installed-Size: 60
+MD5sum: 1da59814d98c0e596e2e0f7f55976b04
+Description: アイコンタップで再起動するよ！
+Name: Reb00t Icon
+Author: Chikuwa
+
+Package: com.chikuwa.respring
+Version: 0.0.1-2
+Section: System
+Maintainer: Chikuwa
+Architecture: iphoneos-arm
+Filename: ./com.chikuwa.respring_0.0.1-2_iphoneos-arm.deb
+Size: 1944
+Installed-Size: 52
+MD5sum: cd3fa92cc8788b58f8023b3770d9207c
+Description: An awesome tool of some sort!!
+Name: Respring on Terminal
+Author: Chikuwa
+Depiction: http://yu-ki.ga/s/?deb=com.chikuwa.respring
+
+Package: com.chikuwa.respringic0n
+Version: 0.0.1-1
+Section: Utilities
+Maintainer: Chikuwa
+Architecture: iphoneos-arm
+Filename: ./com.chikuwa.respringic0n_0.0.1-1_iphoneos-arm.deb
+Size: 5198
+Installed-Size: 56
+MD5sum: 36b07d714052fcfd8e865f0cec3bff43
+Description: アイコンタップでリスプリング！
+Name: Respring Ic0n
+Author: Chikuwa
+
+Package: com.chikuwa.shutd0wnic0n
+Version: 0.0.1-1
+Section: Utilities
+Maintainer: Chikuwa
+Architecture: iphoneos-arm
+Filename: ./com.chikuwa.shutd0wnic0n_0.0.1-1_iphoneos-arm.deb
+Size: 11098
+Installed-Size: 64
+MD5sum: b783ce229d99aa51c4d46ea6badf91db
+Description: An awesome application!
+Name: Shutd0wn Ic0n
+Author: Chikuwa
+
+Package: com.chikuwa.takes
+Version: 0.0.1-3
+Section: System
+Maintainer: Chikuwa
+Depends: libactivator
+Architecture: iphoneos-arm
+Filename: ./com.chikuwa.takes_0.0.1-3_iphoneos-arm.deb
+Size: 1994
+Installed-Size: 52
+MD5sum: fe6afaa8fe45c0f4cc370959e3fde417
+Description: コマンドでスクリーンショットを取ります。
+Name: Take ScreenShot command
+Author: Chikuwa
+
+Package: com.chikuwa.theospack
+Version: 2.0
+Section: System
+Maintainer: Chikuwa
+Depends: bash, grep, dpkg, coreutils, ldid, rsync, make, org.coolstar.iostoolchain ,org.coolstar.perl
+Suggests: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./theos.deb
+Size: 7733248
+MD5sum: ff125f5cdae14e2df636700336d5bf0b
+Description: Theos Pack By Chikuwa
+Name: Theos Pack by Chikuwa
+Author: Chikuwa
+
+Package: com.chikuwa.youtube
+Version: 0.1
+Section: System
+Maintainer: Chikuwa <yuko.mail.10.2@gmail.com>
+Architecture: iphoneos-arm
+Filename: ./com.chikuwa.youtube.deb
+Size: 6128
+MD5sum: a788ae8128e8ddc2e8b3a20b33564023
+Description: ようつべのブラウザー
+Name: Youtubeブラウザー
+Author: Chikuwa <yuko.mail.10.2@hogehoge.com>
+Homepage: http://webttech.werdpress.com/
+
+Package: com.chikwa.safem0deicon
+Version: 0.0.1-2
+Section: Utilities
+Maintainer: Chikuwa
+Architecture: iphoneos-arm
+Filename: ./com.chikwa.safem0deicon_0.0.1-2_iphoneos-arm.deb
+Size: 11714
+Installed-Size: 64
+MD5sum: 60f06863c9923618d7f654a8a6b2e2ea
+Description: An awesome application!
+Name: Safe M0de Icon
+Author: Chikuwa
+
+Package: com.exile90.icleanerpro
+Version: 7.4.4
+Section: Utilities
+Maintainer: Ivano Bilenchi <support@ib-soft.net>
+Pre-Depends: apt, findutils, shell-cmds
+Conflicts: org.altervista.exilecom.icleaner
+Replaces: org.altervista.exilecom.icleaner
+Architecture: iphoneos-arm
+Filename: ./iCleanerPro.deb
+Size: 2565126
+MD5sum: 047bd93b8bd5bbf477022a17280b7a43
+Description: The ultimate iPhone, iPod and iPad system cleaner & optimizer
+Name: iCleaner Pro
+Author: Ivano Bilenchi <support@ib-soft.net>
+Homepage: http://ib-soft.net/icleaner
+Depiction: http://ib-soft.net/depictions/?pkgId=com.exile90.icleanerpro
+Icon: file:///Applications/iCleaner.app/Icon.png
+
+Package: com.ott.imeplus
+Version: 1.0.0
+Section: Tweaks
+Maintainer: poetic_folly <poetic_folly@modmyi.com>
+Depends: mobilesubstrate, firmware (>= 7.0)
+Architecture: iphoneos-arm
+Filename: ./com.ott.imeplus_1.0.0_iphoneos-arm.deb
+Size: 20920
+MD5sum: fdae9c2e5be358ffe344b133bca73167
+Description: IME for Japanese flick textinput.
+Name: IMEPlus
+Author: otti_ <welcome.unknown@hotmail.co.jp>
+Homepage: http://modmyi.com/info/imeplus.php
+Depiction: http://modmyi.com/info/imeplus.d.php
+
