@@ -1,0 +1,10 @@
+{
+    entry = {
+	bundle = About;
+	cell = PSLinkCell;
+	detail = AboutListController;
+	icon = About.png;
+	isController = 1;
+	label = "SquareDots";
+    };
+}
