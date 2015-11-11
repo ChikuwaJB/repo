@@ -5,29 +5,10 @@ script_dir=$(dirname $0)
 cur=$(pwd)
 
 cd "$script_dir"
-if [ $# -eq 0 ]; then
-  echo "Usage: $0 <command>" >&2
-  exit 1
-fi
 
-if [ "$1" == "add" ]; then
-	if [ "$#" -ne 3 ]; then
-	  echo "Usage: $0 add <package> <deb file>" >&2
-	  exit 1
-	fi
-	echo "Adding new package...";
-
-	cp "$3" "$script_dir/debs/$2.deb"
-
-elif [ "$1" == "update" ]; then
-	echo "Updating packaging...";
-else
-	echo "Usage: $0 <command>" >&2
-	exit 1
-fi
 
 rm Packages.bz2
-rm Packages
+
 i=0
 for deb in debs/*.deb
 do
