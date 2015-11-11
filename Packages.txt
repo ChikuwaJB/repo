@@ -25,20 +25,20 @@ Size: 547692
 Filename: debs/com.chikuwa.appids_0.1-1_iphoneos-arm.deb
 Depiction: http://repo.chikuwajb.cf/dp/?p=com.chikuwa.appids
 
-Package: com.chikuwa.appinfo
-Name: Appinfo!?
+Package: com.chikuwa.appid
+Name: AppID
 Architecture: iphoneos-arm
-Description: Appinfo的な何か
+Description: Get app id to easyly!
 Maintainer: Chikuwa
 Author: Chikuwa
 Depends: mobilesubstrate, applist (>= 1.4.1), firmware (>= 3.0), preferenceloader
 Section: Tweak
 Version: 0.1-8
 Installed-Size: 108
-MD5sum: 746c491d9eec3019a53d733299630205
-Size: 8314
+MD5sum: e28f452b9bdf10fc5cbafc9e2eb344d4
+Size: 17602
 Filename: debs/com.chikuwa.appinfo_0.1-8_iphoneos-arm.deb
-Depiction: http://repo.chikuwajb.cf/dp/?p=com.chikuwa.appinfo
+Depiction: http://repo.chikuwajb.cf/dp/?p=com.chikuwa.appid
 
 Package: com.chikuwa.batteryiconwhilecharging
 Name: Battery Icon Only While Charging
