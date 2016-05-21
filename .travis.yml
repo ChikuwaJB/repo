@@ -1,4 +1,4 @@
-language: objective-c
+language: c
 script:
   - chmod +x repo.sh
   - ./repo.sh
