@@ -1,4 +1,4 @@
-language: c
+language: ruby
 script:
   - chmod +x repo.sh
   - export MODE="auto"
