@@ -1,6 +1,7 @@
 language: c
 script:
   - chmod +x repo.sh
+  - export MODE="auto"
   - ./repo.sh
 env:
   global:
