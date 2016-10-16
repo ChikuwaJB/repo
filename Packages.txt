@@ -1,16 +1,3 @@
-Package: com.chikuwa.linej
-Name: LINjEctor(自己責任)
-Architecture: iphoneos-arm
-Description: 動くかわからない。。
-Maintainer: Chikuwa
-Author: Chikuwa
-Section: Utilities
-Version: 0.0.1-2
-MD5sum: ec39e8e36f8bdc48d542752ca6059c39
-Size: 46986
-Filename: debs/LINjEctor.deb
-Depiction: http://repo.chikuwajb.cf/dp/?p=com.chikuwa.linej
-
 Package: com.chikuwa.betarepo
 Name: Chikuwa Beta Repository(repo.chikuwajb.cf)
 Version: 1.0
@@ -21,7 +8,7 @@ Section: Repositories
 MD5sum: 60b45cd3e7660a4951ac337dc9a7c4e0
 Size: 686
 Filename: debs/betarepo.deb
-Depiction: http://repo.chikuwajb.cf/dp/?p=com.chikuwa.betarepo
+Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikuwa.betarepo
 
 Package: com.chikuwa.camerasilent
 Name: CameraSilent
@@ -35,7 +22,7 @@ Installed-Size: 80
 MD5sum: bf6973ed748a89b72fbd86662aeb5784
 Size: 683472
 Filename: debs/cameraslient.deb
-Depiction: http://repo.chikuwajb.cf/dp/?p=com.chikuwa.camerasilent
+Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikuwa.camerasilent
 
 Package: com.chikuwa.allownestedfolders
 Name: AllowNestedFolders
@@ -50,7 +37,7 @@ Installed-Size: 101
 MD5sum: 466a69c19911aca2452237847e1480c1
 Size: 3316
 Filename: debs/com.chikuwa.allownestedfolders_0.0.1-1_iphoneos-arm.deb
-Depiction: http://repo.chikuwajb.cf/dp/?p=com.chikuwa.allownestedfolders
+Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikuwa.allownestedfolders
 
 Package: com.chikuwa.alwaysanonymouslineq
 Name: AlwaysAnonymousLINEQ
@@ -65,7 +52,7 @@ Installed-Size: 101
 MD5sum: c91f5a7635618a5ec1c9a93e99a8910f
 Size: 3612
 Filename: debs/com.chikuwa.alwaysanonymouslineq_0.0.1_iphoneos-arm.deb
-Depiction: http://repo.chikuwajb.cf/dp/?p=com.chikuwa.alwaysanonymouslineq
+Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikuwa.alwaysanonymouslineq
 
 Package: com.chikuwa.appids
 Name: AppIds
@@ -80,7 +67,7 @@ Installed-Size: 720
 MD5sum: 9f432c025c8e824e14031c9e41c96477
 Size: 547692
 Filename: debs/com.chikuwa.appids_0.1-1_iphoneos-arm.deb
-Depiction: http://repo.chikuwajb.cf/dp/?p=com.chikuwa.appids
+Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikuwa.appids
 
 Package: com.chikuwa.appid
 Name: AppID
@@ -95,7 +82,7 @@ Installed-Size: 108
 MD5sum: e28f452b9bdf10fc5cbafc9e2eb344d4
 Size: 17602
 Filename: debs/com.chikuwa.appinfo_0.1-8_iphoneos-arm.deb
-Depiction: http://repo.chikuwajb.cf/dp/?p=com.chikuwa.appid
+Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikuwa.appid
 
 Package: com.chikuwa.autolowpowermode
 Name: AutoLowPowerMode
@@ -110,7 +97,7 @@ Installed-Size: 101
 MD5sum: bb5698a87eaf8e7d3b8664223193f8e7
 Size: 3728
 Filename: debs/com.chikuwa.autolowpowermode_0.0.1_iphoneos-arm.deb
-Depiction: http://repo.chikuwajb.cf/dp/?p=com.chikuwa.autolowpowermode
+Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikuwa.autolowpowermode
 
 Package: com.chikuwa.badgeflipswitch
 Name: BadgeFlipSwitch
@@ -125,7 +112,7 @@ Installed-Size: 301
 MD5sum: 24910ac53ab087085ffb5c6adffa20a0
 Size: 70282
 Filename: debs/com.chikuwa.badgeflipswitch_0.0.1_iphoneos-arm.deb
-Depiction: http://repo.chikuwajb.cf/dp/?p=com.chikuwa.badgeflipswitch
+Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikuwa.badgeflipswitch
 
 Package: com.chikuwa.batteryiconwhilecharging
 Name: Battery Icon Only While Charging
@@ -140,7 +127,7 @@ Installed-Size: 68
 MD5sum: 4c2d9e6097c02858cd2277d376ba1c5f
 Size: 3318
 Filename: debs/com.chikuwa.batteryiconwhilecharging_0.0.1-1_iphoneos-arm.deb
-Depiction: http://repo.chikuwajb.cf/dp/?p=com.chikuwa.batteryiconwhilecharging
+Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikuwa.batteryiconwhilecharging
 
 Package: com.chikuwa.batteryiconwhilecharging
 Name: Battery Icon Only While Charging
@@ -155,7 +142,7 @@ Installed-Size: 69
 MD5sum: 0419131568cb07e781f495149cba9544
 Size: 3366
 Filename: debs/com.chikuwa.batteryiconwhilecharging_0.0.1-4_iphoneos-arm.deb
-Depiction: http://repo.chikuwajb.cf/dp/?p=com.chikuwa.batteryiconwhilecharging
+Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikuwa.batteryiconwhilecharging
 
 Package: com.chikuwa.buylineextender
 Name: BuyLINEExtender
@@ -170,7 +157,7 @@ Installed-Size: 110
 MD5sum: e5b681ff6d5b4b10e9cce9e9785ad8d9
 Size: 5714
 Filename: debs/com.chikuwa.buylineextender_0.0.1_iphoneos-arm.deb
-Depiction: http://repo.chikuwajb.cf/dp/?p=com.chikuwa.buylineextender
+Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikuwa.buylineextender
 
 Package: com.chikuwa.bypasstsumtsumversioncheck
 Name: BypassTsumTsumVersioncheck
@@ -185,7 +172,7 @@ Installed-Size: 101
 MD5sum: 0d384c054cdc157ab5507ba6157d100e
 Size: 3360
 Filename: debs/com.chikuwa.bypasstsumtsumversioncheck_0.0.1_iphoneos-arm.deb
-Depiction: http://repo.chikuwajb.cf/dp/?p=com.chikuwa.bypasstsumtsumversioncheck
+Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikuwa.bypasstsumtsumversioncheck
 
 Package: com.chikuwa.cacheclean
 Name: icon cache cleaner
@@ -200,7 +187,7 @@ Icon: file:///var/mobile/Library/Chikuwa_Icons/com.chikuwa.cacheclean.png
 MD5sum: cf6e991b3f9e00fe9de7a006d8f90c57
 Size: 2196
 Filename: debs/com.chikuwa.cacheclean.deb
-Depiction: http://repo.chikuwajb.cf/dp/?p=com.chikuwa.cacheclean
+Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikuwa.cacheclean
 
 Package: com.chikuwa.camerasilent
 Name: CameraSilent
@@ -215,7 +202,7 @@ Installed-Size: 80
 MD5sum: 11b457feb1c8bf4baa150cf254f38bfd
 Size: 17598
 Filename: debs/com.chikuwa.camerasilent.deb
-Depiction: http://repo.chikuwajb.cf/dp/?p=com.chikuwa.camerasilent
+Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikuwa.camerasilent
 
 Package: com.chikuwa.centerbanner
 Name: CenterBanner
@@ -230,7 +217,7 @@ Installed-Size: 72
 MD5sum: 9d495272670390b27ed1d204b1ac6684
 Size: 3732
 Filename: debs/com.chikuwa.centerbanner_0.0.1-1_iphoneos-arm.deb
-Depiction: http://repo.chikuwajb.cf/dp/?p=com.chikuwa.centerbanner
+Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikuwa.centerbanner
 
 Package: com.chikuwa.chargingstatusbar
 Name: ChargingStatusBar
@@ -245,7 +232,7 @@ Installed-Size: 158
 MD5sum: 854189e6abe66e57d4b89979b3979283
 Size: 9078
 Filename: debs/com.chikuwa.chargingstatusbar_0.0.1-1_iphoneos-arm.deb
-Depiction: http://repo.chikuwajb.cf/dp/?p=com.chikuwa.chargingstatusbar
+Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikuwa.chargingstatusbar
 
 Package: com.chikuwa.chargingstatusbar
 Name: ChargingStatusBar
@@ -260,7 +247,7 @@ Installed-Size: 159
 MD5sum: c2bb78e2b8a02939aa6d5bb95d0cdffa
 Size: 9262
 Filename: debs/com.chikuwa.chargingstatusbar_0.0.1-2_iphoneos-arm.deb
-Depiction: http://repo.chikuwajb.cf/dp/?p=com.chikuwa.chargingstatusbar
+Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikuwa.chargingstatusbar
 
 Package: com.chikuwa.chargingstatusbar
 Name: ChargingStatusBar
@@ -275,7 +262,7 @@ Installed-Size: 158
 MD5sum: b54f770dc84ca6e45008586e19179571
 Size: 9114
 Filename: debs/com.chikuwa.chargingstatusbar_0.0.1-3_iphoneos-arm.deb
-Depiction: http://repo.chikuwajb.cf/dp/?p=com.chikuwa.chargingstatusbar
+Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikuwa.chargingstatusbar
 
 Package: com.chikuwa.chargingstatusbar
 Name: ChargingStatusBar
@@ -290,7 +277,7 @@ Installed-Size: 159
 MD5sum: 3f7098666bc6b4e1826c7a967332bef9
 Size: 9584
 Filename: debs/com.chikuwa.chargingstatusbar_0.0.1-4_iphoneos-arm.deb
-Depiction: http://repo.chikuwajb.cf/dp/?p=com.chikuwa.chargingstatusbar
+Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikuwa.chargingstatusbar
 
 Package: com.chikuwa.chargingstatusbar
 Name: ChargingStatusBar
@@ -305,7 +292,7 @@ Installed-Size: 223
 MD5sum: 6d2cf6cc9703a5c400a980dc20edc6c3
 Size: 10738
 Filename: debs/com.chikuwa.chargingstatusbar_0.0.1-5_iphoneos-arm.deb
-Depiction: http://repo.chikuwajb.cf/dp/?p=com.chikuwa.chargingstatusbar
+Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikuwa.chargingstatusbar
 
 Package: com.chikuwa.cnopagebounce
 Name: CNoPageBounce
@@ -320,7 +307,7 @@ Installed-Size: 101
 MD5sum: 7b9fbaa5b3313489736d671eaf7faaa6
 Size: 3488
 Filename: debs/com.chikuwa.cnopagebounce_0.0.1_iphoneos-arm.deb
-Depiction: http://repo.chikuwajb.cf/dp/?p=com.chikuwa.cnopagebounce
+Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikuwa.cnopagebounce
 
 Package: com.chikuwa.colorsafariprogress
 Name: ColorSafariProgress
@@ -335,7 +322,7 @@ Installed-Size: 214
 MD5sum: 5f8dc62b4e2c7512523228b1c150bee5
 Size: 11538
 Filename: debs/com.chikuwa.colorsafariprogress_0.0.1_iphoneos-arm.deb
-Depiction: http://repo.chikuwajb.cf/dp/?p=com.chikuwa.colorsafariprogress
+Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikuwa.colorsafariprogress
 
 Package: com.chikuwa.colortweetbotaction
 Name: ColorTweetbotAction
@@ -350,7 +337,7 @@ Installed-Size: 211
 MD5sum: 025fd0f1151b73e2dd713d949d26944e
 Size: 11572
 Filename: debs/com.chikuwa.colortweetbotaction_0.0.1_iphoneos-arm.deb
-Depiction: http://repo.chikuwajb.cf/dp/?p=com.chikuwa.colortweetbotaction
+Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikuwa.colortweetbotaction
 
 Package: com.chikuwa.confirmsendmessage
 Name: ConfirmSendMessage
@@ -365,7 +352,7 @@ Installed-Size: 101
 MD5sum: 0bf52910367bd5510ea5c3183eaff12f
 Size: 5008
 Filename: debs/com.chikuwa.confirmsendmessage_0.0.1_iphoneos-arm.deb
-Depiction: http://repo.chikuwajb.cf/dp/?p=com.chikuwa.confirmsendmessage
+Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikuwa.confirmsendmessage
 
 Package: com.chikuwa.confirmsendsticker
 Name: ConfirmSendSticker
@@ -380,7 +367,7 @@ Installed-Size: 101
 MD5sum: 49136cb9c7a6d05ae4919ec480c010be
 Size: 4952
 Filename: debs/com.chikuwa.confirmsendsticker_0.0.1_iphoneos-arm.deb
-Depiction: http://repo.chikuwajb.cf/dp/?p=com.chikuwa.confirmsendsticker
+Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikuwa.confirmsendsticker
 
 Package: com.chikuwa.confirmtweet
 Name: ConfirmTweet
@@ -395,7 +382,7 @@ Installed-Size: 101
 MD5sum: a4aa6d2c83fb982102d3e6c8c43cba8c
 Size: 5070
 Filename: debs/com.chikuwa.confirmtweet_0.0.1_iphoneos-arm.deb
-Depiction: http://repo.chikuwajb.cf/dp/?p=com.chikuwa.confirmtweet
+Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikuwa.confirmtweet
 
 Package: com.chikuwa.customunlocktext
 Name: CustomUnlockText
@@ -410,7 +397,7 @@ Installed-Size: 150
 MD5sum: e16bee76a766335b839566e0ad79f2be
 Size: 7750
 Filename: debs/com.chikuwa.customunlocktext_0.0.1-1_iphoneos-arm.deb
-Depiction: http://repo.chikuwajb.cf/dp/?p=com.chikuwa.customunlocktext
+Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikuwa.customunlocktext
 
 Package: com.chikuwa.customunlocktext
 Name: CustomUnlockText
@@ -425,7 +412,7 @@ Installed-Size: 214
 MD5sum: 19bc160a2d664f18656880e2dc688cad
 Size: 8746
 Filename: debs/com.chikuwa.customunlocktext_0.0.1-2_iphoneos-arm.deb
-Depiction: http://repo.chikuwajb.cf/dp/?p=com.chikuwa.customunlocktext
+Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikuwa.customunlocktext
 
 Package: com.chikuwa.cydiahideupdates
 Name: CydiaHideUpdates
@@ -440,7 +427,7 @@ Installed-Size: 101
 MD5sum: 1b0647478933988882e96995d7b61806
 Size: 4658
 Filename: debs/com.chikuwa.cydiahideupdates_0.0.0~beta1_iphoneos-arm.deb
-Depiction: http://repo.chikuwajb.cf/dp/?p=com.chikuwa.cydiahideupdates
+Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikuwa.cydiahideupdates
 
 Package: com.chikuwa.disableuninstall
 Name: DisableUninstall
@@ -455,7 +442,7 @@ Installed-Size: 152
 MD5sum: bcf4def62a32d37141df5c1159ceb156
 Size: 7974
 Filename: debs/com.chikuwa.disableuninstall_0.0.1-1_iphoneos-arm.deb
-Depiction: http://repo.chikuwajb.cf/dp/?p=com.chikuwa.disableuninstall
+Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikuwa.disableuninstall
 
 Package: com.chikuwa.disableuninstall
 Name: DisableUninstall
@@ -470,7 +457,7 @@ Installed-Size: 153
 MD5sum: 2cfdb976421b63167233d9327e1bec2f
 Size: 7776
 Filename: debs/com.chikuwa.disableuninstall_0.0.1-2_iphoneos-arm.deb
-Depiction: http://repo.chikuwajb.cf/dp/?p=com.chikuwa.disableuninstall
+Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikuwa.disableuninstall
 
 Package: com.chikuwa.earphonemusic
 Name: EarphoneMusic
@@ -486,7 +473,7 @@ Installed-Size: 154
 MD5sum: 0771458bc0aeab166f814929b7ae884d
 Size: 12592
 Filename: debs/com.chikuwa.earphonemusic_0.0.1-1_iphoneos-arm.deb
-Depiction: http://repo.chikuwajb.cf/dp/?p=com.chikuwa.earphonemusic
+Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikuwa.earphonemusic
 
 Package: com.chikuwa.earphonestatusbar
 Name: EarphoneStatusBar
@@ -501,7 +488,7 @@ Installed-Size: 170
 MD5sum: 97c8ba36ebf8d2026d22be579efcfb2e
 Size: 9186
 Filename: debs/com.chikuwa.earphonestatusbar_0.0.1-1_iphoneos-arm.deb
-Depiction: http://repo.chikuwajb.cf/dp/?p=com.chikuwa.earphonestatusbar
+Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikuwa.earphonestatusbar
 
 Package: com.chikuwa.earphonestatusbar
 Name: EarphoneStatusBar
@@ -516,7 +503,7 @@ Installed-Size: 158
 MD5sum: 571e060359b1b730105a487747b60aad
 Size: 9450
 Filename: debs/com.chikuwa.earphonestatusbar_0.0.1-2_iphoneos-arm.deb
-Depiction: http://repo.chikuwajb.cf/dp/?p=com.chikuwa.earphonestatusbar
+Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikuwa.earphonestatusbar
 
 Package: com.chikuwa.earphonestatusbar
 Name: EarphoneStatusBar
@@ -532,7 +519,7 @@ Installed-Size: 162
 MD5sum: 6cf204c5032017c01e086aaf2b32f8dc
 Size: 11540
 Filename: debs/com.chikuwa.earphonestatusbar_0.0.1-3_iphoneos-arm.deb
-Depiction: http://repo.chikuwajb.cf/dp/?p=com.chikuwa.earphonestatusbar
+Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikuwa.earphonestatusbar
 
 Package: com.chikuwa.earphonestatusbar
 Name: EarphoneStatusBar
@@ -548,7 +535,7 @@ Installed-Size: 162
 MD5sum: b5c4ce14e82eeaa27b6bb8d2f50e4165
 Size: 11670
 Filename: debs/com.chikuwa.earphonestatusbar_0.0.1-4_iphoneos-arm.deb
-Depiction: http://repo.chikuwajb.cf/dp/?p=com.chikuwa.earphonestatusbar
+Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikuwa.earphonestatusbar
 
 Package: com.chikuwa.easylowpower
 Name: EasyLowPowerMode
@@ -563,7 +550,7 @@ Installed-Size: 153
 MD5sum: 1f4ff9d6ab45bf9cd6ec2cd875424a63
 Size: 7976
 Filename: debs/com.chikuwa.easylowpower_0.0.1-1_iphoneos-arm.deb
-Depiction: http://repo.chikuwajb.cf/dp/?p=com.chikuwa.easylowpower
+Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikuwa.easylowpower
 
 Package: com.chikuwa.easyshutdown
 Name: EasyShutdown
@@ -578,7 +565,7 @@ Installed-Size: 69
 MD5sum: 397f71fd694fc0089ea41ec8b3f33587
 Size: 5386
 Filename: debs/com.chikuwa.easyshutdown_0.0.1-1_iphoneos-arm.deb
-Depiction: http://repo.chikuwajb.cf/dp/?p=com.chikuwa.easyshutdown
+Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikuwa.easyshutdown
 
 Package: com.chikuwa.emojifavoritesenabler
 Name: EmojiFavoritesEnabler
@@ -593,7 +580,7 @@ Installed-Size: 69
 MD5sum: fca87e0728583ab32cf87fa1d2d5b42b
 Size: 2984
 Filename: debs/com.chikuwa.emojifavoritesenabler_0.0.1-1_iphoneos-arm.deb
-Depiction: http://repo.chikuwajb.cf/dp/?p=com.chikuwa.emojifavoritesenabler
+Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikuwa.emojifavoritesenabler
 
 Package: com.chikuwa.fakecoin
 Name: FakeCoin
@@ -608,7 +595,7 @@ Installed-Size: 158
 MD5sum: 7f82cc881e5821675d87eebe69851104
 Size: 13442
 Filename: debs/com.chikuwa.fakecoin_0.0.1-1_iphoneos-arm.deb
-Depiction: http://repo.chikuwajb.cf/dp/?p=com.chikuwa.fakecoin
+Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikuwa.fakecoin
 
 Package: com.chikuwa.flashcolor
 Name: FlashColor
@@ -624,7 +611,7 @@ Installed-Size: 215
 MD5sum: 33e77145c6c8758bd2b61e3da7414fd1
 Size: 14268
 Filename: debs/com.chikuwa.flashcolor_1.0.0_iphoneos-arm.deb
-Depiction: http://repo.chikuwajb.cf/dp/?p=com.chikuwa.flashcolor
+Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikuwa.flashcolor
 
 Package: com.chikuwa.flatpreference
 Name: FlatPreference
@@ -639,7 +626,7 @@ Installed-Size: 101
 MD5sum: e444a57d9317c10428f57b54957895c0
 Size: 3338
 Filename: debs/com.chikuwa.flatpreference_0.0.1_iphoneos-arm.deb
-Depiction: http://repo.chikuwajb.cf/dp/?p=com.chikuwa.flatpreference
+Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikuwa.flatpreference
 
 Package: com.chikuwa.getmyip
 Name: GetMyIP
@@ -654,7 +641,7 @@ Installed-Size: 132
 MD5sum: 00d8839a5c4b4ec55b2f6ea3e0c2a01d
 Size: 4602
 Filename: debs/com.chikuwa.getmyip_0.0.1-1_iphoneos-arm.deb
-Depiction: http://repo.chikuwajb.cf/dp/?p=com.chikuwa.getmyip
+Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikuwa.getmyip
 
 Package: com.chikuwa.hideicon
 Name: Hide Icon
@@ -669,7 +656,7 @@ Installed-Size: 72
 MD5sum: 60dc256b5f65b5f79fb6f56e4c7e1f0c
 Size: 4362
 Filename: debs/com.chikuwa.hideicon_0.0.1-1_iphoneos-arm.deb
-Depiction: http://repo.chikuwajb.cf/dp/?p=com.chikuwa.hideicon
+Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikuwa.hideicon
 
 Package: com.chikuwa.icongetter
 Name: IconGetter
@@ -684,7 +671,7 @@ Installed-Size: 108
 MD5sum: 288d0b89163ba675f3dd15c52931e71f
 Size: 9580
 Filename: debs/com.chikuwa.icongetter.deb
-Depiction: http://repo.chikuwajb.cf/dp/?p=com.chikuwa.icongetter
+Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikuwa.icongetter
 
 Package: com.chikuwa.imagepass
 Name: ImagePass
@@ -699,7 +686,7 @@ Installed-Size: 150
 MD5sum: d56d6fc5589453e4818efe4bee204849
 Size: 12428
 Filename: debs/com.chikuwa.imagepass_0.0.1-1_iphoneos-arm.deb
-Depiction: http://repo.chikuwajb.cf/dp/?p=com.chikuwa.imagepass
+Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikuwa.imagepass
 
 Package: com.chikuwa.jpegscreenshot
 Name: JPEGScreenShot
@@ -714,7 +701,7 @@ Installed-Size: 101
 MD5sum: 0b5324833b29301fcb02a7d765823176
 Size: 4426
 Filename: debs/com.chikuwa.jpegscreenshot_0.0.1_iphoneos-arm.deb
-Depiction: http://repo.chikuwajb.cf/dp/?p=com.chikuwa.jpegscreenshot
+Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikuwa.jpegscreenshot
 
 Package: com.chikuwa.killme
 Name: KillMe
@@ -729,7 +716,34 @@ Installed-Size: 70
 MD5sum: 0636e915146735326c9f5ba2a91cde9e
 Size: 6472
 Filename: debs/com.chikuwa.killme_0.0.1-1_iphoneos-arm.deb
-Depiction: http://repo.chikuwajb.cf/dp/?p=com.chikuwa.killme
+Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikuwa.killme
+
+Package: com.chikuwa.lineage8
+Name: lineage for ios8
+Architecture: iphoneos-arm
+Description: LINEの年齢認証を回避します
+Maintainer: Chikuwa
+Author: Chikuwa
+Section: Utilities
+Version: 0.0.3
+MD5sum: 3227b432bbe4000801113fe8dc0d2dee
+Size: 43272
+Filename: debs/com.chikuwa.lineage8.deb
+Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikuwa.lineage8
+
+Package: com.chikuwa.lineage
+Name: lineage for ios7&6
+Architecture: iphoneos-arm
+Description: LINEの年齢認証を回避
+Maintainer: Chikuwa
+Author: Chikuwa
+Section: Utilities
+Version: 0.0.2-1
+Installed-Size: 96
+MD5sum: 67a4b1e574ebe07d26b39e6719990f49
+Size: 41626
+Filename: debs/com.chikuwa.lineage.deb
+Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikuwa.lineage
 
 Package: com.chikuwa.line
 Name: LINEきせかえストア(Beta)
@@ -744,34 +758,7 @@ Installed-Size: 80
 MD5sum: 8564327cfa04b305f737801ef9cd93f9
 Size: 42434
 Filename: debs/com.chikuwa.line.deb
-Depiction: http://repo.chikuwajb.cf/dp/?p=com.chikuwa.line
-
-Package: com.chikuwa.lineage
-Name: lineage for ios7&6
-Architecture: iphoneos-arm
-Description: LINEの年齢認証を回避
-Maintainer: Chikuwa
-Author: Chikuwa
-Section: Utilities
-Version: 0.0.2-1
-Installed-Size: 96
-MD5sum: 67a4b1e574ebe07d26b39e6719990f49
-Size: 41626
-Filename: debs/com.chikuwa.lineage.deb
-Depiction: http://repo.chikuwajb.cf/dp/?p=com.chikuwa.lineage
-
-Package: com.chikuwa.lineage8
-Name: lineage for ios8
-Architecture: iphoneos-arm
-Description: LINEの年齢認証を回避します
-Maintainer: Chikuwa
-Author: Chikuwa
-Section: Utilities
-Version: 0.0.3
-MD5sum: 3227b432bbe4000801113fe8dc0d2dee
-Size: 43272
-Filename: debs/com.chikuwa.lineage8.deb
-Depiction: http://repo.chikuwajb.cf/dp/?p=com.chikuwa.lineage8
+Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikuwa.line
 
 Package: com.chikuwa.lineextenderflipswitch
 Name: LINEExtenderFlipSwitch
@@ -786,7 +773,7 @@ Installed-Size: 232
 MD5sum: b216edd6d1873bc31e86dd699a9149a2
 Size: 29280
 Filename: debs/com.chikuwa.lineextenderflipswitch_0.0.1_iphoneos-arm.deb
-Depiction: http://repo.chikuwajb.cf/dp/?p=com.chikuwa.lineextenderflipswitch
+Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikuwa.lineextenderflipswitch
 
 Package: com.chikuwa.linegroupcallenabler
 Name: LINEGroupCallEnabler
@@ -801,7 +788,7 @@ Installed-Size: 101
 MD5sum: 3b928f39b743de8104c77023d62dcca7
 Size: 3320
 Filename: debs/com.chikuwa.linegroupcallenabler_0.0.1_iphoneos-arm.deb
-Depiction: http://repo.chikuwajb.cf/dp/?p=com.chikuwa.linegroupcallenabler
+Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikuwa.linegroupcallenabler
 
 Package: com.chikuwa.lineios8
 Name: LINEきせかえストア ios8
@@ -816,7 +803,7 @@ Installed-Size: 104
 MD5sum: 9d9ba65db76f9b481ab49898d24cdf9d
 Size: 721800
 Filename: debs/com.chikuwa.lineios8.deb
-Depiction: http://repo.chikuwajb.cf/dp/?p=com.chikuwa.lineios8
+Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikuwa.lineios8
 
 Package: com.chikuwa.lineios8
 Name: LINEきせかえストア ios8
@@ -831,7 +818,7 @@ Installed-Size: 104
 MD5sum: 1a06de44c563265ba22f9963ce027dcc
 Size: 1408320
 Filename: debs/com.chikuwa.lineios8fix.deb
-Depiction: http://repo.chikuwajb.cf/dp/?p=com.chikuwa.lineios8
+Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikuwa.lineios8
 
 Package: com.chikuwa.linepresentenabler
 Name: LINEPresentEnabler
@@ -846,7 +833,7 @@ Installed-Size: 101
 MD5sum: 229fb7ddc53a8cbbd3f5b9b6010f34fb
 Size: 3326
 Filename: debs/com.chikuwa.linepresentenabler_0.0.1_iphoneos-arm.deb
-Depiction: http://repo.chikuwajb.cf/dp/?p=com.chikuwa.linepresentenabler
+Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikuwa.linepresentenabler
 
 Package: com.chikuwa.locksiren
 Name: LockSiren
@@ -861,7 +848,7 @@ Installed-Size: 1300
 MD5sum: 491698d4bab4245a7873df078443a18e
 Size: 1165506
 Filename: debs/com.chikuwa.locksiren_0.0.1-3_iphoneos-arm.deb
-Depiction: http://repo.chikuwajb.cf/dp/?p=com.chikuwa.locksiren
+Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikuwa.locksiren
 
 Package: com.chikuwa.lowpowermodestatusbar
 Name: LowPowerModeStatusBar
@@ -876,7 +863,7 @@ Installed-Size: 234
 MD5sum: a7019232cd2cd9ddde39ccbb8bcdd872
 Size: 10860
 Filename: debs/com.chikuwa.lowpowermodestatusbar_0.0.1_iphoneos-arm.deb
-Depiction: http://repo.chikuwajb.cf/dp/?p=com.chikuwa.lowpowermodestatusbar
+Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikuwa.lowpowermodestatusbar
 
 Package: com.chikuwa.netcheck
 Name: NetChecker
@@ -890,7 +877,7 @@ Installed-Size: 764
 MD5sum: 0775d0e98623167b3d0220e5bc56b76e
 Size: 631184
 Filename: debs/com.chikuwa.netcheck_0.0.1-1_iphoneos-arm.deb
-Depiction: http://repo.chikuwajb.cf/dp/?p=com.chikuwa.netcheck
+Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikuwa.netcheck
 
 Package: com.chikuwa.noairplanemodeicon
 Name: NoAirplaneModeIcon
@@ -905,7 +892,7 @@ Installed-Size: 69
 MD5sum: f01ac6f91ee952327009d404d01605e6
 Size: 3116
 Filename: debs/com.chikuwa.noairplanemodeicon_0.0.1-1_iphoneos-arm.deb
-Depiction: http://repo.chikuwajb.cf/dp/?p=com.chikuwa.noairplanemodeicon
+Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikuwa.noairplanemodeicon
 
 Package: com.chikuwa.noairplanemodeicon
 Name: NoAirplaneModeIcon
@@ -920,7 +907,7 @@ Installed-Size: 101
 MD5sum: b5779388f6b5ddf476293c5e8db2485d
 Size: 3396
 Filename: debs/com.chikuwa.noairplanemodeicon_0.0.1-2_iphoneos-arm.deb
-Depiction: http://repo.chikuwajb.cf/dp/?p=com.chikuwa.noairplanemodeicon
+Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikuwa.noairplanemodeicon
 
 Package: com.chikuwa.noairplayicon
 Name: NoAirplayIcon
@@ -935,7 +922,7 @@ Installed-Size: 69
 MD5sum: 4a593b4c9d0e812cf56cb00165198b85
 Size: 2972
 Filename: debs/com.chikuwa.noairplayicon_0.0.1-1_iphoneos-arm.deb
-Depiction: http://repo.chikuwajb.cf/dp/?p=com.chikuwa.noairplayicon
+Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikuwa.noairplayicon
 
 Package: com.chikuwa.noairplayicon
 Name: NoAirplayIcon
@@ -950,7 +937,7 @@ Installed-Size: 101
 MD5sum: d8b852639a5d9880051123400e4ae281
 Size: 3332
 Filename: debs/com.chikuwa.noairplayicon_0.0.1-2_iphoneos-arm.deb
-Depiction: http://repo.chikuwajb.cf/dp/?p=com.chikuwa.noairplayicon
+Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikuwa.noairplayicon
 
 Package: com.chikuwa.noappstoretrending
 Name: NoAppStoreTrending
@@ -965,7 +952,7 @@ Installed-Size: 101
 MD5sum: 4f091f661a4d4de73d369fdeb8def44d
 Size: 3536
 Filename: debs/com.chikuwa.noappstoretrending_0.0.1_iphoneos-arm.deb
-Depiction: http://repo.chikuwajb.cf/dp/?p=com.chikuwa.noappstoretrending
+Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikuwa.noappstoretrending
 
 Package: com.chikuwa.nobatteryalert
 Name: NoBatteryAlert
@@ -980,7 +967,7 @@ Installed-Size: 101
 MD5sum: 2c95af979f7135c8fb254060db4f6a2d
 Size: 3610
 Filename: debs/com.chikuwa.nobatteryalert_0.0.1_iphoneos-arm.deb
-Depiction: http://repo.chikuwajb.cf/dp/?p=com.chikuwa.nobatteryalert
+Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikuwa.nobatteryalert
 
 Package: com.chikuwa.nobatteryicon
 Name: NoBatteryIcon
@@ -995,7 +982,7 @@ Installed-Size: 72
 MD5sum: a7ff18d93391e647d801afbbf1a1ba5a
 Size: 3050
 Filename: debs/com.chikuwa.nobatteryicon_0.0.1-1_iphoneos-arm.deb
-Depiction: http://repo.chikuwajb.cf/dp/?p=com.chikuwa.nobatteryicon
+Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikuwa.nobatteryicon
 
 Package: com.chikuwa.nobatteryicon
 Name: NoBatteryIcon
@@ -1010,7 +997,7 @@ Installed-Size: 69
 MD5sum: d75d9b814beb4bd95f0917bc7c9edbd9
 Size: 3146
 Filename: debs/com.chikuwa.nobatteryicon_0.0.1-2_iphoneos-arm.deb
-Depiction: http://repo.chikuwajb.cf/dp/?p=com.chikuwa.nobatteryicon
+Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikuwa.nobatteryicon
 
 Package: com.chikuwa.nobatteryicon
 Name: NoBatteryIcon
@@ -1025,7 +1012,7 @@ Installed-Size: 69
 MD5sum: a6f8767bc329e6dbf5cb5edea786d653
 Size: 3662
 Filename: debs/com.chikuwa.nobatteryicon_0.0.1-3_iphoneos-arm.deb
-Depiction: http://repo.chikuwajb.cf/dp/?p=com.chikuwa.nobatteryicon
+Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikuwa.nobatteryicon
 
 Package: com.chikuwa.nobatteryicon
 Name: NoBatteryIcon
@@ -1040,7 +1027,7 @@ Installed-Size: 101
 MD5sum: 8a241cc88a7a8a8bc9910ceef534d6ac
 Size: 4106
 Filename: debs/com.chikuwa.nobatteryicon_0.0.1-4_iphoneos-arm.deb
-Depiction: http://repo.chikuwajb.cf/dp/?p=com.chikuwa.nobatteryicon
+Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikuwa.nobatteryicon
 
 Package: com.chikuwa.noborderterminal
 Name: NoBorderTerminal
@@ -1055,7 +1042,7 @@ Installed-Size: 101
 MD5sum: 1d72270e7b6611a8f60f80250f0bc236
 Size: 3496
 Filename: debs/com.chikuwa.noborderterminal_0.0.1_iphoneos-arm.deb
-Depiction: http://repo.chikuwajb.cf/dp/?p=com.chikuwa.noborderterminal
+Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikuwa.noborderterminal
 
 Package: com.chikuwa.nodiskspacealert
 Name: NoDiskSpaceAlert
@@ -1070,7 +1057,7 @@ Installed-Size: 69
 MD5sum: 53581ddab298414f527976e1d06abd24
 Size: 4324
 Filename: debs/com.chikuwa.nodiskspacealert_0.0.1-1_iphoneos-arm.deb
-Depiction: http://repo.chikuwajb.cf/dp/?p=com.chikuwa.nodiskspacealert
+Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikuwa.nodiskspacealert
 
 Package: com.chikuwa.nofloatdateview
 Name: NoFloatDateView
@@ -1085,7 +1072,7 @@ Installed-Size: 101
 MD5sum: ae5c680c06dc07e193639ad99654eea9
 Size: 3316
 Filename: debs/com.chikuwa.nofloatdateview_0.0.1_iphoneos-arm.deb
-Depiction: http://repo.chikuwajb.cf/dp/?p=com.chikuwa.nofloatdateview
+Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikuwa.nofloatdateview
 
 Package: com.chikuwa.nofolderbackground
 Name: NoFolderBackground
@@ -1100,7 +1087,7 @@ Installed-Size: 101
 MD5sum: 0ea4cdaeb5f8ee7068dd20cd58efd525
 Size: 3324
 Filename: debs/com.chikuwa.nofolderbackground_0.0.1_iphoneos-arm.deb
-Depiction: http://repo.chikuwajb.cf/dp/?p=com.chikuwa.nofolderbackground
+Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikuwa.nofolderbackground
 
 Package: com.chikuwa.nolinearrow
 Name: NoLINEArrow
@@ -1115,7 +1102,7 @@ Installed-Size: 101
 MD5sum: d50eebc1d2b2fa1740d423b1ecfd9c45
 Size: 3768
 Filename: debs/com.chikuwa.nolinearrow_0.0.1_iphoneos-arm.deb
-Depiction: http://repo.chikuwajb.cf/dp/?p=com.chikuwa.nolinearrow
+Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikuwa.nolinearrow
 
 Package: com.chikuwa.nolineatlastscreen
 Name: NoLINEATLastScreen
@@ -1130,7 +1117,7 @@ Installed-Size: 101
 MD5sum: 3ffbc293fc4da4807a900cbea37ba185
 Size: 3340
 Filename: debs/com.chikuwa.nolineatlastscreen_0.0.1_iphoneos-arm.deb
-Depiction: http://repo.chikuwajb.cf/dp/?p=com.chikuwa.nolineatlastscreen
+Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikuwa.nolineatlastscreen
 
 Package: com.chikuwa.nolineid
 Name: NoLINEID
@@ -1145,7 +1132,7 @@ Installed-Size: 101
 MD5sum: 82769d8bc36a79bdbdaf3d8f41003b7f
 Size: 3418
 Filename: debs/com.chikuwa.nolineid_0.0.1_iphoneos-arm.deb
-Depiction: http://repo.chikuwajb.cf/dp/?p=com.chikuwa.nolineid
+Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikuwa.nolineid
 
 Package: com.chikuwa.nolinesearchbar
 Name: NoLINESearchBar
@@ -1160,7 +1147,7 @@ Installed-Size: 101
 MD5sum: d856ac78da3e1c88d8562c96fe7b5ac4
 Size: 3294
 Filename: debs/com.chikuwa.nolinesearchbar_0.0.1_iphoneos-arm.deb
-Depiction: http://repo.chikuwajb.cf/dp/?p=com.chikuwa.nolinesearchbar
+Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikuwa.nolinesearchbar
 
 Package: com.chikuwa.nolinesearchbar
 Name: NoLINESearchBar
@@ -1175,7 +1162,7 @@ Installed-Size: 101
 MD5sum: 7948090094ca4e34a05316bb533c4657
 Size: 3308
 Filename: debs/com.chikuwa.nolinesearchbar_0.0.2_iphoneos-arm.deb
-Depiction: http://repo.chikuwajb.cf/dp/?p=com.chikuwa.nolinesearchbar
+Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikuwa.nolinesearchbar
 
 Package: com.chikuwa.nolinethemecheck
 Name: NoLINEThemeCheck
@@ -1190,7 +1177,7 @@ Installed-Size: 101
 MD5sum: 1c2e7311b3b351454f91562eb0b2e077
 Size: 3314
 Filename: debs/com.chikuwa.nolinethemecheck_0.0.1_iphoneos-arm.deb
-Depiction: http://repo.chikuwajb.cf/dp/?p=com.chikuwa.nolinethemecheck
+Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikuwa.nolinethemecheck
 
 Package: com.chikuwa.nolinetlnews
 Name: NoLINETLNews
@@ -1205,7 +1192,7 @@ Installed-Size: 101
 MD5sum: 96f06b412069ad9a4cbc0c6ba206cf9b
 Size: 3348
 Filename: debs/com.chikuwa.nolinetlnews_0.0.1_iphoneos-arm.deb
-Depiction: http://repo.chikuwajb.cf/dp/?p=com.chikuwa.nolinetlnews
+Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikuwa.nolinetlnews
 
 Package: com.chikuwa.nolocationicon
 Name: NoLocationIcon
@@ -1220,7 +1207,7 @@ Installed-Size: 69
 MD5sum: 15cb5d2920557288be8d55f62290cc3d
 Size: 2976
 Filename: debs/com.chikuwa.nolocationicon_0.0.1-1_iphoneos-arm.deb
-Depiction: http://repo.chikuwajb.cf/dp/?p=com.chikuwa.nolocationicon
+Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikuwa.nolocationicon
 
 Package: com.chikuwa.nolocationicon
 Name: NoLocationIcon
@@ -1235,7 +1222,7 @@ Installed-Size: 101
 MD5sum: c897f2b1ea25eb9e09efc4b723e192e9
 Size: 3320
 Filename: debs/com.chikuwa.nolocationicon_0.0.1-2_iphoneos-arm.deb
-Depiction: http://repo.chikuwajb.cf/dp/?p=com.chikuwa.nolocationicon
+Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikuwa.nolocationicon
 
 Package: com.chikuwa.nolockchevron
 Name: NoLockChevron
@@ -1250,7 +1237,7 @@ Installed-Size: 101
 MD5sum: 41cd8642ce677380f99def244dcf1e4e
 Size: 3608
 Filename: debs/com.chikuwa.nolockchevron_0.0.1_iphoneos-arm.deb
-Depiction: http://repo.chikuwajb.cf/dp/?p=com.chikuwa.nolockchevron
+Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikuwa.nolockchevron
 
 Package: com.chikuwa.nolockdate
 Name: NoLockDate
@@ -1265,7 +1252,7 @@ Installed-Size: 69
 MD5sum: 69d00b6ab8bb8bb8c039e4814476444f
 Size: 3044
 Filename: debs/com.chikuwa.nolockdate_0.0.1-1_iphoneos-arm.deb
-Depiction: http://repo.chikuwajb.cf/dp/?p=com.chikuwa.nolockdate
+Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikuwa.nolockdate
 
 Package: com.chikuwa.nolockscreencamera
 Name: NoLockScreenCamera
@@ -1280,7 +1267,7 @@ Installed-Size: 101
 MD5sum: 4b61f6aa129a2ef7c4635601b8817a10
 Size: 3322
 Filename: debs/com.chikuwa.nolockscreencamera_0.0.1_iphoneos-arm.deb
-Depiction: http://repo.chikuwajb.cf/dp/?p=com.chikuwa.nolockscreencamera
+Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikuwa.nolockscreencamera
 
 Package: com.chikuwa.nolocktimerlabel
 Name: NoLockTimerLabel
@@ -1295,7 +1282,7 @@ Installed-Size: 101
 MD5sum: 34c543d385cc6dae9b44213b2c96a41e
 Size: 3470
 Filename: debs/com.chikuwa.nolocktimerlabel_0.0.1_iphoneos-arm.deb
-Depiction: http://repo.chikuwajb.cf/dp/?p=com.chikuwa.nolocktimerlabel
+Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikuwa.nolocktimerlabel
 
 Package: com.chikuwa.nomoretabnewicon
 Name: NoMoreTabNewIcon
@@ -1310,7 +1297,7 @@ Installed-Size: 101
 MD5sum: c373b535c2d02d3431a5be47a2fba894
 Size: 3446
 Filename: debs/com.chikuwa.nomoretabnewicon_0.0.1_iphoneos-arm.deb
-Depiction: http://repo.chikuwajb.cf/dp/?p=com.chikuwa.nomoretabnewicon
+Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikuwa.nomoretabnewicon
 
 Package: com.chikuwa.nonctoday
 Name: NoNCToday
@@ -1325,7 +1312,7 @@ Installed-Size: 101
 MD5sum: 36d8dc8ce59579a0c94b41b5ce64b14d
 Size: 3322
 Filename: debs/com.chikuwa.nonctoday_0.0.1_iphoneos-arm.deb
-Depiction: http://repo.chikuwajb.cf/dp/?p=com.chikuwa.nonctoday
+Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikuwa.nonctoday
 
 Package: com.chikuwa.nonewpostbutton
 Name: NoNewPostButton
@@ -1340,7 +1327,7 @@ Installed-Size: 101
 MD5sum: 9efd529390703e8a2e25ead4adbb5d8b
 Size: 3324
 Filename: debs/com.chikuwa.nonewpostbutton_0.0.1_iphoneos-arm.deb
-Depiction: http://repo.chikuwajb.cf/dp/?p=com.chikuwa.nonewpostbutton
+Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikuwa.nonewpostbutton
 
 Package: com.chikuwa.nonews
 Name: NoNews
@@ -1355,7 +1342,7 @@ Installed-Size: 69
 MD5sum: 20dd61fc9a7d93af7c49e21bd1666963
 Size: 2958
 Filename: debs/com.chikuwa.nonews_0.0.1-1_iphoneos-arm.deb
-Depiction: http://repo.chikuwajb.cf/dp/?p=com.chikuwa.nonews
+Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikuwa.nonews
 
 Package: com.chikuwa.nopasspadhighlight
 Name: NoPassPadHighlight
@@ -1370,7 +1357,7 @@ Installed-Size: 101
 MD5sum: fd0942debdfd4b5249a7eb9b7ec9cca5
 Size: 3460
 Filename: debs/com.chikuwa.nopasspadhighlight_0.0.1-1_iphoneos-arm.deb
-Depiction: http://repo.chikuwajb.cf/dp/?p=com.chikuwa.nopasspadhighlight
+Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikuwa.nopasspadhighlight
 
 Package: com.chikuwa.nopreferencessearchbar
 Name: NoPreferencesSearchBar
@@ -1385,7 +1372,7 @@ Installed-Size: 101
 MD5sum: 5ea6b81189a54657fe4ea5787650ad7d
 Size: 3452
 Filename: debs/com.chikuwa.nopreferencessearchbar_0.0.1_iphoneos-arm.deb
-Depiction: http://repo.chikuwajb.cf/dp/?p=com.chikuwa.nopreferencessearchbar
+Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikuwa.nopreferencessearchbar
 
 Package: com.chikuwa.noscreenshotflash
 Name: NoScreenShotFlash
@@ -1400,7 +1387,7 @@ Installed-Size: 150
 MD5sum: c123ab720dec2eb3adff11064848dbf9
 Size: 7316
 Filename: debs/com.chikuwa.noscreenshotflash_0.0.1-1_iphoneos-arm.deb
-Depiction: http://repo.chikuwajb.cf/dp/?p=com.chikuwa.noscreenshotflash
+Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikuwa.noscreenshotflash
 
 Package: com.chikuwa.noscreenshotflash
 Name: NoScreenShotFlash
@@ -1415,7 +1402,7 @@ Installed-Size: 214
 MD5sum: a18e009d9da0d0a1a603dc15916f0750
 Size: 8282
 Filename: debs/com.chikuwa.noscreenshotflash_0.0.1-2_iphoneos-arm.deb
-Depiction: http://repo.chikuwajb.cf/dp/?p=com.chikuwa.noscreenshotflash
+Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikuwa.noscreenshotflash
 
 Package: com.chikuwa.noscreenshotflash
 Name: NoScreenShotFlash
@@ -1430,7 +1417,7 @@ Installed-Size: 214
 MD5sum: 1a08f2d3687c64e5caad0bcb1e7139dc
 Size: 8578
 Filename: debs/com.chikuwa.noscreenshotflash_0.0.1-3_iphoneos-arm.deb
-Depiction: http://repo.chikuwajb.cf/dp/?p=com.chikuwa.noscreenshotflash
+Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikuwa.noscreenshotflash
 
 Package: com.chikuwa.noslidetounlock
 Name: NoSlideToUnLock
@@ -1445,7 +1432,7 @@ Installed-Size: 101
 MD5sum: acfc34f4d300f2c28932bfa425696287
 Size: 3484
 Filename: debs/com.chikuwa.noslidetounlock_0.0.1-1_iphoneos-arm.deb
-Depiction: http://repo.chikuwajb.cf/dp/?p=com.chikuwa.noslidetounlock
+Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikuwa.noslidetounlock
 
 Package: com.chikuwa.nospeechinputkey
 Name: No Speech input Key
@@ -1460,7 +1447,7 @@ Installed-Size: 152
 MD5sum: 3129dd1ad0c1f8dac0fcd7fdabda0401
 Size: 7524
 Filename: debs/com.chikuwa.nospeechinputkey_0.0.1-8_iphoneos-arm.deb
-Depiction: http://repo.chikuwajb.cf/dp/?p=com.chikuwa.nospeechinputkey
+Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikuwa.nospeechinputkey
 
 Package: com.chikuwa.nospotlight
 Name: NoSpotlight
@@ -1475,7 +1462,7 @@ Installed-Size: 68
 MD5sum: f04beab9e62156256dfeef8ee0feb9a2
 Size: 3038
 Filename: debs/com.chikuwa.nospotlight_0.0.1-1_iphoneos-arm.deb
-Depiction: http://repo.chikuwajb.cf/dp/?p=com.chikuwa.nospotlight
+Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikuwa.nospotlight
 
 Package: com.chikuwa.noupdatemark
 Name: NoUpdateMark
@@ -1490,7 +1477,7 @@ Installed-Size: 101
 MD5sum: b7ff891e8847433821513f0d3f125076
 Size: 3344
 Filename: debs/com.chikuwa.noupdatemark_0.0.1-1_iphoneos-arm.deb
-Depiction: http://repo.chikuwajb.cf/dp/?p=com.chikuwa.noupdatemark
+Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikuwa.noupdatemark
 
 Package: com.chikuwa.nowifiicon
 Name: NoWiFiIcon
@@ -1505,7 +1492,7 @@ Installed-Size: 101
 MD5sum: 6afa330fb899b8f935a21a7f3367a5cd
 Size: 2402
 Filename: debs/com.chikuwa.nowifiicon_0.0.1-1_iphoneos-arm.deb
-Depiction: http://repo.chikuwajb.cf/dp/?p=com.chikuwa.nowifiicon
+Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikuwa.nowifiicon
 
 Package: com.chikuwa.nowplayingstatusbar
 Name:  NowPlayingStatusbar
@@ -1520,7 +1507,7 @@ Installed-Size: 159
 MD5sum: b066011d062cfa5fa521583f40d306a8
 Size: 8956
 Filename: debs/com.chikuwa.nowplayingstatusbar_0.0.1-1_iphoneos-arm.deb
-Depiction: http://repo.chikuwajb.cf/dp/?p=com.chikuwa.nowplayingstatusbar
+Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikuwa.nowplayingstatusbar
 
 Package: com.chikuwa.nowplayingstatusbar
 Name:  NowPlayingStatusbar
@@ -1536,7 +1523,7 @@ Installed-Size: 161
 MD5sum: a561998a9413358994a8f84214dda019
 Size: 9998
 Filename: debs/com.chikuwa.nowplayingstatusbar_0.0.1-2_iphoneos-arm.deb
-Depiction: http://repo.chikuwajb.cf/dp/?p=com.chikuwa.nowplayingstatusbar
+Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikuwa.nowplayingstatusbar
 
 Package: com.chikuwa.nowplayingstatusbar
 Name:  NowPlayingStatusbar
@@ -1552,7 +1539,7 @@ Installed-Size: 316
 MD5sum: ce47bf8a586e7acb77204764009d15b1
 Size: 8182
 Filename: debs/com.chikuwa.nowplayingstatusbar_0.0.2_iphoneos-arm.deb
-Depiction: http://repo.chikuwajb.cf/dp/?p=com.chikuwa.nowplayingstatusbar
+Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikuwa.nowplayingstatusbar
 
 Package: com.chikuwa.pageswitcher9
 Name: PageSwitcher9
@@ -1567,7 +1554,7 @@ Installed-Size: 101
 MD5sum: ac314ab795a4bf63cc6110935398bf28
 Size: 3738
 Filename: debs/com.chikuwa.pageswitcher9_0.0.1_iphoneos-arm.deb
-Depiction: http://repo.chikuwajb.cf/dp/?p=com.chikuwa.pageswitcher9
+Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikuwa.pageswitcher9
 
 Package: com.chikuwa.pinchtoclosefolder
 Name: PinchToCloseFolder
@@ -1582,7 +1569,22 @@ Installed-Size: 101
 MD5sum: 6c3a483c35e8bd49a1c808b382b60b78
 Size: 3316
 Filename: debs/com.chikuwa.pinchtoclosefolder_0.0.1-1_iphoneos-arm.deb
-Depiction: http://repo.chikuwajb.cf/dp/?p=com.chikuwa.pinchtoclosefolder
+Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikuwa.pinchtoclosefolder
+
+Package: com.chikuwa.pokegobrowser
+Name: PokeGOBrowser
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Chikuwa
+Author: Chikuwa
+Section: Tweaks
+Version: 0.0.1-10+debug
+Installed-Size: 124
+MD5sum: 423742b5b4a9ccecb57f568fcb8a2e24
+Size: 8106
+Filename: debs/com.chikuwa.pokegobrowser-0.0.1-10-debug-iphoneos-arm.deb
+Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikuwa.pokegobrowser
 
 Package: com.chikuwa.power
 Name: power
@@ -1597,7 +1599,7 @@ Installed-Size: 88
 MD5sum: 4bb8947f7b7c2ec24197f7f4bf64adc3
 Size: 20548
 Filename: debs/com.chikuwa.power.deb
-Depiction: http://repo.chikuwajb.cf/dp/?p=
+Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=
 
 Package: com.chikuwa.publicpostenabler
 Name: PublicPostEnabler
@@ -1612,7 +1614,7 @@ Installed-Size: 69
 MD5sum: b6f1a495168f7619c74e45e2dbf4b046
 Size: 3008
 Filename: debs/com.chikuwa.publicpostenabler_0.0.1-1_iphoneos-arm.deb
-Depiction: http://repo.chikuwajb.cf/dp/?p=com.chikuwa.publicpostenabler
+Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikuwa.publicpostenabler
 
 Package: com.chikuwa.randomcccolor
 Name: RandomCCColor
@@ -1627,7 +1629,7 @@ Installed-Size: 69
 MD5sum: dc86d583215aa9d2a1a9a8af51d7a37b
 Size: 6000
 Filename: debs/com.chikuwa.randomcccolor_0.0.1-1_iphoneos-arm.deb
-Depiction: http://repo.chikuwajb.cf/dp/?p=com.chikuwa.randomcccolor
+Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikuwa.randomcccolor
 
 Package: com.chikuwa.reb00ticon
 Name: Reb00t Icon
@@ -1641,7 +1643,7 @@ Installed-Size: 60
 MD5sum: 1da59814d98c0e596e2e0f7f55976b04
 Size: 8610
 Filename: debs/com.chikuwa.reb00ticon.deb
-Depiction: http://repo.chikuwajb.cf/dp/?p=com.chikuwa.reb00ticon
+Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikuwa.reb00ticon
 
 Package: com.chikuwa.respring
 Name: Respring on Terminal
@@ -1656,7 +1658,7 @@ Installed-Size: 52
 MD5sum: 1e01871489fc0d0348951a45acb98380
 Size: 1928
 Filename: debs/com.chikuwa.respring.deb
-Depiction: http://repo.chikuwajb.cf/dp/?p=com.chikuwa.respring
+Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikuwa.respring
 
 Package: com.chikuwa.respringic0n
 Name: Respring Ic0n
@@ -1670,7 +1672,7 @@ Installed-Size: 56
 MD5sum: 36b07d714052fcfd8e865f0cec3bff43
 Size: 5198
 Filename: debs/com.chikuwa.respringic0n.deb
-Depiction: http://repo.chikuwajb.cf/dp/?p=com.chikuwa.respringic0n
+Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikuwa.respringic0n
 
 Package: com.chikuwa.resumemute
 Name: ResumeMute
@@ -1685,7 +1687,7 @@ Installed-Size: 101
 MD5sum: 2ecc0556d1498664721fed51b9106e2d
 Size: 4442
 Filename: debs/com.chikuwa.resumemute_0.0.1_iphoneos-arm.deb
-Depiction: http://repo.chikuwajb.cf/dp/?p=com.chikuwa.resumemute
+Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikuwa.resumemute
 
 Package: com.chikuwa.roundcc
 Name: RoundCC
@@ -1700,7 +1702,7 @@ Installed-Size: 69
 MD5sum: 2ae84e6558862f4b3a2db8309a2d7068
 Size: 2962
 Filename: debs/com.chikuwa.roundcc_0.0.1-1_iphoneos-arm.deb
-Depiction: http://repo.chikuwajb.cf/dp/?p=com.chikuwa.roundcc
+Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikuwa.roundcc
 
 Package: com.chikuwa.runfieldtestaction
 Name: RunFieldTestAction
@@ -1715,7 +1717,7 @@ Installed-Size: 101
 MD5sum: 5d644fd73f7fcee03c88a013f9fe4786
 Size: 7600
 Filename: debs/com.chikuwa.runfieldtestaction_0.0.1_iphoneos-arm.deb
-Depiction: http://repo.chikuwajb.cf/dp/?p=com.chikuwa.runfieldtestaction
+Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikuwa.runfieldtestaction
 
 Package: com.chikuwa.safariclosetabactivator
 Name: SafariCloseTabsActivator
@@ -1730,7 +1732,7 @@ Installed-Size: 230
 MD5sum: e7a565e0b47f6e0f8926c3799fd700f5
 Size: 29508
 Filename: debs/com.chikuwa.safariclosetabactivator_0.0.1_iphoneos-arm.deb
-Depiction: http://repo.chikuwajb.cf/dp/?p=com.chikuwa.safariclosetabactivator
+Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikuwa.safariclosetabactivator
 
 Package: com.chikuwa.sakuraenabler
 Name: SakuraEnabler
@@ -1745,7 +1747,7 @@ Installed-Size: 69
 MD5sum: 2c3a5985d1294ff5f9a3520a0505ee0f
 Size: 2960
 Filename: debs/com.chikuwa.sakuraenabler_0.0.1-1_iphoneos-arm.deb
-Depiction: http://repo.chikuwajb.cf/dp/?p=com.chikuwa.sakuraenabler
+Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikuwa.sakuraenabler
 
 Package: com.chikuwa.screenshotflashflipswitch
 Name: ScreenShotFlashFlipSwitch
@@ -1760,7 +1762,7 @@ Installed-Size: 373
 MD5sum: 52811aa447e7a2f7c9a462499540f722
 Size: 129516
 Filename: debs/com.chikuwa.screenshotflashflipswitch_0.0.1-fix_iphoneos-arm.deb
-Depiction: http://repo.chikuwajb.cf/dp/?p=com.chikuwa.screenshotflashflipswitch
+Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikuwa.screenshotflashflipswitch
 
 Package: com.chikuwa.screenshotflashflipswitch
 Name: ScreenShotFlashFlipSwitch
@@ -1775,7 +1777,7 @@ Installed-Size: 373
 MD5sum: 16ee15f2b21eee683b5b1a9321bf8258
 Size: 129508
 Filename: debs/com.chikuwa.screenshotflashflipswitch_0.0.1_iphoneos-arm.deb
-Depiction: http://repo.chikuwajb.cf/dp/?p=com.chikuwa.screenshotflashflipswitch
+Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikuwa.screenshotflashflipswitch
 
 Package: com.chikuwa.screenshotflashflipswitch
 Name: ScreenShotFlashFlipSwitch
@@ -1790,7 +1792,7 @@ Installed-Size: 373
 MD5sum: 3712c6b6e1afe48ab25e130bb9c980d2
 Size: 129518
 Filename: debs/com.chikuwa.screenshotflashflipswitch_0.0.2_iphoneos-arm.deb
-Depiction: http://repo.chikuwajb.cf/dp/?p=com.chikuwa.screenshotflashflipswitch
+Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikuwa.screenshotflashflipswitch
 
 Package: com.chikuwa.shutd0wnic0n
 Name: Shutd0wn Ic0n
@@ -1804,7 +1806,7 @@ Installed-Size: 64
 MD5sum: b783ce229d99aa51c4d46ea6badf91db
 Size: 11098
 Filename: debs/com.chikuwa.shutd0wnic0n.deb
-Depiction: http://repo.chikuwajb.cf/dp/?p=com.chikuwa.shutd0wnic0n
+Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikuwa.shutd0wnic0n
 
 Package: com.chikuwa.sixdock
 Name: SixDock
@@ -1819,7 +1821,7 @@ Installed-Size: 68
 MD5sum: 2529deaca82679f0daa8a9ececc1f716
 Size: 3830
 Filename: debs/com.chikuwa.sixdock_0.0.1-1_iphoneos-arm.deb
-Depiction: http://repo.chikuwajb.cf/dp/?p=com.chikuwa.sixdock
+Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikuwa.sixdock
 
 Package: com.chikuwa.snowenabler
 Name: SnowEnabler
@@ -1834,22 +1836,7 @@ Installed-Size: 69
 MD5sum: 1e43eb79469f2250622258a2895b23db
 Size: 2962
 Filename: debs/com.chikuwa.snowenabler_0.0.1-1_iphoneos-arm.deb
-Depiction: http://repo.chikuwajb.cf/dp/?p=com.chikuwa.snowenabler
-
-Package: com.chikuwa.speakerstatusbar.e
-Name: SpeakerStatusBar-e
-Depends: mobilesubstrate,libstatusbar
-Architecture: iphoneos-arm
-Description: An awesome MobileSubstrate tweak!
-Maintainer: Chikuwa
-Author: Chikuwa
-Section: Tweaks
-Version: 1.0.1-e
-Installed-Size: 251
-MD5sum: 24a107cbc5dcbf8a7ed0f7f0e1054f04
-Size: 13202
-Filename: debs/com.chikuwa.speakerstatusbar.e_1.0.1-e_iphoneos-arm.deb
-Depiction: http://repo.chikuwajb.cf/dp/?p=com.chikuwa.speakerstatusbar.e
+Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikuwa.snowenabler
 
 Package: com.chikuwa.speakerstatusbar
 Name: SpeakerStatusBar
@@ -1864,7 +1851,7 @@ Installed-Size: 186
 MD5sum: a2e5d595e3119e4ef2313c4937c19791
 Size: 11902
 Filename: debs/com.chikuwa.speakerstatusbar_1.0.0-1_iphoneos-arm.deb
-Depiction: http://repo.chikuwajb.cf/dp/?p=com.chikuwa.speakerstatusbar
+Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikuwa.speakerstatusbar
 
 Package: com.chikuwa.speakerstatusbar
 Name: SpeakerStatusBar
@@ -1879,7 +1866,7 @@ Installed-Size: 187
 MD5sum: 0e7ade99e36a5c5f758ead38fa9cac14
 Size: 12120
 Filename: debs/com.chikuwa.speakerstatusbar_1.0.1-1_iphoneos-arm.deb
-Depiction: http://repo.chikuwajb.cf/dp/?p=com.chikuwa.speakerstatusbar
+Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikuwa.speakerstatusbar
 
 Package: com.chikuwa.speakerstatusbar
 Name: SpeakerStatusBar
@@ -1894,7 +1881,7 @@ Installed-Size: 186
 MD5sum: ec300e4241361efb091260f269e17ccc
 Size: 11926
 Filename: debs/com.chikuwa.speakerstatusbar_1.0.1-2_iphoneos-arm.deb
-Depiction: http://repo.chikuwajb.cf/dp/?p=com.chikuwa.speakerstatusbar
+Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikuwa.speakerstatusbar
 
 Package: com.chikuwa.speakerstatusbar
 Name: SpeakerStatusBar
@@ -1909,7 +1896,22 @@ Installed-Size: 187
 MD5sum: b79d3c3c33560e9f3cae9872625a0f95
 Size: 12496
 Filename: debs/com.chikuwa.speakerstatusbar_1.0.1-3_iphoneos-arm.deb
-Depiction: http://repo.chikuwajb.cf/dp/?p=com.chikuwa.speakerstatusbar
+Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikuwa.speakerstatusbar
+
+Package: com.chikuwa.speakerstatusbar.e
+Name: SpeakerStatusBar-e
+Depends: mobilesubstrate,libstatusbar
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Chikuwa
+Author: Chikuwa
+Section: Tweaks
+Version: 1.0.1-e
+Installed-Size: 251
+MD5sum: 24a107cbc5dcbf8a7ed0f7f0e1054f04
+Size: 13202
+Filename: debs/com.chikuwa.speakerstatusbar.e_1.0.1-e_iphoneos-arm.deb
+Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikuwa.speakerstatusbar.e
 
 Package: com.chikuwa.sq
 Name: SquareDots
@@ -1924,7 +1926,7 @@ Installed-Size: 152
 MD5sum: a87a88ef3c4ad3ec545df700553569fa
 Size: 7484
 Filename: debs/com.chikuwa.sq_0.0.1-1_iphoneos-arm.deb
-Depiction: http://repo.chikuwajb.cf/dp/?p=com.chikuwa.sq
+Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikuwa.sq
 
 Package: com.chikuwa.sq
 Name: SquareDots
@@ -1938,7 +1940,7 @@ Installed-Size: 168
 MD5sum: 2af98b34c1e590b560615f00cd57d02c
 Size: 22284
 Filename: debs/com.chikuwa.sq_0.0.1-2_iphoneos-arm.deb
-Depiction: http://repo.chikuwajb.cf/dp/?p=com.chikuwa.sq
+Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikuwa.sq
 
 Package: com.chikuwa.syslogdconf
 Name: syslogdconf
@@ -1952,7 +1954,7 @@ Installed-Size: 56
 MD5sum: c186ef4630241db5b3ac5cb3cc3fab69
 Size: 6070
 Filename: debs/com.chikuwa.syslogdconf_0.0.1-5_iphoneos-arm.deb
-Depiction: http://repo.chikuwajb.cf/dp/?p=com.chikuwa.syslogdconf
+Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikuwa.syslogdconf
 
 Package: com.chikuwa.takes
 Name: Take ScreenShot command
@@ -1968,7 +1970,7 @@ Installed-Size: 52
 MD5sum: fe6afaa8fe45c0f4cc370959e3fde417
 Size: 1994
 Filename: debs/com.chikuwa.takes.deb
-Depiction: http://repo.chikuwajb.cf/dp/?p=com.chikuwa.takes
+Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikuwa.takes
 
 Package: com.chikuwa.transcamera
 Name: TransCamera
@@ -1983,7 +1985,7 @@ Installed-Size: 101
 MD5sum: 772a277a9ab32dd98192aeff88c47584
 Size: 4320
 Filename: debs/com.chikuwa.transcamera_0.0.1_iphoneos-arm.deb
-Depiction: http://repo.chikuwajb.cf/dp/?p=com.chikuwa.transcamera
+Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikuwa.transcamera
 
 Package: com.chikuwa.transdockandfolderbackground
 Name: TransDockAndFolderBackground
@@ -1998,7 +2000,7 @@ Installed-Size: 101
 MD5sum: 3822d05e3d0f336da9d74596acbedd51
 Size: 3368
 Filename: debs/com.chikuwa.transdockandfolderbackground_0.0.1-1_iphoneos-arm.deb
-Depiction: http://repo.chikuwajb.cf/dp/?p=com.chikuwa.transdockandfolderbackground
+Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikuwa.transdockandfolderbackground
 
 Package: com.chikuwa.transparentdock
 Name: TransparentDock
@@ -2013,7 +2015,7 @@ Installed-Size: 69
 MD5sum: b19d783da2bd60b356550e5511de2d9a
 Size: 3004
 Filename: debs/com.chikuwa.transparentdock_0.0.1-1_iphoneos-arm.deb
-Depiction: http://repo.chikuwajb.cf/dp/?p=com.chikuwa.transparentdock
+Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikuwa.transparentdock
 
 Package: com.chikuwa.twitter
 Name: FollowChikuwa
@@ -2028,7 +2030,7 @@ Installed-Size: 101
 MD5sum: 6325239d5ea8faa67b98950fa68c4947
 Size: 11280
 Filename: debs/com.chikuwa.twitter_0.0.1_iphoneos-arm.deb
-Depiction: http://repo.chikuwajb.cf/dp/?p=com.chikuwa.twitter
+Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikuwa.twitter
 
 Package: com.chikuwa.uiswitchcolor
 Name: UISwitchColor
@@ -2043,7 +2045,7 @@ Installed-Size: 214
 MD5sum: ebfc3a495f37652c1bc89233a595bd09
 Size: 12066
 Filename: debs/com.chikuwa.uiswitchcolor_0.0.1-1_iphoneos-arm.deb
-Depiction: http://repo.chikuwajb.cf/dp/?p=com.chikuwa.uiswitchcolor
+Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikuwa.uiswitchcolor
 
 Package: com.chikuwa.unlockblocker
 Name: UnlockBlocker
@@ -2058,7 +2060,7 @@ Installed-Size: 152
 MD5sum: d0c28bf3915e6307fc457ef6b5b50963
 Size: 14218
 Filename: debs/com.chikuwa.unlockblocker_0.0.1-1_iphoneos-arm.deb
-Depiction: http://repo.chikuwajb.cf/dp/?p=com.chikuwa.unlockblocker
+Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikuwa.unlockblocker
 
 Package: com.chikuwa.unlockrequestaction
 Name: UnlockRequestAction
@@ -2073,7 +2075,7 @@ Installed-Size: 101
 MD5sum: a866ce16b73f91e63dfc451ce199831f
 Size: 7586
 Filename: debs/com.chikuwa.unlockrequestaction_0.0.1_iphoneos-arm.deb
-Depiction: http://repo.chikuwajb.cf/dp/?p=com.chikuwa.unlockrequestaction
+Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikuwa.unlockrequestaction
 
 Package: com.chikuwa.youtube
 Name: Youtubeブラウザー
@@ -2087,7 +2089,7 @@ Section: System
 MD5sum: a788ae8128e8ddc2e8b3a20b33564023
 Size: 6128
 Filename: debs/com.chikuwa.youtube.deb
-Depiction: http://repo.chikuwajb.cf/dp/?p=com.chikuwa.youtube
+Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikuwa.youtube
 
 Package: com.chikwa.safem0deicon
 Name: Safe M0de Icon
@@ -2101,7 +2103,7 @@ Installed-Size: 64
 MD5sum: 60f06863c9923618d7f654a8a6b2e2ea
 Size: 11714
 Filename: debs/com.chikwa.safem0deicon.deb
-Depiction: http://repo.chikuwajb.cf/dp/?p=com.chikwa.safem0deicon
+Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikwa.safem0deicon
 
 Package: com.jake0oo0.appster
 Name: Appster
@@ -2116,7 +2118,7 @@ Installed-Size: 4752
 MD5sum: 1414cb0af8d7b6bcdc637c603300e5ad
 Size: 4530190
 Filename: debs/com.jake0oo0.appster.deb
-Depiction: http://repo.chikuwajb.cf/dp/?p=com.jake0oo0.appster
+Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.jake0oo0.appster
 
 Package: com.ott.imeplus
 Name: IMEPlus
@@ -2132,7 +2134,7 @@ Sponsor: ModMyi.com <http://modmyi.com/forums/index.php?styleid=31>
 MD5sum: af4ba4245779f49d45137e5308a076a1
 Size: 20908
 Filename: debs/com.ott.imeplus.deb
-Depiction: http://repo.chikuwajb.cf/dp/?p=com.ott.imeplus
+Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.ott.imeplus
 
 Package: com.chikuwa.ios9wallpaper
 Name: iOS9 WallPapers
@@ -2144,7 +2146,20 @@ Section: Wallpaper
 MD5sum: aa1390ba19b619f0baf9fdc7744b6861
 Size: 36970304
 Filename: debs/ios9wallpapers.deb
-Depiction: http://repo.chikuwajb.cf/dp/?p=com.chikuwa.ios9wallpaper
+Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikuwa.ios9wallpaper
+
+Package: com.chikuwa.linej
+Name: LINjEctor(自己責任)
+Architecture: iphoneos-arm
+Description: 動くかわからない。。
+Maintainer: Chikuwa
+Author: Chikuwa
+Section: Utilities
+Version: 0.0.1-2
+MD5sum: ec39e8e36f8bdc48d542752ca6059c39
+Size: 46986
+Filename: debs/LINjEctor.deb
+Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikuwa.linej
 
 Package: me.chewitt.seng
 Name: seng
@@ -2162,6 +2177,6 @@ tag: cydia::commercial
 MD5sum: d37f907eece1f13221bfa15fb8032405
 Size: 376080
 Filename: debs/me.chewitt.seng_1.0.1_iphoneos-arm.deb
-Depiction: http://repo.chikuwajb.cf/dp/?p=me.chewitt.seng
+Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=me.chewitt.seng
 
 
