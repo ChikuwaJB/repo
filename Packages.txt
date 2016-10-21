@@ -1,3 +1,16 @@
+Package: com.chikuwa.linej
+Name: LINjEctor(自己責任)
+Architecture: iphoneos-arm
+Description: 動くかわからない。。
+Maintainer: Chikuwa
+Author: Chikuwa
+Section: Utilities
+Version: 0.0.1-2
+MD5sum: ec39e8e36f8bdc48d542752ca6059c39
+Size: 46986
+Filename: debs/LINjEctor.deb
+Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikuwa.linej
+
 Package: com.chikuwa.betarepo
 Name: Chikuwa Beta Repository(repo.chikuwajb.cf)
 Version: 1.0
@@ -718,18 +731,20 @@ Size: 6472
 Filename: debs/com.chikuwa.killme_0.0.1-1_iphoneos-arm.deb
 Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikuwa.killme
 
-Package: com.chikuwa.lineage8
-Name: lineage for ios8
+Package: com.chikuwa.line
+Name: LINEきせかえストア(Beta)
+Depends: wget, com.chikuwa.cacheclean
 Architecture: iphoneos-arm
-Description: LINEの年齢認証を回避します
+Description: LINEの非公式きせかえストア
 Maintainer: Chikuwa
 Author: Chikuwa
 Section: Utilities
-Version: 0.0.3
-MD5sum: 3227b432bbe4000801113fe8dc0d2dee
-Size: 43272
-Filename: debs/com.chikuwa.lineage8.deb
-Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikuwa.lineage8
+Version: 0.1.8
+Installed-Size: 80
+MD5sum: 8564327cfa04b305f737801ef9cd93f9
+Size: 42434
+Filename: debs/com.chikuwa.line.deb
+Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikuwa.line
 
 Package: com.chikuwa.lineage
 Name: lineage for ios7&6
@@ -745,20 +760,18 @@ Size: 41626
 Filename: debs/com.chikuwa.lineage.deb
 Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikuwa.lineage
 
-Package: com.chikuwa.line
-Name: LINEきせかえストア(Beta)
-Depends: wget, com.chikuwa.cacheclean
+Package: com.chikuwa.lineage8
+Name: lineage for ios8
 Architecture: iphoneos-arm
-Description: LINEの非公式きせかえストア
+Description: LINEの年齢認証を回避します
 Maintainer: Chikuwa
 Author: Chikuwa
 Section: Utilities
-Version: 0.1.8
-Installed-Size: 80
-MD5sum: 8564327cfa04b305f737801ef9cd93f9
-Size: 42434
-Filename: debs/com.chikuwa.line.deb
-Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikuwa.line
+Version: 0.0.3
+MD5sum: 3227b432bbe4000801113fe8dc0d2dee
+Size: 43272
+Filename: debs/com.chikuwa.lineage8.deb
+Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikuwa.lineage8
 
 Package: com.chikuwa.lineextenderflipswitch
 Name: LINEExtenderFlipSwitch
@@ -1541,6 +1554,21 @@ Size: 8182
 Filename: debs/com.chikuwa.nowplayingstatusbar_0.0.2_iphoneos-arm.deb
 Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikuwa.nowplayingstatusbar
 
+Package: com.chikuwa.onehandkey
+Name: OneHandKey
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Chikuwa
+Author: Chikuwa
+Section: Tweaks
+Version: 0.0.1-1+debug
+Installed-Size: 120
+MD5sum: 0f37dfeb8fd7dcd01542924e75d973c5
+Size: 3478
+Filename: debs/com.chikuwa.onehandkey_0.0.1-1+debug_iphoneos-arm.deb
+Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikuwa.onehandkey
+
 Package: com.chikuwa.pageswitcher9
 Name: PageSwitcher9
 Depends: mobilesubstrate
@@ -1838,6 +1866,21 @@ Size: 2962
 Filename: debs/com.chikuwa.snowenabler_0.0.1-1_iphoneos-arm.deb
 Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikuwa.snowenabler
 
+Package: com.chikuwa.speakerstatusbar.e
+Name: SpeakerStatusBar-e
+Depends: mobilesubstrate,libstatusbar
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Chikuwa
+Author: Chikuwa
+Section: Tweaks
+Version: 1.0.1-e
+Installed-Size: 251
+MD5sum: 24a107cbc5dcbf8a7ed0f7f0e1054f04
+Size: 13202
+Filename: debs/com.chikuwa.speakerstatusbar.e_1.0.1-e_iphoneos-arm.deb
+Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikuwa.speakerstatusbar.e
+
 Package: com.chikuwa.speakerstatusbar
 Name: SpeakerStatusBar
 Depends: mobilesubstrate
@@ -1897,21 +1940,6 @@ MD5sum: b79d3c3c33560e9f3cae9872625a0f95
 Size: 12496
 Filename: debs/com.chikuwa.speakerstatusbar_1.0.1-3_iphoneos-arm.deb
 Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikuwa.speakerstatusbar
-
-Package: com.chikuwa.speakerstatusbar.e
-Name: SpeakerStatusBar-e
-Depends: mobilesubstrate,libstatusbar
-Architecture: iphoneos-arm
-Description: An awesome MobileSubstrate tweak!
-Maintainer: Chikuwa
-Author: Chikuwa
-Section: Tweaks
-Version: 1.0.1-e
-Installed-Size: 251
-MD5sum: 24a107cbc5dcbf8a7ed0f7f0e1054f04
-Size: 13202
-Filename: debs/com.chikuwa.speakerstatusbar.e_1.0.1-e_iphoneos-arm.deb
-Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikuwa.speakerstatusbar.e
 
 Package: com.chikuwa.sq
 Name: SquareDots
@@ -2147,19 +2175,6 @@ MD5sum: aa1390ba19b619f0baf9fdc7744b6861
 Size: 36970304
 Filename: debs/ios9wallpapers.deb
 Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikuwa.ios9wallpaper
-
-Package: com.chikuwa.linej
-Name: LINjEctor(自己責任)
-Architecture: iphoneos-arm
-Description: 動くかわからない。。
-Maintainer: Chikuwa
-Author: Chikuwa
-Section: Utilities
-Version: 0.0.1-2
-MD5sum: ec39e8e36f8bdc48d542752ca6059c39
-Size: 46986
-Filename: debs/LINjEctor.deb
-Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikuwa.linej
 
 Package: me.chewitt.seng
 Name: seng
