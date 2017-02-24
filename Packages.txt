@@ -1147,6 +1147,21 @@ Size: 3418
 Filename: debs/com.chikuwa.nolineid_0.0.1_iphoneos-arm.deb
 Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikuwa.nolineid
 
+Package: com.chikuwa.nolinenewstab
+Name: NoLINENewsTab
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Cihkuwa
+Author: Cihkuwa
+Section: Tweaks
+Version: 2.0.0
+Installed-Size: 120
+MD5sum: c15f61d7e54f61e32682e9eab66d224f
+Size: 4300
+Filename: debs/com.chikuwa.nolinenewstab_2.0.0_iphoneos-arm.deb
+Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikuwa.nolinenewstab
+
 Package: com.chikuwa.nolinesearchbar
 Name: NoLINESearchBar
 Depends: mobilesubstrate
