@@ -1372,6 +1372,21 @@ Size: 2958
 Filename: debs/com.chikuwa.nonews_0.0.1-1_iphoneos-arm.deb
 Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikuwa.nonews
 
+Package: com.chikuwa.nonosimalert
+Name: NoNoSIMAlert
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Chikuwa
+Author: Chikuwa
+Section: Tweaks
+Version: 1.0.0
+Installed-Size: 120
+MD5sum: b03070b238c05d600c707de144ff087b
+Size: 2908
+Filename: debs/com.chikuwa.nonosimalert_1.0.0_iphoneos-arm.deb
+Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikuwa.nonosimalert
+
 Package: com.chikuwa.nopasspadhighlight
 Name: NoPassPadHighlight
 Depends: mobilesubstrate
