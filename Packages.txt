@@ -701,6 +701,21 @@ Size: 12428
 Filename: debs/com.chikuwa.imagepass_0.0.1-1_iphoneos-arm.deb
 Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikuwa.imagepass
 
+Package: com.chikuwa.instasaver
+Name: InstaSaver
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Chikuwa
+Author: Main
+Section: Tweaks
+Version: 0.0.1
+Installed-Size: 120
+MD5sum: c8c1a6fe478ad6e76a2049d0edcb890a
+Size: 6270
+Filename: debs/com.chikuwa.instasaver_0.0.1_iphoneos-arm.deb
+Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikuwa.instasaver
+
 Package: com.chikuwa.jpegscreenshot
 Name: JPEGScreenShot
 Depends: mobilesubstrate
