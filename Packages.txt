@@ -161,15 +161,16 @@ Package: com.chikuwa.buylineextender
 Name: BuyLINEExtender
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Description: An awesome MobileSubstrate tweak!
+Description: Extend your LINE!!
 Maintainer: Chikuwa
 Author: Chikuwa
 Section: Tweaks
-Version: 0.0.1
-Installed-Size: 110
-MD5sum: e5b681ff6d5b4b10e9cce9e9785ad8d9
-Size: 5714
-Filename: debs/com.chikuwa.buylineextender_0.0.1_iphoneos-arm.deb
+Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikuwa.buylineextender
+Version: 1.0.0
+Installed-Size: 128
+MD5sum: f133757c7cc1fdacfd4c84a7ad2345fe
+Size: 5118
+Filename: debs/com.chikuwa.buylineextender_1.0.0_iphoneos-arm.deb
 Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikuwa.buylineextender
 
 Package: com.chikuwa.bypasstsumtsumversioncheck
