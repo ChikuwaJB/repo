@@ -67,6 +67,21 @@ Size: 3612
 Filename: debs/com.chikuwa.alwaysanonymouslineq_0.0.1_iphoneos-arm.deb
 Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikuwa.alwaysanonymouslineq
 
+Package: com.chikuwa.appid
+Name: AppID
+Architecture: iphoneos-arm
+Description: An awesome application!
+Maintainer: Chikuwa
+Author: Chikuwa
+Section: Utilities
+Depends: applist
+Version: 0.0.2
+Installed-Size: 144
+MD5sum: aacc18c852e16b11a8c8ac3b2196bcec
+Size: 9966
+Filename: debs/com.chikuwa.appid_0.0.2_iphoneos-arm.deb
+Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikuwa.appid
+
 Package: com.chikuwa.appids
 Name: AppIds
 Architecture: iphoneos-arm
