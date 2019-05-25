@@ -7,6 +7,8 @@ Author: Chikuwa
 Section: Utilities
 Version: 0.0.1-2
 MD5sum: ec39e8e36f8bdc48d542752ca6059c39
+SHA1: 02f7675dbb2b91191f4975446520e6ea49ff0e91
+SHA256: 35ea4ac1fadd6bdd5b1a24240bebf188b3613c343d1036f1b27649ab4876cc97
 Size: 46986
 Filename: debs/LINjEctor.deb
 Depiction: http://chikuwajb.github.io/repository_description/dp/?p=com.chikuwa.linej
@@ -19,6 +21,8 @@ Description: Chikuwa's Beta Repository
 Author: Chikuwa
 Section: Repositories
 MD5sum: 60b45cd3e7660a4951ac337dc9a7c4e0
+SHA1: 96c5eab18b3061f5e616a357ebacb2b5aac557fd
+SHA256: 30576f237438ae7225f6d5a5a8cf5070b16440ad7442f1483df5680c4e35794a
 Size: 686
 Filename: debs/betarepo.deb
 Depiction: http://chikuwajb.github.io/repository_description/dp/?p=com.chikuwa.betarepo
@@ -33,6 +37,8 @@ Section: Utilities
 Version: 0.0.2-3
 Installed-Size: 80
 MD5sum: bf6973ed748a89b72fbd86662aeb5784
+SHA1: cd30162b08349c913705a69f29a75709de362c90
+SHA256: ae56c9b40ddb1201f32b3ab3bfb96a7f67557fc3a5b4b2f6255c4a2507fe88d3
 Size: 683472
 Filename: debs/cameraslient.deb
 Depiction: http://chikuwajb.github.io/repository_description/dp/?p=com.chikuwa.camerasilent
@@ -48,6 +54,8 @@ Section: Tweaks
 Version: 0.0.1-1
 Installed-Size: 101
 MD5sum: 466a69c19911aca2452237847e1480c1
+SHA1: 7f78b8829b7e7e96b62626b2245f2340058fc152
+SHA256: 62041cfed9443a94372b254d55949531df194bbf5d4d99dcb8bd4330814b9ffb
 Size: 3316
 Filename: debs/com.chikuwa.allownestedfolders_0.0.1-1_iphoneos-arm.deb
 Depiction: http://chikuwajb.github.io/repository_description/dp/?p=com.chikuwa.allownestedfolders
@@ -63,6 +71,8 @@ Section: Tweaks
 Version: 0.0.1
 Installed-Size: 101
 MD5sum: c91f5a7635618a5ec1c9a93e99a8910f
+SHA1: 65ee45fdcbe0d5adadede530aef99c7f51e137cd
+SHA256: 38b76c0bb208c47dea02f6635fcb422b99cce143437689b8c4a2678739bdf195
 Size: 3612
 Filename: debs/com.chikuwa.alwaysanonymouslineq_0.0.1_iphoneos-arm.deb
 Depiction: http://chikuwajb.github.io/repository_description/dp/?p=com.chikuwa.alwaysanonymouslineq
@@ -78,6 +88,8 @@ Depends: applist
 Version: 0.0.2
 Installed-Size: 140
 MD5sum: 7f01ce526c3a59da0c8db7cd44a650c0
+SHA1: 3f75a8535f721acc987f082d5e8ac7bdedaba3c2
+SHA256: c0aed8b5b5f66a95f1014da92d5323deeb5f70595affc8ae61e80a4a9ab11940
 Size: 8844
 Filename: debs/com.chikuwa.appid_0.0.2_iphoneos-arm.deb
 Depiction: http://chikuwajb.github.io/repository_description/dp/?p=com.chikuwa.appid
@@ -93,6 +105,8 @@ Depends: applist
 Version: 1.0.0
 Installed-Size: 140
 MD5sum: 96faa85cff8d2b0c3cdd02cf3077aa9a
+SHA1: 640be2289a6a54c4560c34a8c4423c185c1ab0b4
+SHA256: 0b97a2519830142cad9949fad71d2f1eeb33ae52261a69822af453815b2438c3
 Size: 8854
 Filename: debs/com.chikuwa.appid_1.0.0_iphoneos-arm.deb
 Depiction: http://chikuwajb.github.io/repository_description/dp/?p=com.chikuwa.appid
@@ -108,6 +122,8 @@ Section: Tweak
 Version: 0.1-1
 Installed-Size: 720
 MD5sum: 9f432c025c8e824e14031c9e41c96477
+SHA1: e0e92361a03cfc4c03edfc8d3a73d42a2e347f12
+SHA256: 35bb3747039386bbfceaee91461166a8dd32169adcf31e70ba88783eb960d694
 Size: 547692
 Filename: debs/com.chikuwa.appids_0.1-1_iphoneos-arm.deb
 Depiction: http://chikuwajb.github.io/repository_description/dp/?p=com.chikuwa.appids
@@ -123,6 +139,8 @@ Section: Tweak
 Version: 0.1-8
 Installed-Size: 108
 MD5sum: e28f452b9bdf10fc5cbafc9e2eb344d4
+SHA1: ff393d38c6ca37e2efddbd62550fbc3f5aae9a54
+SHA256: 0df91b10d723348416e5b116dfd18bc6c86d8d141f458a70d6808bde2f4c54e1
 Size: 17602
 Filename: debs/com.chikuwa.appinfo_0.1-8_iphoneos-arm.deb
 Depiction: http://chikuwajb.github.io/repository_description/dp/?p=com.chikuwa.appid
@@ -138,6 +156,8 @@ Section: Tweaks
 Version: 0.0.1
 Installed-Size: 101
 MD5sum: bb5698a87eaf8e7d3b8664223193f8e7
+SHA1: c9cf96fdd02048ff3a5a9aac4deebed3045ff937
+SHA256: e701756d5bb0b0770a892ccebaf61e61c3d8fe0f05b8f8e2277644b4780e5d67
 Size: 3728
 Filename: debs/com.chikuwa.autolowpowermode_0.0.1_iphoneos-arm.deb
 Depiction: http://chikuwajb.github.io/repository_description/dp/?p=com.chikuwa.autolowpowermode
@@ -153,6 +173,8 @@ Section: Tweaks
 Version: 0.0.1
 Installed-Size: 301
 MD5sum: 24910ac53ab087085ffb5c6adffa20a0
+SHA1: d160fe8865aa1730712970ac79a4762eda6ed4d1
+SHA256: a12f8a9cc3f1130c5cd4f75f7314dba04904dfaee4ade45f5ebb69bd208af03a
 Size: 70282
 Filename: debs/com.chikuwa.badgeflipswitch_0.0.1_iphoneos-arm.deb
 Depiction: http://chikuwajb.github.io/repository_description/dp/?p=com.chikuwa.badgeflipswitch
@@ -168,6 +190,8 @@ Section: Tweaks
 Version: 0.0.1-1
 Installed-Size: 68
 MD5sum: 4c2d9e6097c02858cd2277d376ba1c5f
+SHA1: 9bfad98ac7eb33557cdbacd3264e70134ca7e6ba
+SHA256: a12298760f874465d0202974528cc8e9206b02d25459a59a04a53a5d4af23bf4
 Size: 3318
 Filename: debs/com.chikuwa.batteryiconwhilecharging_0.0.1-1_iphoneos-arm.deb
 Depiction: http://chikuwajb.github.io/repository_description/dp/?p=com.chikuwa.batteryiconwhilecharging
@@ -183,6 +207,8 @@ Section: Tweaks
 Version: 0.0.1-4
 Installed-Size: 69
 MD5sum: 0419131568cb07e781f495149cba9544
+SHA1: fd11412c3503e8c23d877fae25541906fdaf0228
+SHA256: 7c6ea519442e1a47d9e79705c9fb144589e25ff8fdda808d55db811c2129f878
 Size: 3366
 Filename: debs/com.chikuwa.batteryiconwhilecharging_0.0.1-4_iphoneos-arm.deb
 Depiction: http://chikuwajb.github.io/repository_description/dp/?p=com.chikuwa.batteryiconwhilecharging
@@ -199,6 +225,8 @@ Depiction: http://chikuwajb.github.io/repo.chikuwajb.cf/dp/?p=com.chikuwa.buylin
 Version: 1.0.0
 Installed-Size: 128
 MD5sum: f133757c7cc1fdacfd4c84a7ad2345fe
+SHA1: c866f2d6039464e5e911094bb07a2f3c60e6ba5a
+SHA256: 47f319cf83f99bb628df84ddd70080fed924f3796203f46889df645df0b5e069
 Size: 5118
 Filename: debs/com.chikuwa.buylineextender_1.0.0_iphoneos-arm.deb
 Depiction: http://chikuwajb.github.io/repository_description/dp/?p=com.chikuwa.buylineextender
@@ -214,6 +242,8 @@ Section: Tweaks
 Version: 0.0.1
 Installed-Size: 101
 MD5sum: 0d384c054cdc157ab5507ba6157d100e
+SHA1: e0c3fcb66f668ae35e613b4ec9f20bd78e995f68
+SHA256: 18e356ac509d984e7a67cebf33de6ed3c0177c4337c5ae0ea41b97e8f7387b95
 Size: 3360
 Filename: debs/com.chikuwa.bypasstsumtsumversioncheck_0.0.1_iphoneos-arm.deb
 Depiction: http://chikuwajb.github.io/repository_description/dp/?p=com.chikuwa.bypasstsumtsumversioncheck
@@ -229,6 +259,8 @@ Author: Chikuwa <yuko.mail.10.2@hogehoge.com>
 Section: System
 Icon: file:///var/mobile/Library/Chikuwa_Icons/com.chikuwa.cacheclean.png
 MD5sum: cf6e991b3f9e00fe9de7a006d8f90c57
+SHA1: e8f1282c0663b89b13fa8a2be8fa642bbc660b10
+SHA256: 890a74253c131e7f40cda179aa878f8c0df017733d41277cd3f27f024ffc86e7
 Size: 2196
 Filename: debs/com.chikuwa.cacheclean.deb
 Depiction: http://chikuwajb.github.io/repository_description/dp/?p=com.chikuwa.cacheclean
@@ -244,6 +276,8 @@ Depiction: http://yu-ki.ga/s/?deb=com.chikuwa.camerasilent
 Version: 0.0.2-2
 Installed-Size: 80
 MD5sum: 11b457feb1c8bf4baa150cf254f38bfd
+SHA1: ebcde63fc0a548ce1b0bccc40a69dfb1a82cf262
+SHA256: ae74339e7d712b4cee41bc254a399019b1d536ea86cf3f550f2724c94019d56c
 Size: 17598
 Filename: debs/com.chikuwa.camerasilent.deb
 Depiction: http://chikuwajb.github.io/repository_description/dp/?p=com.chikuwa.camerasilent
@@ -259,6 +293,8 @@ Section: Tweaks
 Version: 0.0.1-1
 Installed-Size: 72
 MD5sum: 9d495272670390b27ed1d204b1ac6684
+SHA1: 40d1af1cb4f559f123b5de22a34400c25ee8fb8a
+SHA256: fa412d85fc3bd2ca4f6acbcb08eac156282ccd0ac5da7a4aa44a857c889cbf24
 Size: 3732
 Filename: debs/com.chikuwa.centerbanner_0.0.1-1_iphoneos-arm.deb
 Depiction: http://chikuwajb.github.io/repository_description/dp/?p=com.chikuwa.centerbanner
@@ -274,6 +310,8 @@ Section: Tweaks
 Version: 0.0.1-1
 Installed-Size: 158
 MD5sum: 854189e6abe66e57d4b89979b3979283
+SHA1: 7714cef1f80b57c850f39124e000b6499df0ef31
+SHA256: 7894d786a77fa8db9fca4a54c7958da7c22f9e52aecd802e390770ba68ae4a4e
 Size: 9078
 Filename: debs/com.chikuwa.chargingstatusbar_0.0.1-1_iphoneos-arm.deb
 Depiction: http://chikuwajb.github.io/repository_description/dp/?p=com.chikuwa.chargingstatusbar
@@ -289,6 +327,8 @@ Section: Tweaks
 Version: 0.0.1-2
 Installed-Size: 159
 MD5sum: c2bb78e2b8a02939aa6d5bb95d0cdffa
+SHA1: 612b2b2149072940bdaef4829667619f1b3e05a3
+SHA256: fd3be5d71374191e5c221d34ee9fe47233514ddc51eb71353f4060e8f6815528
 Size: 9262
 Filename: debs/com.chikuwa.chargingstatusbar_0.0.1-2_iphoneos-arm.deb
 Depiction: http://chikuwajb.github.io/repository_description/dp/?p=com.chikuwa.chargingstatusbar
@@ -304,6 +344,8 @@ Section: Tweaks
 Version: 0.0.1-3
 Installed-Size: 158
 MD5sum: b54f770dc84ca6e45008586e19179571
+SHA1: b327832cdca23d339d0702d30887cb067fd6514a
+SHA256: 1e88738ee5c4ed3f9add1262cba0e95ed9ab0fc8a5836ef706e5aa7d717bc6b4
 Size: 9114
 Filename: debs/com.chikuwa.chargingstatusbar_0.0.1-3_iphoneos-arm.deb
 Depiction: http://chikuwajb.github.io/repository_description/dp/?p=com.chikuwa.chargingstatusbar
@@ -319,6 +361,8 @@ Section: Tweaks
 Version: 0.0.1-4
 Installed-Size: 159
 MD5sum: 3f7098666bc6b4e1826c7a967332bef9
+SHA1: b4aaed5477c6fe8ce3377fb7034bbd3c6ea551a2
+SHA256: 0e3e1eb359493dc7a2d01ee0bf814c18b8069a2e7f159cb5ddd3fb7fbfbf94e0
 Size: 9584
 Filename: debs/com.chikuwa.chargingstatusbar_0.0.1-4_iphoneos-arm.deb
 Depiction: http://chikuwajb.github.io/repository_description/dp/?p=com.chikuwa.chargingstatusbar
@@ -334,6 +378,8 @@ Section: Tweaks
 Version: 0.0.1-5
 Installed-Size: 223
 MD5sum: 6d2cf6cc9703a5c400a980dc20edc6c3
+SHA1: 84f8812eec67f4a1d73a9450b9227c5c0f2e925e
+SHA256: 11f13e751a68e6fd61c341ed3539dd60dedff54255ac548c1011e008b125f26a
 Size: 10738
 Filename: debs/com.chikuwa.chargingstatusbar_0.0.1-5_iphoneos-arm.deb
 Depiction: http://chikuwajb.github.io/repository_description/dp/?p=com.chikuwa.chargingstatusbar
@@ -349,6 +395,8 @@ Section: Tweaks
 Version: 0.0.1
 Installed-Size: 101
 MD5sum: 7b9fbaa5b3313489736d671eaf7faaa6
+SHA1: 4a653c3e4fbe15162126c9c7cb7322cca57b8325
+SHA256: 12a0c0b38cb6848bf2e9677ba26e8bcd8b778116f7f03c53a7138a8ef0476f53
 Size: 3488
 Filename: debs/com.chikuwa.cnopagebounce_0.0.1_iphoneos-arm.deb
 Depiction: http://chikuwajb.github.io/repository_description/dp/?p=com.chikuwa.cnopagebounce
@@ -364,6 +412,8 @@ Section: Tweaks
 Version: 0.0.1
 Installed-Size: 214
 MD5sum: 5f8dc62b4e2c7512523228b1c150bee5
+SHA1: 7f21a6e3900c96dd07d8ea82ad1c5be163c0d078
+SHA256: 827b02e6f38a203918b965b924791570d606c643cfd1a510b8ef5870088f240d
 Size: 11538
 Filename: debs/com.chikuwa.colorsafariprogress_0.0.1_iphoneos-arm.deb
 Depiction: http://chikuwajb.github.io/repository_description/dp/?p=com.chikuwa.colorsafariprogress
@@ -379,6 +429,8 @@ Section: Tweaks
 Version: 0.0.1
 Installed-Size: 211
 MD5sum: 025fd0f1151b73e2dd713d949d26944e
+SHA1: 434c90f124d2b38580703cd7c279a9136c396a36
+SHA256: 8351e336d1c7f180417534e8fac029d4ae8105983a15cbf7e3137957e2c1bcc0
 Size: 11572
 Filename: debs/com.chikuwa.colortweetbotaction_0.0.1_iphoneos-arm.deb
 Depiction: http://chikuwajb.github.io/repository_description/dp/?p=com.chikuwa.colortweetbotaction
@@ -394,6 +446,8 @@ Section: Tweaks
 Version: 0.0.1
 Installed-Size: 101
 MD5sum: 0bf52910367bd5510ea5c3183eaff12f
+SHA1: 23dfa029eecc743fff3bd53f08bce446efac057c
+SHA256: 9f8888a5185d04854d7f3d79a8535c964f52657f67cc500486755a19da15ea80
 Size: 5008
 Filename: debs/com.chikuwa.confirmsendmessage_0.0.1_iphoneos-arm.deb
 Depiction: http://chikuwajb.github.io/repository_description/dp/?p=com.chikuwa.confirmsendmessage
@@ -409,6 +463,8 @@ Section: Tweaks
 Version: 0.0.1
 Installed-Size: 101
 MD5sum: 49136cb9c7a6d05ae4919ec480c010be
+SHA1: ac302b0f5392fb17c91cd2be837daa05c2277a33
+SHA256: ea822d9810418c019814da60c0a39740452b5acd6ccd0b5d27356255a3e0a94c
 Size: 4952
 Filename: debs/com.chikuwa.confirmsendsticker_0.0.1_iphoneos-arm.deb
 Depiction: http://chikuwajb.github.io/repository_description/dp/?p=com.chikuwa.confirmsendsticker
@@ -424,6 +480,8 @@ Section: Tweaks
 Version: 0.0.1
 Installed-Size: 101
 MD5sum: a4aa6d2c83fb982102d3e6c8c43cba8c
+SHA1: 0fe486833f4f21f91423d0e0fb4b6c60b7dca085
+SHA256: 7d9501fed2af86aed2875b31fac07c419889bfd629c0672cfa837031a2c40391
 Size: 5070
 Filename: debs/com.chikuwa.confirmtweet_0.0.1_iphoneos-arm.deb
 Depiction: http://chikuwajb.github.io/repository_description/dp/?p=com.chikuwa.confirmtweet
@@ -439,6 +497,8 @@ Section: Tweaks
 Version: 0.0.1-1
 Installed-Size: 150
 MD5sum: e16bee76a766335b839566e0ad79f2be
+SHA1: ffe1940dc570db0180ce19beb03675c471c6eec9
+SHA256: bb81e39a3660cce4544b6730edfbcda2e2368a418c60c2149ca198590fef1108
 Size: 7750
 Filename: debs/com.chikuwa.customunlocktext_0.0.1-1_iphoneos-arm.deb
 Depiction: http://chikuwajb.github.io/repository_description/dp/?p=com.chikuwa.customunlocktext
@@ -454,6 +514,8 @@ Section: Tweaks
 Version: 0.0.1-2
 Installed-Size: 214
 MD5sum: 19bc160a2d664f18656880e2dc688cad
+SHA1: 38b7ff10e20951c3f850d7cd3d393b693b28e1d9
+SHA256: 5c64c8ae7fa8e386c83d5b1198536fff15c0899400b54a70af00c7f4cf2ef442
 Size: 8746
 Filename: debs/com.chikuwa.customunlocktext_0.0.1-2_iphoneos-arm.deb
 Depiction: http://chikuwajb.github.io/repository_description/dp/?p=com.chikuwa.customunlocktext
@@ -469,6 +531,8 @@ Section: Tweaks
 Version: 0.0.0~beta1
 Installed-Size: 101
 MD5sum: 1b0647478933988882e96995d7b61806
+SHA1: a227aea3c09d88ce5ee23e80e163fee76a997027
+SHA256: 7ef910ec87033a14839df3fe6260b7d7cf51b63faaa3a42381432eeaf83a70a8
 Size: 4658
 Filename: debs/com.chikuwa.cydiahideupdates_0.0.0~beta1_iphoneos-arm.deb
 Depiction: http://chikuwajb.github.io/repository_description/dp/?p=com.chikuwa.cydiahideupdates
@@ -484,6 +548,8 @@ Section: Tweaks
 Version: 0.0.1-1
 Installed-Size: 152
 MD5sum: bcf4def62a32d37141df5c1159ceb156
+SHA1: d4af5e4aaa5dee8f165520a01e80d26ffa2079f9
+SHA256: 3798040da9e02dc9e972459137ac30f6538b49ce8230b36e84b58318e107a9bf
 Size: 7974
 Filename: debs/com.chikuwa.disableuninstall_0.0.1-1_iphoneos-arm.deb
 Depiction: http://chikuwajb.github.io/repository_description/dp/?p=com.chikuwa.disableuninstall
@@ -499,6 +565,8 @@ Section: Tweaks
 Version: 0.0.1-2
 Installed-Size: 153
 MD5sum: 2cfdb976421b63167233d9327e1bec2f
+SHA1: 534e54a0d730160c9bb54b6bdd59f597485a7dc5
+SHA256: 4c682693817046940c10769b396a1cdcd89067cfe34ef2d546efc17231a88843
 Size: 7776
 Filename: debs/com.chikuwa.disableuninstall_0.0.1-2_iphoneos-arm.deb
 Depiction: http://chikuwajb.github.io/repository_description/dp/?p=com.chikuwa.disableuninstall
@@ -515,6 +583,8 @@ Icon: file:///Library/PreferenceBundles/EarphoneMusic.bundle/EarphoneMusic@2x.pn
 Version: 0.0.1-1
 Installed-Size: 154
 MD5sum: 0771458bc0aeab166f814929b7ae884d
+SHA1: aac9446db0e7faaa919a95953b11057dffbbecb5
+SHA256: c762a8095d3091309403c33eb1341367785abbd81e9a84f38f9008d2f949a807
 Size: 12592
 Filename: debs/com.chikuwa.earphonemusic_0.0.1-1_iphoneos-arm.deb
 Depiction: http://chikuwajb.github.io/repository_description/dp/?p=com.chikuwa.earphonemusic
@@ -530,6 +600,8 @@ Section: Tweaks
 Version: 0.0.1-1
 Installed-Size: 170
 MD5sum: 97c8ba36ebf8d2026d22be579efcfb2e
+SHA1: deadcca3329a059a0235bacd84713c3291954035
+SHA256: 8b7fd83bc83357749fe996b3f5a7dbbc51716583802eb63ab0e25ff93533ad71
 Size: 9186
 Filename: debs/com.chikuwa.earphonestatusbar_0.0.1-1_iphoneos-arm.deb
 Depiction: http://chikuwajb.github.io/repository_description/dp/?p=com.chikuwa.earphonestatusbar
@@ -545,6 +617,8 @@ Section: Tweaks
 Version: 0.0.1-2
 Installed-Size: 158
 MD5sum: 571e060359b1b730105a487747b60aad
+SHA1: 926b0df633ca2197f51866e07fedadb7eeb34953
+SHA256: 207d69235769c9ca8851ac9fa9c5e5f1f5c56705d972fedea58d70ce5666673e
 Size: 9450
 Filename: debs/com.chikuwa.earphonestatusbar_0.0.1-2_iphoneos-arm.deb
 Depiction: http://chikuwajb.github.io/repository_description/dp/?p=com.chikuwa.earphonestatusbar
@@ -561,6 +635,8 @@ Icon: file:///Library/PreferenceBundles/EarphoneStatusBar.bundle/EarphoneStatusB
 Version: 0.0.1-3
 Installed-Size: 162
 MD5sum: 6cf204c5032017c01e086aaf2b32f8dc
+SHA1: bf5364fd184744dafabe57cbd00bd158aecdabc8
+SHA256: ef18bd443dc7c6f71cd3ef08200c59f52e99d523c967bad0754e13642aba776b
 Size: 11540
 Filename: debs/com.chikuwa.earphonestatusbar_0.0.1-3_iphoneos-arm.deb
 Depiction: http://chikuwajb.github.io/repository_description/dp/?p=com.chikuwa.earphonestatusbar
@@ -577,6 +653,8 @@ Icon: file:///Library/PreferenceBundles/EarphoneStatusBar.bundle/EarphoneStatusB
 Version: 0.0.1-4
 Installed-Size: 162
 MD5sum: b5c4ce14e82eeaa27b6bb8d2f50e4165
+SHA1: 39122ebab07987a7e4fa73cf9dd0ae81c0f3fc3c
+SHA256: 17b7dab238c1bf5407296ff2d7417ef49916e04fbc4f9d512a0c35fc67a226ca
 Size: 11670
 Filename: debs/com.chikuwa.earphonestatusbar_0.0.1-4_iphoneos-arm.deb
 Depiction: http://chikuwajb.github.io/repository_description/dp/?p=com.chikuwa.earphonestatusbar
@@ -592,6 +670,8 @@ Section: Tweaks
 Version: 0.0.1-1
 Installed-Size: 153
 MD5sum: 1f4ff9d6ab45bf9cd6ec2cd875424a63
+SHA1: e7de97272b0c1122644222df88a313f5111bffa2
+SHA256: dcbfe8cb5dc558fa42c7d413ee1d381b7fc5f0996123c5a3394b54a9405ea244
 Size: 7976
 Filename: debs/com.chikuwa.easylowpower_0.0.1-1_iphoneos-arm.deb
 Depiction: http://chikuwajb.github.io/repository_description/dp/?p=com.chikuwa.easylowpower
@@ -607,6 +687,8 @@ Section: Tweaks
 Version: 0.0.1-1
 Installed-Size: 69
 MD5sum: 397f71fd694fc0089ea41ec8b3f33587
+SHA1: f1ba19bb2e9cfe627e3fd3dadbeadb6f4a4c70be
+SHA256: f5d4580ef5f5ab0900230af33b1ebc8cf280ea5798571fb7e085e33616a2fb63
 Size: 5386
 Filename: debs/com.chikuwa.easyshutdown_0.0.1-1_iphoneos-arm.deb
 Depiction: http://chikuwajb.github.io/repository_description/dp/?p=com.chikuwa.easyshutdown
@@ -622,6 +704,8 @@ Section: Tweaks
 Version: 0.0.1-1
 Installed-Size: 69
 MD5sum: fca87e0728583ab32cf87fa1d2d5b42b
+SHA1: 6a77e79b27f6b1ae14586d6eeb95b517a8afd5b9
+SHA256: 45645e91af535b8353a0acbde742387b0ca91d577c034c1fcd00b54e622656a1
 Size: 2984
 Filename: debs/com.chikuwa.emojifavoritesenabler_0.0.1-1_iphoneos-arm.deb
 Depiction: http://chikuwajb.github.io/repository_description/dp/?p=com.chikuwa.emojifavoritesenabler
@@ -637,6 +721,8 @@ Section: Tweaks
 Version: 0.0.1-1
 Installed-Size: 158
 MD5sum: 7f82cc881e5821675d87eebe69851104
+SHA1: b9219631f9765446fdb8629676fc2ff2e3ed3968
+SHA256: 9ead2a45a1b10c48476aacc5ade3c073e548cd03e674168196a45924b677d0be
 Size: 13442
 Filename: debs/com.chikuwa.fakecoin_0.0.1-1_iphoneos-arm.deb
 Depiction: http://chikuwajb.github.io/repository_description/dp/?p=com.chikuwa.fakecoin
@@ -653,6 +739,8 @@ Icon: file:///Library/PreferenceBundles/FlashColor.bundle/FlashColor@2x.png
 Version: 1.0.0
 Installed-Size: 215
 MD5sum: 33e77145c6c8758bd2b61e3da7414fd1
+SHA1: 89e307fd0852f124e40bde216c2e70605807b08f
+SHA256: 20c502a4eba7dcb2ad8e3b76902ccff9052c7da10803e0855d2eeb2cc38042cc
 Size: 14268
 Filename: debs/com.chikuwa.flashcolor_1.0.0_iphoneos-arm.deb
 Depiction: http://chikuwajb.github.io/repository_description/dp/?p=com.chikuwa.flashcolor
@@ -668,6 +756,8 @@ Section: Tweaks
 Version: 0.0.1
 Installed-Size: 101
 MD5sum: e444a57d9317c10428f57b54957895c0
+SHA1: cbbf8ebbfc48ae5e984ee5bc2569965900896c9c
+SHA256: 75610bb1f926653bf5ed2a739b6d70e35daa2bda183450b41d2e4129512b4f57
 Size: 3338
 Filename: debs/com.chikuwa.flatpreference_0.0.1_iphoneos-arm.deb
 Depiction: http://chikuwajb.github.io/repository_description/dp/?p=com.chikuwa.flatpreference
@@ -683,6 +773,8 @@ Tag: role::hacker
 Version: 0.0.1-1
 Installed-Size: 132
 MD5sum: 00d8839a5c4b4ec55b2f6ea3e0c2a01d
+SHA1: 3438c6a4ee16d575708a6b12279c00ef6f98047e
+SHA256: 0b05f7aa0dfa1b6a5d4c06af8444f9265660169e949d8fc63e285cfec3820e41
 Size: 4602
 Filename: debs/com.chikuwa.getmyip_0.0.1-1_iphoneos-arm.deb
 Depiction: http://chikuwajb.github.io/repository_description/dp/?p=com.chikuwa.getmyip
@@ -698,6 +790,8 @@ Section: Tweaks
 Version: 0.0.1-1
 Installed-Size: 72
 MD5sum: 60dc256b5f65b5f79fb6f56e4c7e1f0c
+SHA1: 93f68aa7f31c748145329fb9d00216c8667446cd
+SHA256: 46aa0f70ce4d818c36e33b220cd50c77fc96e12fedac4ded1f5e19f643f8f627
 Size: 4362
 Filename: debs/com.chikuwa.hideicon_0.0.1-1_iphoneos-arm.deb
 Depiction: http://chikuwajb.github.io/repository_description/dp/?p=com.chikuwa.hideicon
@@ -713,6 +807,8 @@ Section: Tweak
 Version: 0.1-7
 Installed-Size: 108
 MD5sum: 288d0b89163ba675f3dd15c52931e71f
+SHA1: 1e1b62e7ecef7093c344b36e0b7cfbba486ea9d7
+SHA256: 57774ad377eeba37cb48d3aa884483e0f4871b45534461931984ecabd8bd4e51
 Size: 9580
 Filename: debs/com.chikuwa.icongetter.deb
 Depiction: http://chikuwajb.github.io/repository_description/dp/?p=com.chikuwa.icongetter
@@ -728,6 +824,8 @@ Section: Tweaks
 Version: 0.0.1-1
 Installed-Size: 150
 MD5sum: d56d6fc5589453e4818efe4bee204849
+SHA1: c495e8c1a1f250fb8abfe3d0cd597466623ae362
+SHA256: 8a9cae2ecfe4899b54ff7c16ebf0b14c7f46c2b8d8dd7e6f450954db7c38c26a
 Size: 12428
 Filename: debs/com.chikuwa.imagepass_0.0.1-1_iphoneos-arm.deb
 Depiction: http://chikuwajb.github.io/repository_description/dp/?p=com.chikuwa.imagepass
@@ -743,6 +841,8 @@ Section: Tweaks
 Version: 0.0.1
 Installed-Size: 120
 MD5sum: c8c1a6fe478ad6e76a2049d0edcb890a
+SHA1: 46f640d431584940932c81beaccdb84eb6db69c2
+SHA256: cf30a5762a406ff13fa35094f6fa3b291eb1855c8714a224f562bfcd0975a5b8
 Size: 6270
 Filename: debs/com.chikuwa.instasaver_0.0.1_iphoneos-arm.deb
 Depiction: http://chikuwajb.github.io/repository_description/dp/?p=com.chikuwa.instasaver
@@ -758,6 +858,8 @@ Section: Tweaks
 Version: 0.0.1
 Installed-Size: 101
 MD5sum: 0b5324833b29301fcb02a7d765823176
+SHA1: d4bb2ed10a0885c1d0889cad159ca31d3e3f4202
+SHA256: 1eff55e58dda134edbf02ff61e3629c9c6b74aa28dc09a7c35e27689b38d1e92
 Size: 4426
 Filename: debs/com.chikuwa.jpegscreenshot_0.0.1_iphoneos-arm.deb
 Depiction: http://chikuwajb.github.io/repository_description/dp/?p=com.chikuwa.jpegscreenshot
@@ -773,6 +875,8 @@ Section: Tweaks
 Version: 0.0.1-1
 Installed-Size: 70
 MD5sum: 0636e915146735326c9f5ba2a91cde9e
+SHA1: cf98b2965af30a79619db753bd478a363588aff2
+SHA256: 66ec1f37b66787bb097763ae8823bdd4ab310e17c413739d4a8b213737b9a25a
 Size: 6472
 Filename: debs/com.chikuwa.killme_0.0.1-1_iphoneos-arm.deb
 Depiction: http://chikuwajb.github.io/repository_description/dp/?p=com.chikuwa.killme
@@ -788,6 +892,8 @@ Section: Utilities
 Version: 0.1.8
 Installed-Size: 80
 MD5sum: 8564327cfa04b305f737801ef9cd93f9
+SHA1: a2fe51d5dd4f45ac08de68d426147d0e901c4743
+SHA256: 6d821a2b3487f3b299fc3c8852e68d547f5c717d853e58f8a10a35fbd5882dc3
 Size: 42434
 Filename: debs/com.chikuwa.line.deb
 Depiction: http://chikuwajb.github.io/repository_description/dp/?p=com.chikuwa.line
@@ -802,6 +908,8 @@ Section: Utilities
 Version: 0.0.2-1
 Installed-Size: 96
 MD5sum: 67a4b1e574ebe07d26b39e6719990f49
+SHA1: 403756d8d420c2ee55fffbc111aaf3766050ec15
+SHA256: aad87e5407f322b6c08dde4af6b0900d598423f9278ec26d0555e0d73cf6a631
 Size: 41626
 Filename: debs/com.chikuwa.lineage.deb
 Depiction: http://chikuwajb.github.io/repository_description/dp/?p=com.chikuwa.lineage
@@ -815,6 +923,8 @@ Author: Chikuwa
 Section: Utilities
 Version: 0.0.3
 MD5sum: 3227b432bbe4000801113fe8dc0d2dee
+SHA1: b339413a536990a97aa2c16b4179b17f3c4128d1
+SHA256: 57e05f847e6f1c7f367e75c86061d8615f37a8de8a4e1bfa436445648011b2d0
 Size: 43272
 Filename: debs/com.chikuwa.lineage8.deb
 Depiction: http://chikuwajb.github.io/repository_description/dp/?p=com.chikuwa.lineage8
@@ -830,6 +940,8 @@ Section: Tweak
 Version: 0.0.1
 Installed-Size: 232
 MD5sum: b216edd6d1873bc31e86dd699a9149a2
+SHA1: b0733ff15ff6539bc84516ce71fe8abadea45cab
+SHA256: f583fc3331e0f65e5cb666119c5921f0e7599640345de1f661003ae9bdab0862
 Size: 29280
 Filename: debs/com.chikuwa.lineextenderflipswitch_0.0.1_iphoneos-arm.deb
 Depiction: http://chikuwajb.github.io/repository_description/dp/?p=com.chikuwa.lineextenderflipswitch
@@ -845,6 +957,8 @@ Section: Tweaks
 Version: 0.0.1
 Installed-Size: 101
 MD5sum: 3b928f39b743de8104c77023d62dcca7
+SHA1: 54675cf086ebc5be9d32d4293842652170430679
+SHA256: e2b5f9780bee79494b15f10c411fc74a500130d3562d3a92228e2a9c3c5114ad
 Size: 3320
 Filename: debs/com.chikuwa.linegroupcallenabler_0.0.1_iphoneos-arm.deb
 Depiction: http://chikuwajb.github.io/repository_description/dp/?p=com.chikuwa.linegroupcallenabler
@@ -860,6 +974,8 @@ Section: Utilities
 Version: 0.2.2
 Installed-Size: 104
 MD5sum: 9d9ba65db76f9b481ab49898d24cdf9d
+SHA1: 9d50d0d3064242f2cc1d8a3ccd86809965b8a290
+SHA256: b679137891412e607d31d4e7711978fbd2bad67eb0b65c53d63caa4436777146
 Size: 721800
 Filename: debs/com.chikuwa.lineios8.deb
 Depiction: http://chikuwajb.github.io/repository_description/dp/?p=com.chikuwa.lineios8
@@ -875,6 +991,8 @@ Section: Utilities
 Version: 0.2.2
 Installed-Size: 104
 MD5sum: 1a06de44c563265ba22f9963ce027dcc
+SHA1: b72866985df36c2b59a2e0ca75bce76d2abd98f0
+SHA256: 408d148cbd143f67286b38abe46d2037a25564115fc05d2e17e0c8ffba74d310
 Size: 1408320
 Filename: debs/com.chikuwa.lineios8fix.deb
 Depiction: http://chikuwajb.github.io/repository_description/dp/?p=com.chikuwa.lineios8
@@ -890,6 +1008,8 @@ Section: Tweaks
 Version: 0.0.1
 Installed-Size: 101
 MD5sum: 229fb7ddc53a8cbbd3f5b9b6010f34fb
+SHA1: 4fa871136d83591b00f13b3f588276f9230b9f86
+SHA256: bbf8d953cf8f8aa019c28e6031f030801539c481e48e2f24e3dd34dd1bcfc0ff
 Size: 3326
 Filename: debs/com.chikuwa.linepresentenabler_0.0.1_iphoneos-arm.deb
 Depiction: http://chikuwajb.github.io/repository_description/dp/?p=com.chikuwa.linepresentenabler
@@ -905,6 +1025,8 @@ Section: Tweaks
 Version: 0.0.1-3
 Installed-Size: 1300
 MD5sum: 491698d4bab4245a7873df078443a18e
+SHA1: 97ac7706a565ba3d34e4eff056a0528d096c9628
+SHA256: 4d79df0395dc267561f8f625ff9d87874d13ce22d5fa07861f290f42dbec25bf
 Size: 1165506
 Filename: debs/com.chikuwa.locksiren_0.0.1-3_iphoneos-arm.deb
 Depiction: http://chikuwajb.github.io/repository_description/dp/?p=com.chikuwa.locksiren
@@ -920,6 +1042,8 @@ Section: Tweaks
 Version: 0.0.1
 Installed-Size: 234
 MD5sum: a7019232cd2cd9ddde39ccbb8bcdd872
+SHA1: 221da6fb39ac7e2d453d5509b4503e6d29644cee
+SHA256: f0f9cb8265cc825f4b47688807623715063efc0b4702f2f0e3682fc04bd928c9
 Size: 10860
 Filename: debs/com.chikuwa.lowpowermodestatusbar_0.0.1_iphoneos-arm.deb
 Depiction: http://chikuwajb.github.io/repository_description/dp/?p=com.chikuwa.lowpowermodestatusbar
@@ -934,6 +1058,8 @@ Section: Utilities
 Version: 0.0.1-1
 Installed-Size: 764
 MD5sum: 0775d0e98623167b3d0220e5bc56b76e
+SHA1: d0227a497b420bcec3c8ded06df1854ff1e84f82
+SHA256: c22cd628bd1c946a3adbe3c62d850d963a4f5a2a3660cd84c4ce3a6aea91b9f4
 Size: 631184
 Filename: debs/com.chikuwa.netcheck_0.0.1-1_iphoneos-arm.deb
 Depiction: http://chikuwajb.github.io/repository_description/dp/?p=com.chikuwa.netcheck
@@ -949,6 +1075,8 @@ Section: Tweaks
 Version: 0.0.1-1
 Installed-Size: 69
 MD5sum: f01ac6f91ee952327009d404d01605e6
+SHA1: feb8b148d0f9f1a526dbe7505f3ac0fd89b7d1d3
+SHA256: 6ebd6b910b02bbc01effa30d82bdb18a419f9d819a90ab4505e0c5b41ab86449
 Size: 3116
 Filename: debs/com.chikuwa.noairplanemodeicon_0.0.1-1_iphoneos-arm.deb
 Depiction: http://chikuwajb.github.io/repository_description/dp/?p=com.chikuwa.noairplanemodeicon
@@ -964,6 +1092,8 @@ Section: Tweaks
 Version: 0.0.1-2
 Installed-Size: 101
 MD5sum: b5779388f6b5ddf476293c5e8db2485d
+SHA1: c2e640f3d4b5b27fb2955c622ddfb399499aa0ef
+SHA256: d287858060767c5dbeab611c6fa499fbe3cb925810a5d418ae624aee1c00c549
 Size: 3396
 Filename: debs/com.chikuwa.noairplanemodeicon_0.0.1-2_iphoneos-arm.deb
 Depiction: http://chikuwajb.github.io/repository_description/dp/?p=com.chikuwa.noairplanemodeicon
@@ -979,6 +1109,8 @@ Section: Tweaks
 Version: 0.0.1-1
 Installed-Size: 69
 MD5sum: 4a593b4c9d0e812cf56cb00165198b85
+SHA1: 5fe9cca0c4383f740087937b61b6e1dcaee339cf
+SHA256: 580e714ad217eb4f327407f309aea340c95f354b00fa643a5d32055efa453a46
 Size: 2972
 Filename: debs/com.chikuwa.noairplayicon_0.0.1-1_iphoneos-arm.deb
 Depiction: http://chikuwajb.github.io/repository_description/dp/?p=com.chikuwa.noairplayicon
@@ -994,6 +1126,8 @@ Section: Tweaks
 Version: 0.0.1-2
 Installed-Size: 101
 MD5sum: d8b852639a5d9880051123400e4ae281
+SHA1: 4340f4533b780d00290a5d4568f8e51da8762977
+SHA256: ec432d9538becfdf2da27c0ae99bed95b084487422d2dc3764ffa15a10efca9e
 Size: 3332
 Filename: debs/com.chikuwa.noairplayicon_0.0.1-2_iphoneos-arm.deb
 Depiction: http://chikuwajb.github.io/repository_description/dp/?p=com.chikuwa.noairplayicon
@@ -1009,6 +1143,8 @@ Section: Tweaks
 Version: 0.0.1
 Installed-Size: 101
 MD5sum: 4f091f661a4d4de73d369fdeb8def44d
+SHA1: 0765c2f43bf2642e753ecf88b36ff80d6b904ac1
+SHA256: 1483108eac19def6ee5850fa06c38d01a52dee40f1df354e98c23a0dbb14e7c4
 Size: 3536
 Filename: debs/com.chikuwa.noappstoretrending_0.0.1_iphoneos-arm.deb
 Depiction: http://chikuwajb.github.io/repository_description/dp/?p=com.chikuwa.noappstoretrending
@@ -1024,6 +1160,8 @@ Section: Tweaks
 Version: 0.0.1
 Installed-Size: 101
 MD5sum: 2c95af979f7135c8fb254060db4f6a2d
+SHA1: cf883875d218e8528f551f593b2c349772fca8aa
+SHA256: f086a673e727a2ee5feb459132785ced840e50c81a14a39d0a9f1378cb158f93
 Size: 3610
 Filename: debs/com.chikuwa.nobatteryalert_0.0.1_iphoneos-arm.deb
 Depiction: http://chikuwajb.github.io/repository_description/dp/?p=com.chikuwa.nobatteryalert
@@ -1039,6 +1177,8 @@ Section: Tweaks
 Version: 0.0.1-1
 Installed-Size: 72
 MD5sum: a7ff18d93391e647d801afbbf1a1ba5a
+SHA1: 82d61f2b6c71bbdc6eefa0cfb25dc2b08d97c271
+SHA256: ce8884b0880d2248b9d80753482e680f7569cccffc34d3d3a9219be3c78fb6f5
 Size: 3050
 Filename: debs/com.chikuwa.nobatteryicon_0.0.1-1_iphoneos-arm.deb
 Depiction: http://chikuwajb.github.io/repository_description/dp/?p=com.chikuwa.nobatteryicon
@@ -1054,6 +1194,8 @@ Section: Tweaks
 Version: 0.0.1-2
 Installed-Size: 69
 MD5sum: d75d9b814beb4bd95f0917bc7c9edbd9
+SHA1: a3a69bfedd9e6a4ede6e7faacc8a213a55f99032
+SHA256: 9fe235bcfc71b980f589d3631ebf94fcac9669c6904ec3546f6cee2b5024b93b
 Size: 3146
 Filename: debs/com.chikuwa.nobatteryicon_0.0.1-2_iphoneos-arm.deb
 Depiction: http://chikuwajb.github.io/repository_description/dp/?p=com.chikuwa.nobatteryicon
@@ -1069,6 +1211,8 @@ Section: Tweaks
 Version: 0.0.1-3
 Installed-Size: 69
 MD5sum: a6f8767bc329e6dbf5cb5edea786d653
+SHA1: 93ea56ea983784d297d811b1a2638c86d2909d50
+SHA256: 257003d3eaf0195b33b3e8cd1de0cdd54958e55079d216308f782bc426ea6377
 Size: 3662
 Filename: debs/com.chikuwa.nobatteryicon_0.0.1-3_iphoneos-arm.deb
 Depiction: http://chikuwajb.github.io/repository_description/dp/?p=com.chikuwa.nobatteryicon
@@ -1084,6 +1228,8 @@ Section: Tweaks
 Version: 0.0.1-4
 Installed-Size: 101
 MD5sum: 8a241cc88a7a8a8bc9910ceef534d6ac
+SHA1: 7ebfbf2695f63efe7eb3cd20e227abf1ebaddd62
+SHA256: 5297919d8361c8c863cd182e742457999facb3642c663f2c1935a9f91037c9c4
 Size: 4106
 Filename: debs/com.chikuwa.nobatteryicon_0.0.1-4_iphoneos-arm.deb
 Depiction: http://chikuwajb.github.io/repository_description/dp/?p=com.chikuwa.nobatteryicon
@@ -1099,6 +1245,8 @@ Section: Tweaks
 Version: 0.0.1
 Installed-Size: 101
 MD5sum: 1d72270e7b6611a8f60f80250f0bc236
+SHA1: 7962edb37aaa90ce719fe6356f7cbaecf73dcc06
+SHA256: 0f3fa8b939c541b0e0031848e2a5d5cd2a723cd87bc64864a4db91fde1c2ba56
 Size: 3496
 Filename: debs/com.chikuwa.noborderterminal_0.0.1_iphoneos-arm.deb
 Depiction: http://chikuwajb.github.io/repository_description/dp/?p=com.chikuwa.noborderterminal
@@ -1114,6 +1262,8 @@ Section: Tweaks
 Version: 0.0.1-1
 Installed-Size: 69
 MD5sum: 53581ddab298414f527976e1d06abd24
+SHA1: 7da73fae721a9c8cfb14a1dea2e09500b2a6e9b0
+SHA256: 7b25ee7c9d19abd9b6ab5a380e42ef2a2da23e2beb6306ac9c668eb05646b3ed
 Size: 4324
 Filename: debs/com.chikuwa.nodiskspacealert_0.0.1-1_iphoneos-arm.deb
 Depiction: http://chikuwajb.github.io/repository_description/dp/?p=com.chikuwa.nodiskspacealert
@@ -1129,6 +1279,8 @@ Section: Tweaks
 Version: 0.0.1
 Installed-Size: 101
 MD5sum: ae5c680c06dc07e193639ad99654eea9
+SHA1: 21c7bebd1f6150a3c0c1d2ac1488e0b63db6900d
+SHA256: ec6a68a500519f8bc8256a435cf34a70e1e92c271937a08d6da23a212b5315cc
 Size: 3316
 Filename: debs/com.chikuwa.nofloatdateview_0.0.1_iphoneos-arm.deb
 Depiction: http://chikuwajb.github.io/repository_description/dp/?p=com.chikuwa.nofloatdateview
@@ -1144,6 +1296,8 @@ Section: Tweaks
 Version: 0.0.1
 Installed-Size: 101
 MD5sum: 0ea4cdaeb5f8ee7068dd20cd58efd525
+SHA1: d81c84bcc27a04f3c31fd666913bc2849785da14
+SHA256: 7178d927a868a8f06abb0e3a2dcf893c2a90e5bf88d5199036008c2de37e6110
 Size: 3324
 Filename: debs/com.chikuwa.nofolderbackground_0.0.1_iphoneos-arm.deb
 Depiction: http://chikuwajb.github.io/repository_description/dp/?p=com.chikuwa.nofolderbackground
@@ -1159,6 +1313,8 @@ Section: Tweaks
 Version: 0.0.1
 Installed-Size: 101
 MD5sum: d50eebc1d2b2fa1740d423b1ecfd9c45
+SHA1: eaf2aa92c22dfd2e326a439760e6d0552ef78e96
+SHA256: 8f9178ca9e970df40497cc59d8515ed67fd945b6c3f3b4cec3d129665e591696
 Size: 3768
 Filename: debs/com.chikuwa.nolinearrow_0.0.1_iphoneos-arm.deb
 Depiction: http://chikuwajb.github.io/repository_description/dp/?p=com.chikuwa.nolinearrow
@@ -1174,6 +1330,8 @@ Section: Tweaks
 Version: 0.0.1
 Installed-Size: 101
 MD5sum: 3ffbc293fc4da4807a900cbea37ba185
+SHA1: 7b41b2c86b0d8e6f07fcdbb93094ad8a0bbc0c1f
+SHA256: 1bca581d48343527f3bde2b086678602b90fb6737fc9f43af4e70e535bf8dc36
 Size: 3340
 Filename: debs/com.chikuwa.nolineatlastscreen_0.0.1_iphoneos-arm.deb
 Depiction: http://chikuwajb.github.io/repository_description/dp/?p=com.chikuwa.nolineatlastscreen
@@ -1189,6 +1347,8 @@ Section: Tweaks
 Version: 0.0.1
 Installed-Size: 101
 MD5sum: 82769d8bc36a79bdbdaf3d8f41003b7f
+SHA1: 4309e1661ab251972dda9352acf5249d979c9650
+SHA256: c0bd598c4693758d1d082143cd5b4a049630b8c7142d1d38ff3a34fc6a03207d
 Size: 3418
 Filename: debs/com.chikuwa.nolineid_0.0.1_iphoneos-arm.deb
 Depiction: http://chikuwajb.github.io/repository_description/dp/?p=com.chikuwa.nolineid
@@ -1204,6 +1364,8 @@ Section: Tweaks
 Version: 2.0.0
 Installed-Size: 120
 MD5sum: c15f61d7e54f61e32682e9eab66d224f
+SHA1: 0a24a18750b2c97570afe9394e8246ec7722a158
+SHA256: 6a6b3a171107f83af375ae1e9ea0055bf1f4532c57638c310d7fe227e422c4fe
 Size: 4300
 Filename: debs/com.chikuwa.nolinenewstab_2.0.0_iphoneos-arm.deb
 Depiction: http://chikuwajb.github.io/repository_description/dp/?p=com.chikuwa.nolinenewstab
@@ -1219,6 +1381,8 @@ Section: Tweaks
 Version: 0.0.1
 Installed-Size: 101
 MD5sum: d856ac78da3e1c88d8562c96fe7b5ac4
+SHA1: f8d19aee1243dbfaf149f1815cf6c64f4feb61ec
+SHA256: d60e0f2ec1134c2cd22b3e5c0c2ce1c9ddfc54944159c319cf019d2255610e99
 Size: 3294
 Filename: debs/com.chikuwa.nolinesearchbar_0.0.1_iphoneos-arm.deb
 Depiction: http://chikuwajb.github.io/repository_description/dp/?p=com.chikuwa.nolinesearchbar
@@ -1234,6 +1398,8 @@ Section: Tweaks
 Version: 0.0.2
 Installed-Size: 101
 MD5sum: 7948090094ca4e34a05316bb533c4657
+SHA1: f57ca676baf57428523b94b59650b99765a68540
+SHA256: df2392a7d52f6e7f37be1d2e9dc9e4a895ddf9b9ca8396982182b99fa1c97e88
 Size: 3308
 Filename: debs/com.chikuwa.nolinesearchbar_0.0.2_iphoneos-arm.deb
 Depiction: http://chikuwajb.github.io/repository_description/dp/?p=com.chikuwa.nolinesearchbar
@@ -1249,6 +1415,8 @@ Section: Tweaks
 Version: 0.0.1
 Installed-Size: 101
 MD5sum: 1c2e7311b3b351454f91562eb0b2e077
+SHA1: 7d0cff791eb6ba79163af2745b8965e69f7d5f81
+SHA256: a924b887a530ea883c37b7183c59988074411c3f1cca6a7827af52ff0991da6b
 Size: 3314
 Filename: debs/com.chikuwa.nolinethemecheck_0.0.1_iphoneos-arm.deb
 Depiction: http://chikuwajb.github.io/repository_description/dp/?p=com.chikuwa.nolinethemecheck
@@ -1264,6 +1432,8 @@ Section: Tweaks
 Version: 0.0.1
 Installed-Size: 101
 MD5sum: 96f06b412069ad9a4cbc0c6ba206cf9b
+SHA1: 4c2e9d85688fd281424b825489c3ee7ea6387098
+SHA256: 529c3c2a98d75fac3dfb19d185ef692589d9a64100f2991aeb938211819ac3fa
 Size: 3348
 Filename: debs/com.chikuwa.nolinetlnews_0.0.1_iphoneos-arm.deb
 Depiction: http://chikuwajb.github.io/repository_description/dp/?p=com.chikuwa.nolinetlnews
@@ -1279,6 +1449,8 @@ Section: Tweaks
 Version: 0.0.1-1
 Installed-Size: 69
 MD5sum: 15cb5d2920557288be8d55f62290cc3d
+SHA1: 787acc4084749dbda0fdeaccdc66dd4640fcbfd9
+SHA256: 6dbba18f2477f8446a1e77c6b8e3cb3478138603959f1d9684265ba147be5bb9
 Size: 2976
 Filename: debs/com.chikuwa.nolocationicon_0.0.1-1_iphoneos-arm.deb
 Depiction: http://chikuwajb.github.io/repository_description/dp/?p=com.chikuwa.nolocationicon
@@ -1294,6 +1466,8 @@ Section: Tweaks
 Version: 0.0.1-2
 Installed-Size: 101
 MD5sum: c897f2b1ea25eb9e09efc4b723e192e9
+SHA1: a02a7741fe07a667b5aa6b8a4e87d62cbe238488
+SHA256: 515847b425525c9941ad67537cbefa99765141a00ffd6d42320d61bbb8626355
 Size: 3320
 Filename: debs/com.chikuwa.nolocationicon_0.0.1-2_iphoneos-arm.deb
 Depiction: http://chikuwajb.github.io/repository_description/dp/?p=com.chikuwa.nolocationicon
@@ -1309,6 +1483,8 @@ Section: Tweaks
 Version: 0.0.1
 Installed-Size: 101
 MD5sum: 41cd8642ce677380f99def244dcf1e4e
+SHA1: 703ca17fcf8ca292e6c4344dcd81eec9fa71d9d6
+SHA256: 7e4ab5d3fbc212db86a192c7e1beabd7950ef01fc30d3f10f3311d0382e9e9bc
 Size: 3608
 Filename: debs/com.chikuwa.nolockchevron_0.0.1_iphoneos-arm.deb
 Depiction: http://chikuwajb.github.io/repository_description/dp/?p=com.chikuwa.nolockchevron
@@ -1324,6 +1500,8 @@ Section: Tweaks
 Version: 0.0.1-1
 Installed-Size: 69
 MD5sum: 69d00b6ab8bb8bb8c039e4814476444f
+SHA1: a048b54bae56cfad27b28acb997ecfeaa46e8df9
+SHA256: 7b15b537df5b143253226451c4435ef04d80f20cdf1010cc032093ede458803b
 Size: 3044
 Filename: debs/com.chikuwa.nolockdate_0.0.1-1_iphoneos-arm.deb
 Depiction: http://chikuwajb.github.io/repository_description/dp/?p=com.chikuwa.nolockdate
@@ -1339,6 +1517,8 @@ Section: Tweaks
 Version: 0.0.1
 Installed-Size: 101
 MD5sum: 4b61f6aa129a2ef7c4635601b8817a10
+SHA1: b1d39566873bec38794cf583e89d2ce11a6b53e6
+SHA256: 7b0d98f6b21ca9ec5848a4d75e9b89ae2e9af88d97789bd8cc6e46da92d82a85
 Size: 3322
 Filename: debs/com.chikuwa.nolockscreencamera_0.0.1_iphoneos-arm.deb
 Depiction: http://chikuwajb.github.io/repository_description/dp/?p=com.chikuwa.nolockscreencamera
@@ -1354,6 +1534,8 @@ Section: Tweaks
 Version: 0.0.1
 Installed-Size: 101
 MD5sum: 34c543d385cc6dae9b44213b2c96a41e
+SHA1: ae29904a81e327449ccaacce0ee0f079dafae359
+SHA256: fd4064557e5e090092fca1b93e5cfba0793782ded4fddce2e7878e2f3704b6a6
 Size: 3470
 Filename: debs/com.chikuwa.nolocktimerlabel_0.0.1_iphoneos-arm.deb
 Depiction: http://chikuwajb.github.io/repository_description/dp/?p=com.chikuwa.nolocktimerlabel
@@ -1369,6 +1551,8 @@ Section: Tweaks
 Version: 0.0.1
 Installed-Size: 101
 MD5sum: c373b535c2d02d3431a5be47a2fba894
+SHA1: 8e8d40017eef4f356048a8ccbc26890f0cab2f57
+SHA256: b50c4188fdcbe4356208c963636a6b44db9acce02c355840231cb877da9584b0
 Size: 3446
 Filename: debs/com.chikuwa.nomoretabnewicon_0.0.1_iphoneos-arm.deb
 Depiction: http://chikuwajb.github.io/repository_description/dp/?p=com.chikuwa.nomoretabnewicon
@@ -1384,6 +1568,8 @@ Section: Tweaks
 Version: 0.0.1
 Installed-Size: 101
 MD5sum: 36d8dc8ce59579a0c94b41b5ce64b14d
+SHA1: c68d0662d96b8b6ad95dd02f9101ce43099fcfda
+SHA256: 82460016ba2d493a2ff540ac5b5fbc4059b3e18319aec1c1a2220a138b55e41d
 Size: 3322
 Filename: debs/com.chikuwa.nonctoday_0.0.1_iphoneos-arm.deb
 Depiction: http://chikuwajb.github.io/repository_description/dp/?p=com.chikuwa.nonctoday
@@ -1399,6 +1585,8 @@ Section: Tweaks
 Version: 0.0.1
 Installed-Size: 101
 MD5sum: 9efd529390703e8a2e25ead4adbb5d8b
+SHA1: 8cc52c065fb8b4a098403c82c8ea999802d5c2ab
+SHA256: c5c7f9ec5b4507949dc6309cdd7f4c678679e872c8ec5252f71a077633c21fa1
 Size: 3324
 Filename: debs/com.chikuwa.nonewpostbutton_0.0.1_iphoneos-arm.deb
 Depiction: http://chikuwajb.github.io/repository_description/dp/?p=com.chikuwa.nonewpostbutton
@@ -1414,6 +1602,8 @@ Section: Tweaks
 Version: 0.0.1-1
 Installed-Size: 69
 MD5sum: 20dd61fc9a7d93af7c49e21bd1666963
+SHA1: 424463d3751cb1a90117458f11b895abfb3c7be6
+SHA256: 9c5bf7995f28d7be880551c1133004aebe9b1942cc3682fb092a1626c899ff72
 Size: 2958
 Filename: debs/com.chikuwa.nonews_0.0.1-1_iphoneos-arm.deb
 Depiction: http://chikuwajb.github.io/repository_description/dp/?p=com.chikuwa.nonews
@@ -1429,6 +1619,8 @@ Section: Tweaks
 Version: 1.0.0
 Installed-Size: 120
 MD5sum: b03070b238c05d600c707de144ff087b
+SHA1: 18c77134177236e69f815d6562d67f0ef3ba70d5
+SHA256: 76032f9d49ca0c902b1871b41ad2f225425038545444a52c167a1b9be53169f2
 Size: 2908
 Filename: debs/com.chikuwa.nonosimalert_1.0.0_iphoneos-arm.deb
 Depiction: http://chikuwajb.github.io/repository_description/dp/?p=com.chikuwa.nonosimalert
@@ -1444,6 +1636,8 @@ Section: Tweaks
 Version: 0.0.1-1
 Installed-Size: 101
 MD5sum: fd0942debdfd4b5249a7eb9b7ec9cca5
+SHA1: 72bbd1e6fa9cab5bdb8478d7077228269e62607b
+SHA256: 4d84b9f3f9b22c4572594465a0335030f10bfa915138e3003bdff4cf08c5650d
 Size: 3460
 Filename: debs/com.chikuwa.nopasspadhighlight_0.0.1-1_iphoneos-arm.deb
 Depiction: http://chikuwajb.github.io/repository_description/dp/?p=com.chikuwa.nopasspadhighlight
@@ -1459,6 +1653,8 @@ Section: Tweaks
 Version: 0.0.1
 Installed-Size: 101
 MD5sum: 5ea6b81189a54657fe4ea5787650ad7d
+SHA1: 7ef43d228b38a770eea96e55e34c3391ad06f6e6
+SHA256: 23e24f33dc8330ce7ff706b66c8a72eb90db9423fabd8a46583a248e78bf0c11
 Size: 3452
 Filename: debs/com.chikuwa.nopreferencessearchbar_0.0.1_iphoneos-arm.deb
 Depiction: http://chikuwajb.github.io/repository_description/dp/?p=com.chikuwa.nopreferencessearchbar
@@ -1474,6 +1670,8 @@ Section: Tweaks
 Version: 0.0.1-1
 Installed-Size: 150
 MD5sum: c123ab720dec2eb3adff11064848dbf9
+SHA1: 9766d41d24a2c6c132d1e09310cad1da87cf8ee0
+SHA256: 1886fc9396633883f84d2a7b2311cd50699de5d7e8550adfc7153c9fec6a70ec
 Size: 7316
 Filename: debs/com.chikuwa.noscreenshotflash_0.0.1-1_iphoneos-arm.deb
 Depiction: http://chikuwajb.github.io/repository_description/dp/?p=com.chikuwa.noscreenshotflash
@@ -1489,6 +1687,8 @@ Section: Tweaks
 Version: 0.0.1-2
 Installed-Size: 214
 MD5sum: a18e009d9da0d0a1a603dc15916f0750
+SHA1: 1b7f738cbda13ded3cd6cc77c394762416cd42bd
+SHA256: e2118e05067ed888044b25776cbc13522febf82121f44acb8bebe30c8a15f2e6
 Size: 8282
 Filename: debs/com.chikuwa.noscreenshotflash_0.0.1-2_iphoneos-arm.deb
 Depiction: http://chikuwajb.github.io/repository_description/dp/?p=com.chikuwa.noscreenshotflash
@@ -1504,6 +1704,8 @@ Section: Tweaks
 Version: 0.0.1-3
 Installed-Size: 214
 MD5sum: 1a08f2d3687c64e5caad0bcb1e7139dc
+SHA1: 197c508a35d6113d85bc8de87551b7fc54f44cee
+SHA256: 4b9ab607fb1b0284b9195def087323fd52345fe31c8a3d0b02b90e1a2b775add
 Size: 8578
 Filename: debs/com.chikuwa.noscreenshotflash_0.0.1-3_iphoneos-arm.deb
 Depiction: http://chikuwajb.github.io/repository_description/dp/?p=com.chikuwa.noscreenshotflash
@@ -1519,6 +1721,8 @@ Section: Tweaks
 Version: 0.0.1-1
 Installed-Size: 101
 MD5sum: acfc34f4d300f2c28932bfa425696287
+SHA1: 73b2312900b5754cb468d3435f40c8b67751d6ba
+SHA256: 699dfab1f77682ea5e374b21e065f6f53ab0b03b515c31d2292fae94d23045c6
 Size: 3484
 Filename: debs/com.chikuwa.noslidetounlock_0.0.1-1_iphoneos-arm.deb
 Depiction: http://chikuwajb.github.io/repository_description/dp/?p=com.chikuwa.noslidetounlock
@@ -1534,6 +1738,8 @@ Section: Tweaks
 Version: 0.0.1-8
 Installed-Size: 152
 MD5sum: 3129dd1ad0c1f8dac0fcd7fdabda0401
+SHA1: f3da795d2141bed6f2010ebc958ba087f17b7c5e
+SHA256: 186075b2dec1ea34853a086670e7512b46430af10a1812830a54294be56ef97a
 Size: 7524
 Filename: debs/com.chikuwa.nospeechinputkey_0.0.1-8_iphoneos-arm.deb
 Depiction: http://chikuwajb.github.io/repository_description/dp/?p=com.chikuwa.nospeechinputkey
@@ -1549,6 +1755,8 @@ Section: Tweaks
 Version: 0.0.1-1
 Installed-Size: 68
 MD5sum: f04beab9e62156256dfeef8ee0feb9a2
+SHA1: 83f4f99d613f0da4c39ed0b24c14a41bb578ef91
+SHA256: b0ce9c8296e2644142fd148a0c0166ef772e8cc9b2a4f44dd0723dc68426c0f6
 Size: 3038
 Filename: debs/com.chikuwa.nospotlight_0.0.1-1_iphoneos-arm.deb
 Depiction: http://chikuwajb.github.io/repository_description/dp/?p=com.chikuwa.nospotlight
@@ -1564,6 +1772,8 @@ Section: Tweaks
 Version: 0.0.1-1
 Installed-Size: 101
 MD5sum: b7ff891e8847433821513f0d3f125076
+SHA1: 463d70fc3740b72444af4445ea080631565e76a8
+SHA256: 1c87ae3133c42c45fe048057f770ecdbc1377f9696bea0149970b26debc91258
 Size: 3344
 Filename: debs/com.chikuwa.noupdatemark_0.0.1-1_iphoneos-arm.deb
 Depiction: http://chikuwajb.github.io/repository_description/dp/?p=com.chikuwa.noupdatemark
@@ -1579,6 +1789,8 @@ Section: Tweaks
 Version: 0.0.1-1
 Installed-Size: 101
 MD5sum: 6afa330fb899b8f935a21a7f3367a5cd
+SHA1: c7b683e695d15718401ab276ae7449200762a55b
+SHA256: ff77e7b15a4e34d5635d9d1a8a68ab9d7ca123758f66cfea1b16a9ae3f5b243b
 Size: 2402
 Filename: debs/com.chikuwa.nowifiicon_0.0.1-1_iphoneos-arm.deb
 Depiction: http://chikuwajb.github.io/repository_description/dp/?p=com.chikuwa.nowifiicon
@@ -1594,6 +1806,8 @@ Section: Tweaks
 Version: 0.0.1-1
 Installed-Size: 159
 MD5sum: b066011d062cfa5fa521583f40d306a8
+SHA1: fcd2e6a8b64fa180efee6e82ccc7dc65ebe018cc
+SHA256: b265204a8f87d16d5dd7922fcb4f8bffa3e7b0ec84600e3ce44b383fa5cfa429
 Size: 8956
 Filename: debs/com.chikuwa.nowplayingstatusbar_0.0.1-1_iphoneos-arm.deb
 Depiction: http://chikuwajb.github.io/repository_description/dp/?p=com.chikuwa.nowplayingstatusbar
@@ -1610,6 +1824,8 @@ Icon: file:///Library/PreferenceBundles/NowPlayingStatusbar.bundle/NowPlayingSta
 Version: 0.0.1-2
 Installed-Size: 161
 MD5sum: a561998a9413358994a8f84214dda019
+SHA1: 6d1c7e7325b7c8860ce109f7e28e0de37adaccc8
+SHA256: 4ef6bb7967dd22324ece75bcb4d7a69ca2f0bc828e0dec0d4f738d3a869c5d72
 Size: 9998
 Filename: debs/com.chikuwa.nowplayingstatusbar_0.0.1-2_iphoneos-arm.deb
 Depiction: http://chikuwajb.github.io/repository_description/dp/?p=com.chikuwa.nowplayingstatusbar
@@ -1626,6 +1842,8 @@ Icon: file:///Library/PreferenceBundles/NowPlayingStatusbar.bundle/NowPlayingSta
 Version: 0.0.2
 Installed-Size: 316
 MD5sum: ce47bf8a586e7acb77204764009d15b1
+SHA1: 641bbc353a7df91ba133b729422f2eca2888dfe4
+SHA256: 51fd6a9e483d477851361d4471276cd6ff1963adccc4e3f1f8c8a888d442dd41
 Size: 8182
 Filename: debs/com.chikuwa.nowplayingstatusbar_0.0.2_iphoneos-arm.deb
 Depiction: http://chikuwajb.github.io/repository_description/dp/?p=com.chikuwa.nowplayingstatusbar
@@ -1641,6 +1859,8 @@ Section: Tweaks
 Version: 0.0.1-1+debug
 Installed-Size: 120
 MD5sum: 0f37dfeb8fd7dcd01542924e75d973c5
+SHA1: 5a1f2c181c6497fc2963192d001596b128637020
+SHA256: e5397d058fc2a2bd5bb6c9fe1460dda25a10d6019064cc40bd0e34daad0185e7
 Size: 3478
 Filename: debs/com.chikuwa.onehandkey_0.0.1-1+debug_iphoneos-arm.deb
 Depiction: http://chikuwajb.github.io/repository_description/dp/?p=com.chikuwa.onehandkey
@@ -1656,6 +1876,8 @@ Section: Tweaks
 Version: 0.0.1
 Installed-Size: 101
 MD5sum: ac314ab795a4bf63cc6110935398bf28
+SHA1: 02f194ef3fa90c4dc2b7a53faed04eb3fd30296c
+SHA256: 0d8be7049b92eb7dd2d8268e5858dcca22ee4f4b2c2a3c2b11f0b406ad3d8a12
 Size: 3738
 Filename: debs/com.chikuwa.pageswitcher9_0.0.1_iphoneos-arm.deb
 Depiction: http://chikuwajb.github.io/repository_description/dp/?p=com.chikuwa.pageswitcher9
@@ -1671,6 +1893,8 @@ Section: Tweaks
 Version: 0.0.1-1
 Installed-Size: 101
 MD5sum: 6c3a483c35e8bd49a1c808b382b60b78
+SHA1: 5be6c2bbdc9090defe0197eb01ea56984a169ee0
+SHA256: 85df2f3149b066a5efa939f1dfd5613531cd0f3dd134b961ca466fc10d68f69e
 Size: 3316
 Filename: debs/com.chikuwa.pinchtoclosefolder_0.0.1-1_iphoneos-arm.deb
 Depiction: http://chikuwajb.github.io/repository_description/dp/?p=com.chikuwa.pinchtoclosefolder
@@ -1686,6 +1910,8 @@ Section: Tweaks
 Version: 0.0.1-10+debug
 Installed-Size: 124
 MD5sum: 423742b5b4a9ccecb57f568fcb8a2e24
+SHA1: 2d16c66848aad35ce948146b6f0e38a45effb23b
+SHA256: a64ab562f15561924ff265e8c86a043c673099fa67a70c340e40fd2886dac417
 Size: 8106
 Filename: debs/com.chikuwa.pokegobrowser-0.0.1-10-debug-iphoneos-arm.deb
 Depiction: http://chikuwajb.github.io/repository_description/dp/?p=com.chikuwa.pokegobrowser
@@ -1701,6 +1927,8 @@ Installed-Size: 80
 Version: 0.0.3-2
 Installed-Size: 88
 MD5sum: 4bb8947f7b7c2ec24197f7f4bf64adc3
+SHA1: f23102a7c628f490dc080be238f326558f829cfe
+SHA256: 387fd4aeb209b9ea8cd4799b299909735b219c2cb81a7da8b9f1b6ff40e6370a
 Size: 20548
 Filename: debs/com.chikuwa.power.deb
 Depiction: http://chikuwajb.github.io/repository_description/dp/?p=
@@ -1716,6 +1944,8 @@ Section: Tweaks
 Version: 0.0.1-1
 Installed-Size: 69
 MD5sum: b6f1a495168f7619c74e45e2dbf4b046
+SHA1: b12fd19a642541b0d5ae1df89d032cf074398568
+SHA256: b60055a1dc2029cfdeb658a42ecf048e113659e97dd4354b3e11567d14b1e25d
 Size: 3008
 Filename: debs/com.chikuwa.publicpostenabler_0.0.1-1_iphoneos-arm.deb
 Depiction: http://chikuwajb.github.io/repository_description/dp/?p=com.chikuwa.publicpostenabler
@@ -1731,6 +1961,8 @@ Section: Tweaks
 Version: 0.0.1-1
 Installed-Size: 69
 MD5sum: dc86d583215aa9d2a1a9a8af51d7a37b
+SHA1: f7a43882e9e4a0505c3e9eb46f4389d0f2e022af
+SHA256: a20702f5d23a4cedc6f00bfe06436f915bddc85ab7b387547b708dd1ff7f26e4
 Size: 6000
 Filename: debs/com.chikuwa.randomcccolor_0.0.1-1_iphoneos-arm.deb
 Depiction: http://chikuwajb.github.io/repository_description/dp/?p=com.chikuwa.randomcccolor
@@ -1745,6 +1977,8 @@ Section: Utilities
 Version: 0.0.1-2
 Installed-Size: 60
 MD5sum: 1da59814d98c0e596e2e0f7f55976b04
+SHA1: b805ad4a78dd7f8fa0e178cb766dfa1384feec1f
+SHA256: a3ce8f84e4cbea9f510f5c29a4a99f4fce33ba2a0c09b7f592725a43f964fc3e
 Size: 8610
 Filename: debs/com.chikuwa.reb00ticon.deb
 Depiction: http://chikuwajb.github.io/repository_description/dp/?p=com.chikuwa.reb00ticon
@@ -1760,6 +1994,8 @@ Tag: role::hacker
 Version: 0.0.1-2
 Installed-Size: 52
 MD5sum: 1e01871489fc0d0348951a45acb98380
+SHA1: 6a1f980d0fdabff9aa77483c43102c964d94a1ec
+SHA256: 87c8ce087281d2c292b8d33aa66cb45e526a5e61f1e5f72f464eeaf660d9be7c
 Size: 1928
 Filename: debs/com.chikuwa.respring.deb
 Depiction: http://chikuwajb.github.io/repository_description/dp/?p=com.chikuwa.respring
@@ -1774,6 +2010,8 @@ Section: Utilities
 Version: 0.0.1-1
 Installed-Size: 56
 MD5sum: 36b07d714052fcfd8e865f0cec3bff43
+SHA1: 6db1c451980ad0998ed3fe2bf3ef527a25d45caf
+SHA256: 2a9dd34ae457b41653c0000c986d1cc7f6bdfeb7417d44a72d4df967eb0a856b
 Size: 5198
 Filename: debs/com.chikuwa.respringic0n.deb
 Depiction: http://chikuwajb.github.io/repository_description/dp/?p=com.chikuwa.respringic0n
@@ -1789,6 +2027,8 @@ Section: Tweaks
 Version: 0.0.1
 Installed-Size: 101
 MD5sum: 2ecc0556d1498664721fed51b9106e2d
+SHA1: ac82b9d7833b85c4a5e0292cab100e432ae8d2be
+SHA256: e019f6db7b6d4248803369927a93de08fb395da42306539b9d0bb94c7d5382e5
 Size: 4442
 Filename: debs/com.chikuwa.resumemute_0.0.1_iphoneos-arm.deb
 Depiction: http://chikuwajb.github.io/repository_description/dp/?p=com.chikuwa.resumemute
@@ -1804,6 +2044,8 @@ Section: Tweaks
 Version: 0.0.1-1
 Installed-Size: 69
 MD5sum: 2ae84e6558862f4b3a2db8309a2d7068
+SHA1: 6048e4af67197b455b27838ec8089d594309517a
+SHA256: 893a9cf40844634232d92ba88d720b579b4e609a66a9aff2da0962e4219c770c
 Size: 2962
 Filename: debs/com.chikuwa.roundcc_0.0.1-1_iphoneos-arm.deb
 Depiction: http://chikuwajb.github.io/repository_description/dp/?p=com.chikuwa.roundcc
@@ -1819,6 +2061,8 @@ Section: Tweaks
 Version: 0.0.1
 Installed-Size: 101
 MD5sum: 5d644fd73f7fcee03c88a013f9fe4786
+SHA1: 4492ed35a2c56f37788d8900774ca7984f29c7e4
+SHA256: a39f42fa2fa9e9796a3cbde77609b5aef2df4403126bfb1b8fffd9f8a886075b
 Size: 7600
 Filename: debs/com.chikuwa.runfieldtestaction_0.0.1_iphoneos-arm.deb
 Depiction: http://chikuwajb.github.io/repository_description/dp/?p=com.chikuwa.runfieldtestaction
@@ -1834,6 +2078,8 @@ Section: Tweaks
 Version: 0.0.1
 Installed-Size: 230
 MD5sum: e7a565e0b47f6e0f8926c3799fd700f5
+SHA1: 9ab9a4f189afb3887aeba96dae76f1703024fa34
+SHA256: 8cf38e4e474f3e709bcbd8dc4ab9d2003d231c4cbd0d243acda5f9c3246b6c03
 Size: 29508
 Filename: debs/com.chikuwa.safariclosetabactivator_0.0.1_iphoneos-arm.deb
 Depiction: http://chikuwajb.github.io/repository_description/dp/?p=com.chikuwa.safariclosetabactivator
@@ -1849,6 +2095,8 @@ Section: Tweaks
 Version: 0.0.1-1
 Installed-Size: 69
 MD5sum: 2c3a5985d1294ff5f9a3520a0505ee0f
+SHA1: 6e4a3f8f61e75a7aebb9a725da4def796e1973c5
+SHA256: 28e4ecb5c5147f81ec1c3120f9ef38b1ddf90dfa9d7a22ef828b68ef0c6a082e
 Size: 2960
 Filename: debs/com.chikuwa.sakuraenabler_0.0.1-1_iphoneos-arm.deb
 Depiction: http://chikuwajb.github.io/repository_description/dp/?p=com.chikuwa.sakuraenabler
@@ -1864,6 +2112,8 @@ Section: Addons (Flipswitch)
 Version: 0.0.1-fix
 Installed-Size: 373
 MD5sum: 52811aa447e7a2f7c9a462499540f722
+SHA1: d8231868c4475b5bd786554508fbd4bfae067879
+SHA256: 008775af7f4321cd40025d579a275eb9769bd1e241d0695363a0ec1cf2818065
 Size: 129516
 Filename: debs/com.chikuwa.screenshotflashflipswitch_0.0.1-fix_iphoneos-arm.deb
 Depiction: http://chikuwajb.github.io/repository_description/dp/?p=com.chikuwa.screenshotflashflipswitch
@@ -1879,6 +2129,8 @@ Section: Addons (Flipswitch)
 Version: 0.0.1
 Installed-Size: 373
 MD5sum: 16ee15f2b21eee683b5b1a9321bf8258
+SHA1: 4d71e1aebaac3afe39b838cc0af18e03f39c0deb
+SHA256: af6fef85749a804415eedbb8124ee5827ea64ea50baeae903a62348e325dadae
 Size: 129508
 Filename: debs/com.chikuwa.screenshotflashflipswitch_0.0.1_iphoneos-arm.deb
 Depiction: http://chikuwajb.github.io/repository_description/dp/?p=com.chikuwa.screenshotflashflipswitch
@@ -1894,6 +2146,8 @@ Section: Addons (Flipswitch)
 Version: 0.0.2
 Installed-Size: 373
 MD5sum: 3712c6b6e1afe48ab25e130bb9c980d2
+SHA1: b016cb48799d4eb736b1f387993ebff4479d60f1
+SHA256: 601beeb1b7596ab53e378b9725592a75a5ad6c31d7ba6b654692d30f0a6302b6
 Size: 129518
 Filename: debs/com.chikuwa.screenshotflashflipswitch_0.0.2_iphoneos-arm.deb
 Depiction: http://chikuwajb.github.io/repository_description/dp/?p=com.chikuwa.screenshotflashflipswitch
@@ -1908,6 +2162,8 @@ Section: Utilities
 Version: 0.0.1-1
 Installed-Size: 64
 MD5sum: b783ce229d99aa51c4d46ea6badf91db
+SHA1: c18d9899a4b5dd460167dc688ffcb352eba178e1
+SHA256: b707e202040c5dd5c98d1e4239af4ef8637807f50b44c742bf6e96d19ddf08e1
 Size: 11098
 Filename: debs/com.chikuwa.shutd0wnic0n.deb
 Depiction: http://chikuwajb.github.io/repository_description/dp/?p=com.chikuwa.shutd0wnic0n
@@ -1923,6 +2179,8 @@ Section: Tweaks
 Version: 0.0.1-1
 Installed-Size: 68
 MD5sum: 2529deaca82679f0daa8a9ececc1f716
+SHA1: e5973ba71f24d755d0fd5bc383f8f16c8b3583d6
+SHA256: b0f0834635bb9077a9994b210f5812b212e969bfd2456b1aeeb029531bba3f06
 Size: 3830
 Filename: debs/com.chikuwa.sixdock_0.0.1-1_iphoneos-arm.deb
 Depiction: http://chikuwajb.github.io/repository_description/dp/?p=com.chikuwa.sixdock
@@ -1938,6 +2196,8 @@ Section: Tweaks
 Version: 0.0.1-1
 Installed-Size: 69
 MD5sum: 1e43eb79469f2250622258a2895b23db
+SHA1: 097b91b13aed432e7cfed1e9dd695be8bf9b00dc
+SHA256: 78e40fb3c7acb192627a9e096e898892d3b843740fb83a0261851498b53d2daa
 Size: 2962
 Filename: debs/com.chikuwa.snowenabler_0.0.1-1_iphoneos-arm.deb
 Depiction: http://chikuwajb.github.io/repository_description/dp/?p=com.chikuwa.snowenabler
@@ -1953,6 +2213,8 @@ Section: Tweaks
 Version: 1.0.1-e
 Installed-Size: 251
 MD5sum: 24a107cbc5dcbf8a7ed0f7f0e1054f04
+SHA1: 44afae3bbdde73fcd2b95f5ad7ef5c819f18613e
+SHA256: 46f58fad7c2f5b71f67d6ba7f8116771a0feb13e84d8683cf83aa10740af2c61
 Size: 13202
 Filename: debs/com.chikuwa.speakerstatusbar.e_1.0.1-e_iphoneos-arm.deb
 Depiction: http://chikuwajb.github.io/repository_description/dp/?p=com.chikuwa.speakerstatusbar.e
@@ -1968,6 +2230,8 @@ Section: Tweaks
 Version: 1.0.0-1
 Installed-Size: 186
 MD5sum: a2e5d595e3119e4ef2313c4937c19791
+SHA1: 2eb6a80de8c808da2bfbe3b4027ce610be444339
+SHA256: 42ab79e2be3b98e09d1d62810cc06ee9d777c2226e2e3ae0ee8678f3d2425c27
 Size: 11902
 Filename: debs/com.chikuwa.speakerstatusbar_1.0.0-1_iphoneos-arm.deb
 Depiction: http://chikuwajb.github.io/repository_description/dp/?p=com.chikuwa.speakerstatusbar
@@ -1983,6 +2247,8 @@ Section: Tweaks
 Version: 1.0.1-1
 Installed-Size: 187
 MD5sum: 0e7ade99e36a5c5f758ead38fa9cac14
+SHA1: 7487ac038bf65db55cb8c13dc4fa28252ecafb58
+SHA256: 03f750df9a28eaeed6b1d6aa1f42e95806963a05e49e9e11d8666c31a2e342de
 Size: 12120
 Filename: debs/com.chikuwa.speakerstatusbar_1.0.1-1_iphoneos-arm.deb
 Depiction: http://chikuwajb.github.io/repository_description/dp/?p=com.chikuwa.speakerstatusbar
@@ -1998,6 +2264,8 @@ Section: Tweaks
 Version: 1.0.1-2
 Installed-Size: 186
 MD5sum: ec300e4241361efb091260f269e17ccc
+SHA1: b432107fb83594d4ec2510e607b196721351ba3f
+SHA256: 439bd5f197d0328aa5796d20d53863bff2e71cff657d762a04da37669bd40867
 Size: 11926
 Filename: debs/com.chikuwa.speakerstatusbar_1.0.1-2_iphoneos-arm.deb
 Depiction: http://chikuwajb.github.io/repository_description/dp/?p=com.chikuwa.speakerstatusbar
@@ -2013,6 +2281,8 @@ Section: Tweaks
 Version: 1.0.1-3
 Installed-Size: 187
 MD5sum: b79d3c3c33560e9f3cae9872625a0f95
+SHA1: 58d20970b5c57af3072c4484630bb90ce8195c47
+SHA256: 28c3e7d3e4bbf443deb8430349a3233b8c4a08df2fb93dcd64e4a3afa9be37b9
 Size: 12496
 Filename: debs/com.chikuwa.speakerstatusbar_1.0.1-3_iphoneos-arm.deb
 Depiction: http://chikuwajb.github.io/repository_description/dp/?p=com.chikuwa.speakerstatusbar
@@ -2028,6 +2298,8 @@ Section: Tweaks
 Version: 0.0.1-1
 Installed-Size: 152
 MD5sum: a87a88ef3c4ad3ec545df700553569fa
+SHA1: beeafb990f088be878649274ece7157c6f2eeec0
+SHA256: db9fde3da9cca6028d30eecf1d4d2ca22d8cb95fa1686dae95b8282ebe9790d9
 Size: 7484
 Filename: debs/com.chikuwa.sq_0.0.1-1_iphoneos-arm.deb
 Depiction: http://chikuwajb.github.io/repository_description/dp/?p=com.chikuwa.sq
@@ -2042,6 +2314,8 @@ Section: Tweaks
 Version: 0.0.1-2
 Installed-Size: 168
 MD5sum: 2af98b34c1e590b560615f00cd57d02c
+SHA1: 2e9b8326e902b1e4675e18f769904653db76e86d
+SHA256: 4632470f49cc1a36f19a630ac092bc25401430d0c3415f30a92d8fcc95dcbde4
 Size: 22284
 Filename: debs/com.chikuwa.sq_0.0.1-2_iphoneos-arm.deb
 Depiction: http://chikuwajb.github.io/repository_description/dp/?p=com.chikuwa.sq
@@ -2056,6 +2330,8 @@ Section: Utilities
 Version: 0.0.1-5
 Installed-Size: 56
 MD5sum: c186ef4630241db5b3ac5cb3cc3fab69
+SHA1: d14c749b72028ec2f80c15e98b4685da928d538e
+SHA256: 778584da558a7a67d1edd1c80eb3620b397c2673956ca1787684b06796416648
 Size: 6070
 Filename: debs/com.chikuwa.syslogdconf_0.0.1-5_iphoneos-arm.deb
 Depiction: http://chikuwajb.github.io/repository_description/dp/?p=com.chikuwa.syslogdconf
@@ -2072,6 +2348,8 @@ Tag: role::hacker
 Version: 0.0.1-3
 Installed-Size: 52
 MD5sum: fe6afaa8fe45c0f4cc370959e3fde417
+SHA1: cd7014074080984aa1f869fbaad038a1c4baa6ec
+SHA256: 97bc6e685606ff073fe40f9e2219b54848bf6cdae059b76b0c2ab4f070cb083e
 Size: 1994
 Filename: debs/com.chikuwa.takes.deb
 Depiction: http://chikuwajb.github.io/repository_description/dp/?p=com.chikuwa.takes
@@ -2087,6 +2365,8 @@ Section: Tweaks
 Version: 0.0.1
 Installed-Size: 101
 MD5sum: 772a277a9ab32dd98192aeff88c47584
+SHA1: 94f70b1fbf8eb6dc03e168ed4157eeed941bf2f8
+SHA256: 7dfcc889d0f73fa0da470ff251a64b3b29897f1d2b1275385c63821eb7e8ef4d
 Size: 4320
 Filename: debs/com.chikuwa.transcamera_0.0.1_iphoneos-arm.deb
 Depiction: http://chikuwajb.github.io/repository_description/dp/?p=com.chikuwa.transcamera
@@ -2102,6 +2382,8 @@ Section: Tweaks
 Version: 0.0.1-1
 Installed-Size: 101
 MD5sum: 3822d05e3d0f336da9d74596acbedd51
+SHA1: 8a99bbfa0d5620563859360a264e0d96e4c19c43
+SHA256: a9dd496fdc7512378de076d5304a852464b65780177f5f3a10a821a754d14c37
 Size: 3368
 Filename: debs/com.chikuwa.transdockandfolderbackground_0.0.1-1_iphoneos-arm.deb
 Depiction: http://chikuwajb.github.io/repository_description/dp/?p=com.chikuwa.transdockandfolderbackground
@@ -2117,6 +2399,8 @@ Section: Tweaks
 Version: 0.0.1-1
 Installed-Size: 69
 MD5sum: b19d783da2bd60b356550e5511de2d9a
+SHA1: fce9fd8c326caeaea94ba66e379a8e795b4af76f
+SHA256: 7d3f9ff89b5d1d2253ddd460b953e1d53f0812c568e378689dce66a945e13ce1
 Size: 3004
 Filename: debs/com.chikuwa.transparentdock_0.0.1-1_iphoneos-arm.deb
 Depiction: http://chikuwajb.github.io/repository_description/dp/?p=com.chikuwa.transparentdock
@@ -2132,6 +2416,8 @@ Section: Tweaks
 Version: 0.0.1
 Installed-Size: 101
 MD5sum: 6325239d5ea8faa67b98950fa68c4947
+SHA1: 80713290f3cf80f953deaddac59a213806fa713b
+SHA256: 3cdd7a4ebacc00057d519cb75666a7d8c27a08184bb2b9eb5d8fe341083bc0ee
 Size: 11280
 Filename: debs/com.chikuwa.twitter_0.0.1_iphoneos-arm.deb
 Depiction: http://chikuwajb.github.io/repository_description/dp/?p=com.chikuwa.twitter
@@ -2147,6 +2433,8 @@ Section: Tweaks
 Version: 0.0.1-1
 Installed-Size: 214
 MD5sum: ebfc3a495f37652c1bc89233a595bd09
+SHA1: 961dbfde809654a1b2f1f633c6002a37e59e390c
+SHA256: 0fe3123abae84247d1deed8e2acf4b6bc5d3a915688acfa81d3f7fbf259b9a87
 Size: 12066
 Filename: debs/com.chikuwa.uiswitchcolor_0.0.1-1_iphoneos-arm.deb
 Depiction: http://chikuwajb.github.io/repository_description/dp/?p=com.chikuwa.uiswitchcolor
@@ -2162,6 +2450,8 @@ Section: Tweaks
 Version: 0.0.1-1
 Installed-Size: 152
 MD5sum: d0c28bf3915e6307fc457ef6b5b50963
+SHA1: d638c3cda0dd2f32d65092568750c9c4c8071bf4
+SHA256: cb2d93fc04d41584baf37df85d948f447800c8e8ecde0479c53a69d294ca8ce4
 Size: 14218
 Filename: debs/com.chikuwa.unlockblocker_0.0.1-1_iphoneos-arm.deb
 Depiction: http://chikuwajb.github.io/repository_description/dp/?p=com.chikuwa.unlockblocker
@@ -2177,6 +2467,8 @@ Section: Tweaks
 Version: 0.0.1
 Installed-Size: 101
 MD5sum: a866ce16b73f91e63dfc451ce199831f
+SHA1: e8fda0aabd786cd7d84008e8924fed8c0d90a04c
+SHA256: ad156dd1e949a0f7421b447447b561b337bda5de6731162d5b5d752f9960297e
 Size: 7586
 Filename: debs/com.chikuwa.unlockrequestaction_0.0.1_iphoneos-arm.deb
 Depiction: http://chikuwajb.github.io/repository_description/dp/?p=com.chikuwa.unlockrequestaction
@@ -2191,6 +2483,8 @@ Maintainer: Chikuwa <yuko.mail.10.2@gmail.com>
 Author: Chikuwa <yuko.mail.10.2@hogehoge.com>
 Section: System
 MD5sum: a788ae8128e8ddc2e8b3a20b33564023
+SHA1: 0d45ee2da06007754f7835f32bf3d0ef2fbdf673
+SHA256: c71d9a372a16a8b03efd36f540c2673da9e78ad2c03cbab608bdf140ea09210f
 Size: 6128
 Filename: debs/com.chikuwa.youtube.deb
 Depiction: http://chikuwajb.github.io/repository_description/dp/?p=com.chikuwa.youtube
@@ -2205,6 +2499,8 @@ Section: Utilities
 Version: 0.0.1-2
 Installed-Size: 64
 MD5sum: 60f06863c9923618d7f654a8a6b2e2ea
+SHA1: e6e0b10aaf1abdee9804d4f84a7e81a3c409bc2e
+SHA256: bbfa7c20197ac25a625c2c0b5113546b512a7d0cb52fb7249a9e5cd773ed0af6
 Size: 11714
 Filename: debs/com.chikwa.safem0deicon.deb
 Depiction: http://chikuwajb.github.io/repository_description/dp/?p=com.chikwa.safem0deicon
@@ -2220,6 +2516,8 @@ Section: Utilities
 Version: 0.0.1-200
 Installed-Size: 4752
 MD5sum: 1414cb0af8d7b6bcdc637c603300e5ad
+SHA1: 1ace191fed4a9b0664debbe345b85452b4d3e4d7
+SHA256: d91ab8600087d17a1a6aa954159c68e62cb44e737baf4093f4db8b02764940e0
 Size: 4530190
 Filename: debs/com.jake0oo0.appster.deb
 Depiction: http://chikuwajb.github.io/repository_description/dp/?p=com.jake0oo0.appster
@@ -2236,6 +2534,8 @@ Maintainer: poetic_folly <poetic_folly@modmyi.com>
 Section: Tweaks
 Sponsor: ModMyi.com <http://modmyi.com/forums/index.php?styleid=31>
 MD5sum: af4ba4245779f49d45137e5308a076a1
+SHA1: b0d405f2b8161b01d5ccdf0a8a39126f6fada50b
+SHA256: f1855a6066999028ca135e6a7151212ae775f85ec34113b7d04e23b9ba33d8e0
 Size: 20908
 Filename: debs/com.ott.imeplus.deb
 Depiction: http://chikuwajb.github.io/repository_description/dp/?p=com.ott.imeplus
@@ -2248,6 +2548,8 @@ Description: iOS9の壁紙 feat.KR-KP
 Author: Chikuwa
 Section: Wallpaper
 MD5sum: aa1390ba19b619f0baf9fdc7744b6861
+SHA1: 013d84288cf4b7d9b33894772f4ddeda51e3c341
+SHA256: ba43cb791eb95dfb7284a2cad68f1d62ad100d0863e6ac1d35eedbb879a0e289
 Size: 36970304
 Filename: debs/ios9wallpapers.deb
 Depiction: http://chikuwajb.github.io/repository_description/dp/?p=com.chikuwa.ios9wallpaper
@@ -2266,6 +2568,8 @@ Section: Tweaks
 Sponsor: ModMyi.com <http://modmyi.com/forums/index.php?styleid=31>
 tag: cydia::commercial
 MD5sum: d37f907eece1f13221bfa15fb8032405
+SHA1: e4eca2a86116b30e5c87652e4d2defbd86849838
+SHA256: 7d414da97018c8b7503d7773c03bb6cc86da41545e4bb289790e63bd09e75aee
 Size: 376080
 Filename: debs/me.chewitt.seng_1.0.1_iphoneos-arm.deb
 Depiction: http://chikuwajb.github.io/repository_description/dp/?p=me.chewitt.seng
